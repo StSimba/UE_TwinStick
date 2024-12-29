@@ -2559,3 +2559,65 @@ Sampler Limit: 32
 [2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.29-13.17.02:702][160]AssetCheck: /Game/NewMap Validating asset
 [2024.12.29-13.17.02:702][160]AssetCheck: /Game/NewMap_HLOD0_Instancing Validating asset
+[2024.12.29-13.19.48:587][990]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.29-13.19.50:690][ 97]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.29-13.19.50:695][ 97]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.29-13.20.07:001][165]Cmd: CLOSE_SLATE_MAINFRAME
+[2024.12.29-13.20.07:012][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.29-13.20.07:087][165]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.12.29-13.20.07:470][165]LogSlate: Window 'PeliohjelmointiFinal - Unreal Editor' being destroyed
+[2024.12.29-13.20.07:558][166]Cmd: QUIT_EDITOR
+[2024.12.29-13.20.07:558][167]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.29-13.20.07:574][167]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.29-13.20.07:574][167]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.29-13.20.07:574][167]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.29-13.20.07:583][167]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.29-13.20.07:583][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.29-13.20.07:583][167]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2024.12.29-13.20.07:592][167]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.29-13.20.07:598][167]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.29-13.20.07:598][167]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.29-13.20.07:598][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.29-13.20.07:598][167]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.29-13.20.07:598][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.29-13.20.07:598][167]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.29-13.20.07:598][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.29-13.20.07:598][167]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.29-13.20.07:602][167]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.29-13.20.07:602][167]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.29-13.20.07:602][167]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.29-13.20.07:608][167]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.29-13.20.07:608][167]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.29-13.20.07:608][167]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2024.12.29-13.20.07:608][167]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.29-13.20.07:608][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.29-13.20.07:608][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.29-13.20.07:616][167]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.29-13.20.07:616][167]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.29-13.20.07:619][167]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.29-13.20.07:623][167]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.29-13.20.07:623][167]LogExit: Preparing to exit.
+[2024.12.29-13.20.07:669][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.29-13.20.08:852][167]LogEditorDataStorage: Deinitializing
+[2024.12.29-13.20.08:923][167]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.29-13.20.08:932][167]LogExit: Editor shut down
+[2024.12.29-13.20.08:933][167]LogExit: Transaction tracking system shut down
+[2024.12.29-13.20.09:109][167]LogExit: Object subsystem successfully closed.
+[2024.12.29-13.20.09:142][167]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.29-13.20.09:651][167]LogMemoryProfiler: Shutdown
+[2024.12.29-13.20.09:651][167]LogNetworkingProfiler: Shutdown
+[2024.12.29-13.20.09:651][167]LoadingProfiler: Shutdown
+[2024.12.29-13.20.09:652][167]LogTimingProfiler: Shutdown
+[2024.12.29-13.20.09:967][167]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.29-13.20.09:967][167]RenderDocPlugin: plugin has been unloaded.
+[2024.12.29-13.20.10:003][167]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.29-13.20.10:003][167]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7951150E-4D75-966D-1229-FE987EC04981%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=0ead995649ac467fd95702a763bb4578%7C3efe09576e9c4013a009b506443f07e4%7Caf144b98-bcfb-4b7a-ae65-a30856fce61f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.29-13.20.10:534][167]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.29-13.20.10:540][167]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.29-13.20.10:540][167]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.29-13.20.10:541][167]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.29-13.20.10:541][167]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.29-13.20.10:541][167]LogPakFile: Destroying PakPlatformFile
+[2024.12.29-13.20.10:709][167]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.29-13.20.10:810][167]LogExit: Exiting.
+[2024.12.29-13.20.10:825][167]Log file closed, 12/29/24 15:20:10

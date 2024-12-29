@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\source\\peliohjelmointifinal\\basecharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\intermediate\\build\\win64\\x64\\peliohjelmointifinaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\peliohjelmointifinal\\definitions.peliohjelmointifinal.h",
+            "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\source\\peliohjelmointifinal\\basecharacter.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\intermediate\\build\\win64\\unrealeditor\\inc\\peliohjelmointifinal\\uht\\basecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

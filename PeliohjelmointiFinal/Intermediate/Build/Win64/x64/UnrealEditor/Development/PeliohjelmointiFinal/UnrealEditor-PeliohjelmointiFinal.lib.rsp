@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PeliohjelmointiFinal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\PeliohjelmointiFinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\BaseCharacter.gen.cpp.obj"
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\PeliohjelmointiFinal.init.gen.cpp.obj"
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\BaseCharacter.cpp.obj"
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\PeliohjelmointiFinal.cpp.obj"
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\PerModuleInline.gen.cpp.obj"
+"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\Default.rc2.res"
+/OUT:"G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Intermediate\Build\Win64\x64\UnrealEditor\Development\PeliohjelmointiFinal\UnrealEditor-PeliohjelmointiFinal.lib"

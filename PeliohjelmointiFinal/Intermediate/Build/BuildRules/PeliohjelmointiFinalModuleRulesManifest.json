@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Opiskelu\\Peliohjelmointi\\UE_TwinStick\\UE_TwinStick\\PeliohjelmointiFinal\\Source\\PeliohjelmointiFinal\\PeliohjelmointiFinal.Build.cs",
+		"G:\\Opiskelu\\Peliohjelmointi\\UE_TwinStick\\UE_TwinStick\\PeliohjelmointiFinal\\Source\\PeliohjelmointiFinal.Target.cs",
+		"G:\\Opiskelu\\Peliohjelmointi\\UE_TwinStick\\UE_TwinStick\\PeliohjelmointiFinal\\Source\\PeliohjelmointiFinalEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

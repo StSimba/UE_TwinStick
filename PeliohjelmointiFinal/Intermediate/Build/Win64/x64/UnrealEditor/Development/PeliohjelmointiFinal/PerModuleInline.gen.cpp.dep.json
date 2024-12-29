@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\peliohjelmointifinal\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\intermediate\\build\\win64\\x64\\peliohjelmointifinaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "g:\\opiskelu\\peliohjelmointi\\ue_twinstick\\ue_twinstick\\peliohjelmointifinal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\peliohjelmointifinal\\definitions.peliohjelmointifinal.h",
+            "g:\\opiskelu\\unreal_engine\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

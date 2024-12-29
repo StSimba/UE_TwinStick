@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PeliohjelmointiFinal",
+			"Path": "..\\Source\\PeliohjelmointiFinal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PeliohjelmointiFinalEditor",
+			"Path": "..\\Source\\PeliohjelmointiFinalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
