@@ -1376,3 +1376,1186 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2024.12.29-12.30.01:984][ 27]LogFab: Display: User logged in
 [2024.12.29-12.30.01:984][ 27]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2024.12.29-12.30.02:651][ 29]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-CAZ1VjrKGU6sR50EDPwTNA-RtWnz0AZzkSeFcXgSIzWxw]
+[2024.12.29-12.31.43:686][413]LogDerivedDataCache: C:/Users/san77/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.29-12.35.23:708][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 333.942413
+[2024.12.29-12.35.25:042][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-12.35.25:042][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 334.942383, Update Interval: 324.809723
+[2024.12.29-12.40.53:430][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 663.664673
+[2024.12.29-12.40.54:430][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-12.40.54:430][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 664.331482, Update Interval: 318.655365
+[2024.12.29-12.46.20:152][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 990.387512
+[2024.12.29-12.46.21:152][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-12.46.21:152][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 991.054199, Update Interval: 343.179413
+[2024.12.29-12.49.33:021][821]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.29-12.50.28:501][219]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.12.29-12.50.28:507][219]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.12.29-12.50.29:080][223]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2024.12.29-12.50.41:065][230]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.29-12.50.54:839][856]LogShaderCompilers: Display: ================================================
+[2024.12.29-12.50.54:839][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.29-12.50.54:839][856]LogShaderCompilers: Display: Total job queries 185, among them cache hits 16 (8.65%), DDC hits 147 (79.46%), Duplicates 4 (2.16%)
+[2024.12.29-12.50.54:839][856]LogShaderCompilers: Display: Tracking 165 distinct input hashes that result in 157 distinct outputs (95.15%)
+[2024.12.29-12.50.54:839][856]LogShaderCompilers: Display: RAM used: 124,17 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.29-12.50.54:839][856]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Shaders Compiled: 18
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Average time worker was idle: 0.25 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Time job spent in pending queue: average 1.70 s, longest 7.75 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 7.99 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Job life time (pending + execution): average 3.54 s, max 8.66
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Shader code size: average 7,648 KiB, min 3,949 KiB, max 12,691 KiB
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.50 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Average processing rate: 1.44 jobs/sec
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Total thread time: 11,791 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Total thread preprocess time: 2,441 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Percentage time preprocessing: 20.71%
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Effective parallelization: 0.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.12 sec, max 1.20 sec, min 1.04 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.61 sec, max 0.63 sec, min 0.58 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.99% of total time (compiled    2 times, average 1.12 sec, max 1.20 sec, min 1.04 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.45% of total time (compiled    3 times, average 0.61 sec, max 0.63 sec, min 0.58 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.74% of total time (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.93% of total time (compiled    3 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.29% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: === Material stats ===
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Materials Translated:    125
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Material Translation Only: 0.04 s (31%)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: Material Cache Hits: 17 (14%)
+[2024.12.29-12.50.54:840][856]LogShaderCompilers: Display: ================================================
+[2024.12.29-12.52.15:369][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1345.607666
+[2024.12.29-12.52.17:158][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-12.52.17:158][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1347.378418, Update Interval: 355.284882
+[2024.12.29-12.57.40:310][364]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.29-12.57.40:319][364]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.29-12.58.30:808][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1721.052856
+[2024.12.29-12.58.31:809][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-12.58.31:810][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1721.719849, Update Interval: 315.681641
+[2024.12.29-12.58.50:726][586]LogSlate: Window 'PeliohjelmointiFinal - Unreal Editor' being destroyed
+[2024.12.29-12.58.50:727][586]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.29-12.58.50:782][586]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.29-12.58.50:859][586]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.12.29-12.58.50:930][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.29-12.58.50:999][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.29-12.58.51:069][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.29-12.58.51:138][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.29-12.59.15:028][827]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.29-12.59.15:894][888]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: ================================================
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Total job queries 189, among them cache hits 18 (9.52%), DDC hits 147 (77.78%), Duplicates 4 (2.12%)
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Tracking 167 distinct input hashes that result in 158 distinct outputs (94.61%)
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: RAM used: 124,49 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Average time worker was idle: 59.26 s
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Time job spent in pending queue: average 1.54 s, longest 7.75 s
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Job execution time: average 2.13 s, max 7.99 s
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Job life time (pending + execution): average 3.66 s, max 8.66
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Shader code size: average 7,562 KiB, min 3,949 KiB, max 12,691 KiB
+[2024.12.29-12.59.54:888][121]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.32 s
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Average processing rate: 1.15 jobs/sec
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Total thread time: 12,761 s
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Total thread preprocess time: 2,489 s
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Percentage time preprocessing: 19.51%
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Effective parallelization: 0.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.12 sec, max 1.20 sec, min 1.04 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.60 sec, max 0.63 sec, min 0.57 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.76% of total time (compiled    4 times, average 0.60 sec, max 0.63 sec, min 0.57 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.55% of total time (compiled    2 times, average 1.12 sec, max 1.20 sec, min 1.04 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.69% of total time (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.29% of total time (compiled    4 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.73% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: === Material stats ===
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Materials Translated:    125
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Material Translation Only: 0.04 s (31%)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: Material Cache Hits: 17 (14%)
+[2024.12.29-12.59.54:889][121]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.00.46:844][880]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.29-13.00.47:867][881]LogD3D12RHI: Compiled LumenReflectionHardwareRayTracingRGS for RTPSO in 1003.13 ms.
+[2024.12.29-13.00.47:948][881]LogD3D12RHI: Creating RTPSO with 18 shaders (0 cached, 18 new) took 1086.56 ms. Compile time 1005.03 ms, link time 81.51 ms.
+[2024.12.29-13.00.48:303][881]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 599.76 ms. Compile time 597.18 ms, link time 2.56 ms.
+[2024.12.29-13.01.09:551][573]Cmd: EDIT COPY
+[2024.12.29-13.01.09:771][587]Cmd: EDIT PASTE
+[2024.12.29-13.01.16:170][849]Cmd: EDIT COPY
+[2024.12.29-13.01.16:355][861]Cmd: EDIT PASTE
+[2024.12.29-13.01.43:201][255]Cmd: EDIT COPY
+[2024.12.29-13.01.43:390][269]Cmd: EDIT PASTE
+[2024.12.29-13.02.37:596][787]LogD3D12RHI: Creating RTPSO with 24 shaders (21 cached, 3 new) took 132.04 ms. Compile time 129.59 ms, link time 2.43 ms.
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Total job queries 209, among them cache hits 29 (13.88%), DDC hits 147 (70.33%), Duplicates 4 (1.91%)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Tracking 176 distinct input hashes that result in 164 distinct outputs (93.18%)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: RAM used: 127,01 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Shaders Compiled: 29
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Jobs assigned 29, completed 29 (100%)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Average time worker was idle: 68.34 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Time job spent in pending queue: average 2.64 s, longest 7.75 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Job execution time: average 2.37 s, max 7.99 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Job life time (pending + execution): average 5.00 s, max 8.66
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Shader code size: average 6,954 KiB, min 2,293 KiB, max 12,691 KiB
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.14 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Average processing rate: 1.07 jobs/sec
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Total thread time: 18,668 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Total thread preprocess time: 2,771 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Percentage time preprocessing: 14.85%
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.12 sec, max 1.20 sec, min 1.04 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.64 sec, max 0.77 sec, min 0.57 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.56 sec, max 0.57 sec, min 0.55 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.50 sec, max 0.55 sec, min 0.45 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.58% of total time (compiled    6 times, average 0.64 sec, max 0.77 sec, min 0.57 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.00% of total time (compiled    2 times, average 1.12 sec, max 1.20 sec, min 1.04 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.30% of total time (compiled    5 times, average 0.38 sec, max 0.40 sec, min 0.35 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.68% of total time (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 8.02% of total time (compiled    3 times, average 0.50 sec, max 0.55 sec, min 0.45 sec)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: === Material stats ===
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Materials Translated:    125
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Material Translation Only: 0.04 s (31%)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: Material Cache Hits: 17 (14%)
+[2024.12.29-13.02.55:079][225]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.03.05:526][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.29-13.03.05:543][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto1
+[2024.12.29-13.03.05:543][256]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Untitled_1_Auto18439D9AB406DEB84A7D991B304CF440F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2024.12.29-13.03.05:545][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.083
+[2024.12.29-13.03.05:545][256]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2024.12.29-13.04.21:473][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2071.719727
+[2024.12.29-13.04.22:147][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-13.04.22:147][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2072.384277, Update Interval: 323.313690
+[2024.12.29-13.06.05:061][750]Cmd: TRANSACTION UNDO
+[2024.12.29-13.06.05:061][750]LogEditorTransaction: Undo Clicking on Actors
+[2024.12.29-13.06.28:144][169]Cmd: DELETE
+[2024.12.29-13.06.28:144][169]Cmd: ACTOR DELETE
+[2024.12.29-13.06.28:167][169]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.12.29-13.06.28:189][169]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.12.29-13.06.28:208][169]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.12.29-13.06.28:227][169]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.12.29-13.06.28:255][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.29-13.06.28:258][169]LogEditorActor: Deleted 4 Actors (0.112 secs)
+[2024.12.29-13.06.36:704][855]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.12.29-13.07.08:808][511]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.29-13.08.12:745][574]Cmd: POLY SELECT MATCHING BRUSH
+[2024.12.29-13.08.27:240][200]Cmd: POLY SELECT ADJACENT ALL
+[2024.12.29-13.08.35:878][497]Cmd: EDCALLBACK SURFPROPS
+[2024.12.29-13.08.50:884][419]Cmd: POLY SELECT MATCHING TEXTURE
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Total job queries 220, among them cache hits 29 (13.18%), DDC hits 147 (66.82%), Duplicates 4 (1.82%)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Tracking 187 distinct input hashes that result in 174 distinct outputs (93.05%)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: RAM used: 130,14 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Shaders Compiled: 40
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Average time worker was idle: 77.64 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Time job spent in pending queue: average 2.74 s, longest 7.75 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Job execution time: average 2.80 s, max 7.99 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Job life time (pending + execution): average 5.54 s, max 8.66
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Shader code size: average 7,009 KiB, min 2,293 KiB, max 12,691 KiB
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.82 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Average processing rate: 0.96 jobs/sec
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Total thread time: 24,806 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Total thread preprocess time: 2,895 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Percentage time preprocessing: 11.67%
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.17 sec, max 1.28 sec, min 1.04 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.63 sec, max 0.77 sec, min 0.56 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    3 times, average 0.53 sec, max 0.57 sec, min 0.46 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.50 sec, max 0.55 sec, min 0.45 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.84% of total time (compiled    9 times, average 0.63 sec, max 0.77 sec, min 0.56 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.20% of total time (compiled    3 times, average 1.17 sec, max 1.28 sec, min 1.04 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.74% of total time (compiled    8 times, average 0.40 sec, max 0.43 sec, min 0.35 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.53% of total time (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display:                                                  FHitProxyPS - 6.39% of total time (compiled    3 times, average 0.53 sec, max 0.57 sec, min 0.46 sec)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: === Material stats ===
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Materials Translated:    125
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Material Translation Only: 0.04 s (31%)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: Material Cache Hits: 17 (14%)
+[2024.12.29-13.08.55:142][513]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.09.27:568][  5]Cmd: POLY SELECT MATCHING TEXTURE
+[2024.12.29-13.10.20:927][ 72]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.10.27:781][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2438.031738
+[2024.12.29-13.10.27:959][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-13.10.27:959][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2438.198730, Update Interval: 316.095459
+[2024.12.29-13.10.37:638][492]Cmd: POLY SELECT ADJACENT ALL
+[2024.12.29-13.10.41:081][842]Cmd: POLY SELECT ADJACENT COPLANARS
+[2024.12.29-13.10.44:971][249]Cmd: POLY SELECT ADJACENT WALLS
+[2024.12.29-13.10.57:148][104]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2024.12.29-13.10.57:155][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2024.12.29-13.10.57:155][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2024.12.29-13.10.57:156][104]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2024.12.29-13.10.57:156][104]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2024.12.29-13.10.57:187][104]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.29-13.10.57:195][104]LogStreaming: Display: FlushAsyncLoading(489): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.10.57:209][104]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2024.12.29-13.10.57:217][104]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2024.12.29-13.10.57:227][104]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.12.29-13.10.57:238][104]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2024.12.29-13.10.57:240][104]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2024.12.29-13.10.57:627][104]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.29-13.10.57:627][104]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.12.29-13.10.57:627][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.29-13.10.57:627][104]MaterialEditorStats: Shader Count: 0
+[2024.12.29-13.10.57:627][104]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.29-13.10.57:641][104]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: Shader Count: 3
+[2024.12.29-13.10.57:894][106]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.29-13.10.58:882][160]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
+[2024.12.29-13.10.59:773][213]LogSlate: Window 'M_Brick_Cut_Stone' being destroyed
+[2024.12.29-13.10.59:778][213]LogSlate: Window 'M_Brick_Cut_Stone' being destroyed
+[2024.12.29-13.11.31:685][ 42]Cmd: POLY SELECT MATCHING TEXTURE
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Total job queries 244, among them cache hits 38 (15.57%), DDC hits 147 (60.25%), Duplicates 4 (1.64%)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 184 distinct outputs (91.09%)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: RAM used: 133,14 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Shaders Compiled: 55
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Jobs assigned 55, completed 55 (100%)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Average time worker was idle: 67.58 s
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Time job spent in pending queue: average 3.49 s, longest 10.36 s
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Job execution time: average 3.06 s, max 9.49 s
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Job life time (pending + execution): average 6.55 s, max 10.97
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Shader code size: average 7,186 KiB, min 2,293 KiB, max 12,879 KiB
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 61.42 s
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Jobs were issued in 55 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Average processing rate: 0.90 jobs/sec
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Total thread time: 37,209 s
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Total thread preprocess time: 3,233 s
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Percentage time preprocessing: 8.69%
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Effective parallelization: 0.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.38 sec, max 1.98 sec, min 1.04 sec)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.67 sec, max 0.98 sec, min 0.49 sec)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    6 times, average 0.54 sec, max 0.64 sec, min 0.40 sec)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    3 times, average 0.53 sec, max 0.57 sec, min 0.46 sec)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.31% of total time (compiled    6 times, average 1.38 sec, max 1.98 sec, min 1.04 sec)
+[2024.12.29-13.11.55:149][855]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.61% of total time (compiled   12 times, average 0.67 sec, max 0.98 sec, min 0.49 sec)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.56% of total time (compiled   11 times, average 0.46 sec, max 0.74 sec, min 0.35 sec)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.77% of total time (compiled    6 times, average 0.54 sec, max 0.64 sec, min 0.40 sec)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.12% of total time (compiled    6 times, average 0.44 sec, max 0.54 sec, min 0.38 sec)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: === Material stats ===
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: Materials Translated:    137
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: Material Translation Only: 0.04 s (30%)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: Material Cache Hits: 17 (12%)
+[2024.12.29-13.11.55:150][855]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.12.09:054][862]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.12.10:502][966]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.12.15:452][333]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.12.32:404][390]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.12.48:221][437]Cmd: TRANSACTION UNDO
+[2024.12.29-13.12.48:221][437]LogEditorTransaction: Undo Place Objects
+[2024.12.29-13.12.48:245][437]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_2131' invalid (220 verts, 0 indices).
+[2024.12.29-13.13.45:500][  5]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: Total job queries 274, among them cache hits 43 (15.69%), DDC hits 147 (53.65%), Duplicates 4 (1.46%)
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 199 distinct outputs (87.67%)
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: RAM used: 141,82 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: Shaders Compiled: 80
+[2024.12.29-13.14.55:151][497]LogShaderCompilers: Display: Jobs assigned 80, completed 80 (100%)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Average time worker was idle: 51.29 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Time job spent in pending queue: average 3.14 s, longest 10.36 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Job execution time: average 2.82 s, max 9.49 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Job life time (pending + execution): average 5.96 s, max 10.97
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Shader code size: average 7,718 KiB, min 2,293 KiB, max 15,57 KiB
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 83.66 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Average processing rate: 0.96 jobs/sec
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Total thread time: 56,422 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Total thread preprocess time: 3,626 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Effective parallelization: 0.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.42 sec, max 1.98 sec, min 1.04 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 0.70 sec, max 0.98 sec, min 0.49 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled   11 times, average 0.56 sec, max 0.70 sec, min 0.40 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    3 times, average 0.53 sec, max 0.57 sec, min 0.46 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.70% of total time (compiled   11 times, average 1.42 sec, max 1.98 sec, min 1.04 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.13% of total time (compiled   17 times, average 0.70 sec, max 0.98 sec, min 0.49 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.79% of total time (compiled   16 times, average 0.49 sec, max 0.74 sec, min 0.35 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.85% of total time (compiled   11 times, average 0.56 sec, max 0.70 sec, min 0.40 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.98% of total time (compiled   11 times, average 0.46 sec, max 0.59 sec, min 0.35 sec)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: === Material stats ===
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Materials Translated:    142
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Material Translation Only: 0.04 s (29%)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: Material Cache Hits: 17 (12%)
+[2024.12.29-13.14.55:152][497]LogShaderCompilers: Display: ================================================
+[2024.12.29-13.16.34:029][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2804.280518
+[2024.12.29-13.16.35:030][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.29-13.16.35:030][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2804.947510, Update Interval: 357.571960
+[2024.12.29-13.16.38:423][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.29-13.16.38:486][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto2
+[2024.12.29-13.16.38:486][961]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Untitled_1_Auto24118C9C646DA6B8E032A00AD4A2CB52A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2024.12.29-13.16.38:489][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.103
+[2024.12.29-13.16.38:489][961]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.103
+[2024.12.29-13.16.59:806][160]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.29-13.16.59:933][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.29-13.16.59:970][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.29-13.17.00:029][160]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.12.29-13.17.00:029][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/NewMap332687A5469EB284969A0789CAFBFCFF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/NewMap.umap'
+[2024.12.29-13.17.00:077][160]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+/Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+/Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+/Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+/Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+/Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+/Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+/Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+/Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+/Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+/Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+/Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+/Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+/Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+/Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+/Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+/Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+/Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+/Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+/Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+/Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+/Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+/Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+/Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+/Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+/Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+/Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+/Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+/Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+/Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+/Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+/Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+/Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+/Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+/Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+/Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+/Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+/Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+/Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+/Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+/Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+/Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+/Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+/Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+/Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+/Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+/Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+/Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+/Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+/Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+/Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+/Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+/Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+/Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+/Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+/Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+/Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+/Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+/Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+/Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+/Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+/Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+/Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+/Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+/Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+/Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+/Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+/Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+/Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+/Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+/Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+/Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+/Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+/Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+/Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+/Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+/Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+/Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+/Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+/Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+/Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+/Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+/Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+/Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+/Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+/Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+/Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+/Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+/Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+/Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+/Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+/Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+/Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+/Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+/Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+/Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+/Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+/Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+/Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+/Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+/Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+/Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+/Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+/Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+/Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+/Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+/Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+/Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+/Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+/Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+/Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+/Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+/Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+/Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+/Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+/Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+/Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+/Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+/Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+/Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+/Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+/Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+/Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+/Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+/Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+/Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+/Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+/Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+/Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+/Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+/Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+/Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+/Game/__ExternalObjects__/NewMap/A/IC/9I8GHMA4VIJH3LO78GV7I3
+/Game/__ExternalObjects__/NewMap/8/IQ/LJHS27GMMDLPVZ6SPYDMEA
+/Game/__ExternalObjects__/NewMap/7/0C/FL30LU7CB1YO6BCF79UH3R
+/Game/__ExternalObjects__/NewMap/5/N1/J0GK1XWL3ZQMJDFH6EQTKN
+/Game/__ExternalObjects__/NewMap/1/UB/KACKN2GJ794UX1TIY9BZVT
+/Game/__ExternalObjects__/NewMap/3/S0/8GP5BBQC0XOKKK0CG3UY77
+/Game/__ExternalObjects__/NewMap/2/LK/M1HV030KG53RUK3UU8QYVW
+/Game/__ExternalObjects__/NewMap/4/PO/MH3XHQJ0SHJI4XQC3M3CSC
+/Game/__ExternalObjects__/NewMap/1/00/7QPX23LEW8G2N0163LEICS
+/Game/__ExternalObjects__/NewMap/2/O0/7VQKSX0YRHGR9TCKSGTBSI
+/Game/__ExternalObjects__/NewMap/9/SO/PMESCTKJGU9JZ7ISDKSMHM
+/Game/__ExternalObjects__/NewMap/C/7X/D29T6EZSZBWOO3G8EEX2R4
+/Game/__ExternalObjects__/NewMap/2/J8/XATVZX7Y2DHDKATIKY1TWQ
+/Game/__ExternalObjects__/NewMap/9/YT/3N33XJ5KXWWYR9R1YOGGSX
+/Game/__ExternalObjects__/NewMap/B/ZC/IKMY6IVT54XAND4Z0GB9MT
+/Game/__ExternalObjects__/NewMap/C/US/0A6P08LJE544W6QB532D9I
+/Game/__ExternalObjects__/NewMap/3/1V/9EF2IJHV1F4K4N6K5BS9VV
+/Game/__ExternalObjects__/NewMap/B/5X/SQ18R2HL9O10WCZ0TC3MVC
+/Game/__ExternalObjects__/NewMap/E/S2/9HBE1YFT0LLDMNCPB4YF1D
+/Game/__ExternalObjects__/NewMap/A/HJ/PM97GVTSWQMHPCSROZWFCB
+/Game/__ExternalObjects__/NewMap/4/5W/J3ESKC6NHMLVNYED5N7IZ8
+/Game/__ExternalObjects__/NewMap/B/T2/9Z15Q7LPNOX5GN5YSTZG69
+/Game/__ExternalObjects__/NewMap/A/QK/K25KCRPKNXMEIWPO81J7G1
+/Game/__ExternalObjects__/NewMap/B/EL/N8XE21FIZDLL5W2X0D8I7V
+/Game/__ExternalObjects__/NewMap/7/0A/MWC7Q121XE2LCJDAD5OFHX
+/Game/__ExternalObjects__/NewMap/D/DU/ZG3UIRMMAVPDG1QC8BXODA
+/Game/__ExternalObjects__/NewMap/B/O7/G422U5A6U8X3DOD8AHPD8O
+/Game/__ExternalObjects__/NewMap/4/TE/EL2ZWW6C6L9B5IAXUXMTOT
+/Game/__ExternalObjects__/NewMap/A/6K/TQYDCEYIZZFIVW6X7GQC8O
+/Game/__ExternalObjects__/NewMap/B/U1/AEGX9QJH7U1ETHUYW5S09D
+/Game/__ExternalObjects__/NewMap/B/7J/JL00TR50YFMOSJNM81CU7N
+/Game/__ExternalObjects__/NewMap/7/9D/WN2YFJHDCUR7DV3063SER5
+/Game/__ExternalObjects__/NewMap/A/B3/BHVMLEJTMAC6Z659UH6JMA
+/Game/__ExternalObjects__/NewMap/E/2G/ZY16FHHV1EMT03NVFOLYL3
+/Game/__ExternalObjects__/NewMap/1/TM/00KOVPGMZVSCX5D2KLX1ZW
+/Game/__ExternalObjects__/NewMap/2/6I/Q8DKMKMVEMOS29GBZ6YFFG
+/Game/__ExternalObjects__/NewMap/E/IM/MLEVQ2OVYLCEVUQDGNM7ZI
+/Game/__ExternalObjects__/NewMap/4/4O/YYM4YEPPJN7IG697RZ2VL9
+/Game/__ExternalObjects__/NewMap/9/JH/4NGD98BVXVFXX9SNN0043I
+/Game/__ExternalObjects__/NewMap/D/6Q/X7CK3GOWPMHEM70RKYFXTR
+/Game/__ExternalObjects__/NewMap/D/0P/75FFWUSE5KWTDGVGDXRIC7
+/Game/__ExternalObjects__/NewMap/4/WN/44PFZXXL8D5JRTFNEMC2MM
+/Game/__ExternalObjects__/NewMap/8/2N/6WSQGH1OT7U59IAXGK01Q0
+/Game/__ExternalObjects__/NewMap/7/7U/8TUKSPR51SZ4JN56ZKSWFT
+/Game/__ExternalObjects__/NewMap/7/U2/Y11O9ZSOK0OQF27IVX4EJI
+/Game/__ExternalObjects__/NewMap/0/M0/9L83XTAA81EH9LMSMO5XTD
+/Game/__ExternalObjects__/NewMap/6/SN/J644N0NU7ZFNZX4R7ZEXWQ
+/Game/__ExternalObjects__/NewMap/3/70/0H7OSAFUA9MP2QUOTQL3IT
+/Game/__ExternalObjects__/NewMap/F/2V/2V07VYNUUV2C8BGSBUYUTE
+/Game/__ExternalObjects__/NewMap/8/LO/OSFNWUWDPARLDA6R981D73
+/Game/__ExternalObjects__/NewMap/8/3A/R7WSYQTJP3ZGE4WXRUKS6X
+/Game/__ExternalObjects__/NewMap/3/JF/Y49XGB3ME5DV20OFTAG04I
+/Game/__ExternalObjects__/NewMap/7/2X/Z67Y7J4D08N5F5O6DUARD9
+/Game/__ExternalObjects__/NewMap/C/EW/1RPGO6BMI9G0DXUMMA8V5M
+/Game/__ExternalObjects__/NewMap/9/V8/XQ26L0OPQ4YZ045X8OGO6A
+/Game/__ExternalObjects__/NewMap/3/MB/9WEP6CI5QACHIDG9DVFG8H
+/Game/__ExternalObjects__/NewMap/8/WC/3EUGLM5X0WQP140TR2XUZ5
+/Game/__ExternalObjects__/NewMap/E/F6/JG25SBQB10UF06B42MW0LD
+/Game/__ExternalObjects__/NewMap/C/MD/9SM1FCHNTQHPSZGAQWU0AP
+/Game/__ExternalObjects__/NewMap/A/YO/YAHS9QFCC8F6XCJ4MEM39T
+/Game/__ExternalObjects__/NewMap/8/B0/EHXN6K0Q3DFD4WCMQO1FML
+/Game/__ExternalObjects__/NewMap/4/IT/AQSCAL63BGMZH4O4QG5XI8
+/Game/__ExternalObjects__/NewMap/3/4F/XH2PYMTEUERSTG4ESF5WE8
+/Game/__ExternalObjects__/NewMap/0/4N/3G67I0XRI65NRZWA7TM4DD
+/Game/__ExternalObjects__/NewMap/A/M4/91BEY6DOW3WYE7QH7ZRKHZ
+/Game/__ExternalObjects__/NewMap/6/W0/KLNYZVYO5K3SIUPT16PWV5
+/Game/__ExternalObjects__/NewMap/0/IZ/QTS31OMTEQXGR9ZXO63RBB
+/Game/__ExternalObjects__/NewMap/C/M3/GIHE8EIZGVL0EQWVRI42JS
+/Game/__ExternalObjects__/NewMap/4/K3/7VSIDJX2U6T4NDE18OPKYS
+/Game/__ExternalObjects__/NewMap/6/MZ/DD2Q012Z0KD8P7TLEVJ6PA
+/Game/__ExternalObjects__/NewMap/0/XE/L4GVPQKNX5VCLXDLOAG259
+/Game/__ExternalObjects__/NewMap/0/LO/SCDB8BC4TZ57OKI7ATCU6M
+/Game/__ExternalObjects__/NewMap/1/FB/KZCTNNCLYBI457X1FUPWXJ
+/Game/__ExternalObjects__/NewMap/D/82/IQ056GD5MAMG4CLXVQV3WG
+/Game/__ExternalObjects__/NewMap/E/KM/5BIKSA12TLWHK1ROBZT344
+/Game/__ExternalObjects__/NewMap/3/WD/BKMFNCBBWJU2CL4K5IFEF9
+/Game/__ExternalObjects__/NewMap/4/3D/69VOINQ287IMYI59RSRYU1
+/Game/__ExternalObjects__/NewMap/3/CH/HSXBFZYBAVXWYH7ZE2XXF9
+/Game/__ExternalObjects__/NewMap/3/T6/P929GWJLPNLBINLGJEOJN8
+/Game/__ExternalObjects__/NewMap/3/D4/NVJTNS8BSI2ZPGGADY4SWN
+/Game/__ExternalObjects__/NewMap/A/WX/5K3L40478ECN0B7NH8M3O2
+/Game/__ExternalObjects__/NewMap/C/AX/MM1I6FSFSAQE2GK9LDAD8Y
+/Game/__ExternalObjects__/NewMap/E/48/4WA9YGVL63SKCNN28SOO60
+/Game/__ExternalObjects__/NewMap/7/VE/LQC7YM79KCTHX16Y5Z9EH6
+/Game/__ExternalObjects__/NewMap/B/KU/8P89M61WABBVJRFS14QHSS
+/Game/__ExternalObjects__/NewMap/4/9N/ZF39R0VBDY4M637NGIOBJY
+/Game/__ExternalObjects__/NewMap/A/OQ/APCQI51P03TR3BPNQDO285
+/Game/__ExternalObjects__/NewMap/4/DJ/17QX3HE9FT7H7IG2R8Z3HY
+/Game/__ExternalObjects__/NewMap/7/BT/X8P60056MY456K40SPBMT6
+/Game/__ExternalObjects__/NewMap/3/82/KVL742ORJ6SAWM95KR9QD5
+/Game/__ExternalObjects__/NewMap/A/LU/RWLHVW5MPPQHSY03NUBK4N
+/Game/__ExternalObjects__/NewMap/F/4B/H5ZWWDRQP02S4E1E7LW2C9
+/Game/__ExternalObjects__/NewMap/7/TL/JL79S214NTKPE5EI7RU0UJ
+/Game/__ExternalObjects__/NewMap/E/WM/RXHKFP0JAOTIRICDS317X2
+/Game/__ExternalObjects__/NewMap/5/I9/JO8OA7A983F5Q1YSLGSZSI
+/Game/__ExternalObjects__/NewMap/4/XI/EJ3MLIVJKNR4WGUFODVD96
+/Game/__ExternalObjects__/NewMap/9/M2/SQ4HFCFH7C7F3DTQ4NL09A
+/Game/__ExternalObjects__/NewMap/6/2C/3LDQZ09S8M1MRHYWK9XJZP
+/Game/__ExternalObjects__/NewMap/C/ZS/DBY0957TRHBAQQ9YTKNICY
+/Game/__ExternalObjects__/NewMap/C/MM/YH8U59M7JXXRJ2B9OO0YL4
+/Game/__ExternalObjects__/NewMap/6/UU/7UNE56ZF8DDL0IYB70CJGV
+/Game/__ExternalObjects__/NewMap/7/70/RRBKZIXSM30AGZSKORSTEK
+/Game/__ExternalObjects__/NewMap/8/6R/HC19ZMFTHSGZ215K0C3HDH
+/Game/__ExternalObjects__/NewMap/4/KT/1385QUSS56SZ3BGCNCQRDL
+/Game/__ExternalObjects__/NewMap/0/3K/1V4RLGPX0RW1XHT1DDGWQE
+/Game/__ExternalObjects__/NewMap/4/Z8/3VK7OSHONGQGZTY2E3L4WV
+/Game/__ExternalObjects__/NewMap/8/TH/AO753N7GS0B0Z1FU8Q3R3E
+/Game/__ExternalObjects__/NewMap/7/Y3/GA6W575GEMXBQXT50JNZV6
+/Game/__ExternalObjects__/NewMap/4/ED/VH64SI1UCA6BDIZMQ33AGT
+/Game/__ExternalObjects__/NewMap/4/P0/UYTUZ6I767O1PQKBKDJ9D1
+/Game/__ExternalObjects__/NewMap/8/QL/C8A2FO4GGXXBL733PX6IRG
+/Game/__ExternalObjects__/NewMap/E/SL/VLIO28PZ90ZLYBLM20DRED
+/Game/__ExternalObjects__/NewMap/1/P6/B2FS2UWBE3PJW9QFD7IT6Y
+/Game/__ExternalObjects__/NewMap/B/HY/67PWNLFRT81978EILZYLPQ
+/Game/__ExternalObjects__/NewMap/1/WW/XRCO9FW3CLZPTC6QNPKPV2
+/Game/__ExternalObjects__/NewMap/D/M7/HSRFK0QR4SHG9LHINKVQJG
+/Game/__ExternalObjects__/NewMap/B/98/9YGH1V5XZKKD10P7IWW5NT
+/Game/__ExternalObjects__/NewMap/B/U2/NGUPBK44UIQHA57HGN05HX
+/Game/__ExternalObjects__/NewMap/D/38/ZY6G8FR2U6TTJO5BZO7S46
+/Game/__ExternalObjects__/NewMap/9/23/OWXRDCEV50UADS00PBFXNS
+/Game/__ExternalObjects__/NewMap/6/2M/CZ74QHRTE7SULFX9INLOMX
+/Game/__ExternalObjects__/NewMap/A/9H/0PGKA18TIQ3M9CCXA1ST2T
+/Game/__ExternalObjects__/NewMap/4/Q8/PGMLTXRPBUSIYXUB5VKCV5
+/Game/__ExternalObjects__/NewMap/0/NG/766RFSMFU6STHCZLKCTH01
+/Game/__ExternalObjects__/NewMap/B/ZI/4FFD55Y09F9KOHM5LXDZ48
+/Game/__ExternalObjects__/NewMap/8/CO/PWH7IJNMW0PY016353XZDX
+/Game/__ExternalObjects__/NewMap/A/6W/G524HOFNPQE2JLOKKIV4I9
+/Game/__ExternalObjects__/NewMap/9/99/NZQTKM8CTLT95XA1SWILCD
+/Game/__ExternalObjects__/NewMap/8/3O/3EW65HEOI7W3UQJY4UXMAV
+/Game/__ExternalObjects__/NewMap/B/PV/PC46FRYW1976BOWZD2536G
+/Game/__ExternalObjects__/NewMap/9/QQ/240BBM8D0NG1FU44RZOQUZ
+/Game/__ExternalObjects__/NewMap/4/4J/0CWLWNQEZW9S4UB9ZLSGXY
+/Game/__ExternalObjects__/NewMap/F/3Z/Y0E7QIFXYGWTW4TKGRZOFZ
+/Game/__ExternalObjects__/NewMap/0/9P/FLPBKNVZGWWY76GF6TR2NZ
+[2024.12.29-13.17.00:077][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.29-13.17.00:124][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.29-13.17.00:144][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.29-13.17.00:163][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.29-13.17.00:164][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewMap_HLOD0_Instancing] ([1] browsable assets)...
+[2024.12.29-13.17.00:164][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMap_HLOD0_Instancing]
+[2024.12.29-13.17.00:164][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_HLOD0_Instancing" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/NewMap_HLOD0_Instancing.uasset" SILENT=true
+[2024.12.29-13.17.00:164][160]LogSavePackage: Moving output files for package: /Game/NewMap_HLOD0_Instancing
+[2024.12.29-13.17.00:164][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/NewMap_HLOD0_InstancingA0FDC3B340D975BB92E931B079617A55.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/NewMap_HLOD0_Instancing.uasset'
+[2024.12.29-13.17.00:167][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+[2024.12.29-13.17.00:167][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/QO5TQORWCXORVK1051S8GH8B787FC248F192DB0C51168F30952659.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset'
+[2024.12.29-13.17.00:169][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9] ([1] browsable assets)...
+[2024.12.29-13.17.00:169][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9]
+[2024.12.29-13.17.00:170][160]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+[2024.12.29-13.17.00:170][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/3FHCA0FW5IIFSQ2O54UZA91580645C41CED7E725EB15870F809BD7.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset'
+[2024.12.29-13.17.00:172][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N] ([1] browsable assets)...
+[2024.12.29-13.17.00:172][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N]
+[2024.12.29-13.17.00:173][160]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+[2024.12.29-13.17.00:173][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/99MZXH85XVTY7NU0J1OJ8N728FAE4A471FC50A2C40B99294D0F92C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset'
+[2024.12.29-13.17.00:174][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI] ([1] browsable assets)...
+[2024.12.29-13.17.00:174][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI]
+[2024.12.29-13.17.00:175][160]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+[2024.12.29-13.17.00:175][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/DIR8ZHVIQ96U3XBY7PSRNI631C351B4A5BEB73B1463A981E4A6255.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI.uasset'
+[2024.12.29-13.17.00:177][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G] ([1] browsable assets)...
+[2024.12.29-13.17.00:177][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G]
+[2024.12.29-13.17.00:177][160]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+[2024.12.29-13.17.00:177][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/WYRPDUCDC4MIWMIRBPXU8G39670CF346EDA62843C7F384E92C617B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G.uasset'
+[2024.12.29-13.17.00:179][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ] ([1] browsable assets)...
+[2024.12.29-13.17.00:179][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ]
+[2024.12.29-13.17.00:180][160]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+[2024.12.29-13.17.00:180][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/PV6HCV4P0GX9P77B63TXTQ788D2EC3455819570681808995F3DF62.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ.uasset'
+[2024.12.29-13.17.00:181][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98] ([1] browsable assets)...
+[2024.12.29-13.17.00:181][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98]
+[2024.12.29-13.17.00:182][160]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+[2024.12.29-13.17.00:182][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/KV5NVW6RVGCY40C13H5F980E17140447502872DC07F7B19CCE3FB1.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98.uasset'
+[2024.12.29-13.17.00:245][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+[2024.12.29-13.17.00:245][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/K9ZUEA69K5KJSH5045MJR12048F1A74FB7A081BC8DDC8D7AB35512.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1.uasset'
+[2024.12.29-13.17.00:249][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+[2024.12.29-13.17.00:249][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/33JI6228IHMKP046YQI3NM43CB098144C7192A6452698025C443C2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM.uasset'
+[2024.12.29-13.17.00:252][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2024.12.29-13.17.00:252][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/D90LOZ6OX06T5XEND5R79L310CD6A742928AFE63E8A998FF35CCAD.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset'
+[2024.12.29-13.17.00:255][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+[2024.12.29-13.17.00:255][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/SX9JKDV4UA15T0E1TTFAVZCEB7E0D04C9129741B45BE9A2E692A55.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ.uasset'
+[2024.12.29-13.17.00:257][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+[2024.12.29-13.17.00:257][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/UWT2EIZPYQICCJ0JNTZ85VE3C0A632475ACEAB1C3A2283CD27EBAA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V.uasset'
+[2024.12.29-13.17.00:260][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+[2024.12.29-13.17.00:260][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ZZZUE6B734TVUOS09XOW8YBED84B01491F350859325D84E9788140.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y.uasset'
+[2024.12.29-13.17.00:263][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+[2024.12.29-13.17.00:263][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/QNW4NKCF3JB30PDQLYNK0400A2494D4B774CEE0805F4A2A569043C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04.uasset'
+[2024.12.29-13.17.00:266][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+[2024.12.29-13.17.00:266][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/S0M3NFTEJWDWQXLH8WL3P0A5B7F90B49E790F8EDF235A2CAAD020B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0.uasset'
+[2024.12.29-13.17.00:270][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2024.12.29-13.17.00:270][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/H67VGU7BHNHPWWQEMQJ41J408B5F2A49B5270095C3AD97FB390407.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2024.12.29-13.17.00:289][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2024.12.29-13.17.00:289][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/STFWH78SWHO1BT3JB2S9GT9265301E4728843F30DBFF87B6F98DA5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2024.12.29-13.17.00:306][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2024.12.29-13.17.00:306][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/V9CAJRQOOCARULA8KSKFKFE7B1EF3A4A59A1254C29B897464289A6.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2024.12.29-13.17.00:322][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2024.12.29-13.17.00:322][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/QBOG0EUDUJ3I7CKDLU6SM5EC1F63B146D5D24A15AD09ABBCA16A1D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2024.12.29-13.17.00:340][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2024.12.29-13.17.00:340][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Y8EZ2AXLMEN39WTAPXB6VME5C0BD364A25B3DCBF57599F746F9A4A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2024.12.29-13.17.00:358][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2024.12.29-13.17.00:358][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/RPVI13LNVTY93V3EQ1Y4FV67B4665E4DB17C46D6ADAD8F49A9C5AD.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2024.12.29-13.17.00:374][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2024.12.29-13.17.00:374][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/UDWQC9DWW7DL22CPJ4RVSI86D99E164539D155F4FC6C8AEE526972.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2024.12.29-13.17.00:392][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2024.12.29-13.17.00:392][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EE3LUXOWULAYGXN1IPS4S2FB24BE4E44C144C8CD34349A03704B0E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2024.12.29-13.17.00:409][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2024.12.29-13.17.00:409][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Y3GF0HWTXA7DHH1FL3IF9R69777B5E43BE8035BC7510B73643D911.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2024.12.29-13.17.00:427][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2024.12.29-13.17.00:427][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/XX81YC0HUFD6L3IX7RWMS0E5A57FE449B977C2218303BF82E8BF73.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2024.12.29-13.17.00:443][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2024.12.29-13.17.00:443][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/5E0J4DYSYB0DUPM0H3UFMJA81C005F456BAA817AC2DE87DA961F81.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2024.12.29-13.17.00:461][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2024.12.29-13.17.00:461][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/I3YAKOIE9OZW8RGU76MLDU98E414A54427819F5EFF45B08E90F1E9.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2024.12.29-13.17.00:479][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2024.12.29-13.17.00:479][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/8TXEZSVIN8XJXFAAPYJ9PFCF94BEE24F8AB5BFEC536D96F094D8E8.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2024.12.29-13.17.00:497][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2024.12.29-13.17.00:497][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/99H285CLZ96HCTKT3S7S791EB35BA74C02957CFBE5008D1E35339A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2024.12.29-13.17.00:514][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2024.12.29-13.17.00:514][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/J8JQXJ67F9KX47CCDA8ZMF8290B6534A653511199B09818BF35F01.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2024.12.29-13.17.00:532][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2024.12.29-13.17.00:532][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/7UWDO77CF7TNVQ9BB75XCF9049574F4686B7751BDEFE8D36BFE01A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2024.12.29-13.17.00:548][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2024.12.29-13.17.00:549][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TIHXLB5639NV4RM260YDTW554BB18B48D443A147C4FD84E1D77E82.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2024.12.29-13.17.00:566][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2024.12.29-13.17.00:566][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/GV76BBB2V0EFHV7ELK9A0Y140078EE4F2F0053305B09830195383A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2024.12.29-13.17.00:583][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2024.12.29-13.17.00:583][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CHPLQ79FFGJWC3VACZJA90BE470ABC4DC047D0F90AE1A19F1F2AE1.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2024.12.29-13.17.00:600][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2024.12.29-13.17.00:600][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/39OTWHVDSI751PAH6731IDBFCFB35C4D4F90E4FCE2B6AE8A0058E2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2024.12.29-13.17.00:618][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2024.12.29-13.17.00:618][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/3B5158OKASMIKGFDZC9KRF2B62AF5E480B590E284F3184B2B2D16C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2024.12.29-13.17.00:635][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2024.12.29-13.17.00:635][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/X4NPSX8ZUWI1DPH52YEUUPA959D25D4569D5ACC0E86183AFA0C0F5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2024.12.29-13.17.00:652][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2024.12.29-13.17.00:652][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/MRZ7RQN5KANFM03I7EKRCC8156E4F543210B6A75F67F8794BA3F3E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2024.12.29-13.17.00:670][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2024.12.29-13.17.00:670][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/XQN8LZWIDWMWIMOBUZOJDH812D2EE844CEFB36C88CEFBCEBBFEF69.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2024.12.29-13.17.00:686][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2024.12.29-13.17.00:687][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ELJ3HI994B42IQIWQEZNGDE7E53F314526EEEAE7946BB39C9ECB4A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2024.12.29-13.17.00:705][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2024.12.29-13.17.00:705][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/JJD8SHJCMNFNMC34COATAMC6A85D154B6CA40667929083002F9A53.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2024.12.29-13.17.00:723][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2024.12.29-13.17.00:723][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HYGURXU7M62N8WAUIXLWPQAA0305694C06F1280CB1FD9425CC0561.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2024.12.29-13.17.00:741][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2024.12.29-13.17.00:741][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/FH4UWQ2MQA5KPUZVXS23LJ7C9E63854D39C4347C735AAF85120140.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2024.12.29-13.17.00:757][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2024.12.29-13.17.00:759][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/PLU0RE738EMG7CF7VC8D9S0C429D0449D973AB9CBD3BAEE547AFB1.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2024.12.29-13.17.00:775][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2024.12.29-13.17.00:775][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/KXAGD7OP6IEQ3K8LWI86RL00387ACD43450F7A3B8A0283753409AC.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2024.12.29-13.17.00:793][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2024.12.29-13.17.00:793][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/9034HM4Y3YU11DE4XNPRA9D06AB5404483AF7771C0B9B0B87A7E88.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2024.12.29-13.17.00:811][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2024.12.29-13.17.00:812][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/OHRQN7RF5THM8Z6O6262I41F7419D24B6F8F8E223A069E3A6B3CC5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2024.12.29-13.17.00:829][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2024.12.29-13.17.00:829][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TAVO56E9B1HVH1F45RLBIAC0FE465C45CCCC33102F6592DAE11AE6.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2024.12.29-13.17.00:847][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2024.12.29-13.17.00:847][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/4ND4ZK6J06I5L4DPSTPYW92874A21D448599A181CFA1BD41E5F265.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2024.12.29-13.17.00:863][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2024.12.29-13.17.00:863][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/VXH4MI02ODW8DKNLA2MOK3EB35A9874B3DCC242A3C998FCA060DCA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2024.12.29-13.17.00:881][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2024.12.29-13.17.00:881][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/0XXSVY1Y0D2HIHA43BVMPH760C2C904BCB72F2B3E9B5A17383C339.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2024.12.29-13.17.00:900][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2024.12.29-13.17.00:901][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/JV2GOVBPB8GZ9MQUICHC9SCE0B26C64E0F9B49E3346E90BA6F0DB6.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2024.12.29-13.17.00:917][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2024.12.29-13.17.00:917][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CK3DVSRDA9WTQU5TC2XO2VAEE49CA246E2964B48B452B8CADB5F3F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2024.12.29-13.17.00:936][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2024.12.29-13.17.00:936][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/NURB0U7U9ZV4H4LX7FT8T2C39B3F194F98B600FF3D89927FAF4BEA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2024.12.29-13.17.00:955][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2024.12.29-13.17.00:955][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/B3NPG0KFON6BVW5ECZJSUI2CA4A6084B8A2871EA2471ACDB85387A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2024.12.29-13.17.00:975][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2024.12.29-13.17.00:975][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/BULBFMUS7ADZJMH54QGDK95C612DEA435F7F8FB36439A71E44D413.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2024.12.29-13.17.00:993][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2024.12.29-13.17.00:993][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/1HONC7HVU91I909A4N80W24BF27D0641163531DC8C6B8E326C1692.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2024.12.29-13.17.01:012][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2024.12.29-13.17.01:012][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/6S23OQXPMF10HYXLB9OEIPF8926A81491D0858291A1AAD5DB533D4.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2024.12.29-13.17.01:031][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2024.12.29-13.17.01:031][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/L8FAOYPHJNQSTCW3XMMSJT5E30E21442404E10880793AC597C3F3E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2024.12.29-13.17.01:050][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2024.12.29-13.17.01:050][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/29WASR1BMNC6IXHW8I5KZ8A95509954BE43301508B389ED926FD9E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2024.12.29-13.17.01:069][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2024.12.29-13.17.01:069][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/T187Z8E2C6CPJLXCH06KRJ2CE78A3D4FF087FE4DC4DA9434C99432.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2024.12.29-13.17.01:086][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2024.12.29-13.17.01:086][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/85792LT2Y93I704I1JYP1KD024F6E74ED7B441758FDB88C0333768.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2024.12.29-13.17.01:105][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2024.12.29-13.17.01:105][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Y23P0KHN1XII71UX7D1H8Q89D07C2C431117188BA3C1AF79585D20.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2024.12.29-13.17.01:122][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2024.12.29-13.17.01:122][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/E7UFHHQZ7B8TLAL6Y74JRCE6B223CF477290D04834ABBF10417EE5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2024.12.29-13.17.01:140][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2024.12.29-13.17.01:140][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/FL16ITLR22643N9B35THAR4E32B97B469155C4F1DB449EDB7BDB33.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2024.12.29-13.17.01:157][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2024.12.29-13.17.01:157][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/90QVEWVNXY6N07CS9SHQPM728EF38846D21FF37EAB37AEF7454CC4.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2024.12.29-13.17.01:175][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2024.12.29-13.17.01:175][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/YMDE4WERKLNXIT8TVTH5OW803F10CD43EBAC74E0E1D58A1884F82D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2024.12.29-13.17.01:193][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2024.12.29-13.17.01:193][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/NERX0MWYRICL228ZB8J0QW17BB41764D8C2CC6DDDC0597808AB8C9.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2024.12.29-13.17.01:210][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2024.12.29-13.17.01:210][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/VZU403KFJ6UJQ2M3VY673660ED51B440BE42E5D4A81AA39129BFE5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2024.12.29-13.17.01:227][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2024.12.29-13.17.01:227][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/JANFZ62JMG0U1Z3UNCQVKV0597ED0A47419A296894F4B31AA82023.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2024.12.29-13.17.01:245][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2024.12.29-13.17.01:245][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/SPYD0PSGU4M3NK7DI5RDRM4C82DC2A49D4264F23FF1D80000A2D8A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2024.12.29-13.17.01:263][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2024.12.29-13.17.01:263][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/M58JIDBQC2JEOWYFQ17JSYBBCAA4AB4C666CDE9827DB96C5708AF9.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2024.12.29-13.17.01:281][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2024.12.29-13.17.01:281][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/4G06FUR85LXRX1UCMOAFBE2D71BA214D6B0F67C45238A56C087E5B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2024.12.29-13.17.01:302][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2024.12.29-13.17.01:302][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/4NBZKC5PVQODH9SVSYPY1EB298859B4A53EE5B9C9B87AE2E41EE04.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2024.12.29-13.17.01:320][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2024.12.29-13.17.01:320][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/APFM7ONOEVP1TBHZZ5VTDA23FBE00141F6B91BC4A338B44691C04B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2024.12.29-13.17.01:339][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2024.12.29-13.17.01:339][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/UYA7A5HTQTJSRWJ4MK2WT61C8A5C5446A196097C0FB18400F362EF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2024.12.29-13.17.01:346][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+[2024.12.29-13.17.01:346][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/NYVVLNPBTKRYOWG6SJON5QC88E677747069B9E38D6D1B4BBD9ADC1.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q.uasset'
+[2024.12.29-13.17.01:352][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+[2024.12.29-13.17.01:352][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CYNP3142GDJBY11M9RMRBC5664E67F4A3EBCDA56E3B2A98F8916B6.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC.uasset'
+[2024.12.29-13.17.01:359][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+[2024.12.29-13.17.01:359][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/QGHAKQ11SESEDFOLUDKLRG0D84461948B99CFE2170088E22256D0E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG.uasset'
+[2024.12.29-13.17.01:365][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+[2024.12.29-13.17.01:365][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/2K800X1I75LAHZV8NALO1G80B67D9944F8CDA4D4D2C5BADAAF08A0.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G.uasset'
+[2024.12.29-13.17.01:371][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+[2024.12.29-13.17.01:371][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CKH5RYZ0ZR9KTVY5K32RCY4F24DDEE45A0F22FEB7ED59E9DFC0CF3.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY.uasset'
+[2024.12.29-13.17.01:377][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+[2024.12.29-13.17.01:377][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/R0G3BN5XGD6WGH52J72Q9025AE75C14D69D661C36B59B3B3616CE2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90.uasset'
+[2024.12.29-13.17.01:384][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+[2024.12.29-13.17.01:384][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/T6K63GS54OD48GIP4AVZO7045E7F7B4792F0A857114DB200FEEBFE.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7.uasset'
+[2024.12.29-13.17.01:390][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+[2024.12.29-13.17.01:390][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/70D8PQ7OROATLX8T345MDXC87C86464A095300278A2C9650DC78A2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX.uasset'
+[2024.12.29-13.17.01:396][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+[2024.12.29-13.17.01:396][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/U6BUG1QRAYYVDV4PDSDUMMA95339A942CF9564B00C33B078407D8D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM.uasset'
+[2024.12.29-13.17.01:402][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+[2024.12.29-13.17.01:402][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/K9VG19F1GEWZ7KOSERPA6IC4D571BA49DCB38184814A8F4D0E3A32.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I.uasset'
+[2024.12.29-13.17.01:408][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+[2024.12.29-13.17.01:408][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/BIGXLLSVFWFDN8GVLXTIJHF468D9B9414FB31B5CD78BA2F98DD4F2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH.uasset'
+[2024.12.29-13.17.01:415][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+[2024.12.29-13.17.01:415][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/T3SRO2C63VCND6PXTEV1CHB3F5B8794F1B94BEB6612694246458B0.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH.uasset'
+[2024.12.29-13.17.01:421][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+[2024.12.29-13.17.01:421][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/BOQSPAK8DZHLQ92PQS2LAK367827344B8B9A58D23A3E8D139A7CBE.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK.uasset'
+[2024.12.29-13.17.01:426][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+[2024.12.29-13.17.01:426][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/I1YAF3YM63PH3IRC6INAMT8A4B63C14FC02842576A61A5302BC37B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT.uasset'
+[2024.12.29-13.17.01:432][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+[2024.12.29-13.17.01:432][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TLK74XQSIYIZ39BEJZZGS8802CE7D9464D1DA2015E4CB61D1D36B8.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8.uasset'
+[2024.12.29-13.17.01:438][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+[2024.12.29-13.17.01:438][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/JK1IL916YYFEUWC238D8BQFADAA1F048E48C07CB037094D23E893C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ.uasset'
+[2024.12.29-13.17.01:444][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+[2024.12.29-13.17.01:444][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/WEBCPTS9FFUMD5IBGOM3UG5F88CD3F4109DD3BB63E2CAF6A1FD8E0.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG.uasset'
+[2024.12.29-13.17.01:450][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+[2024.12.29-13.17.01:450][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/VCTEVXRXLNOW5ZJ8J61MAD1B2B56ED461F63CAEB219284FB3F5203.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD.uasset'
+[2024.12.29-13.17.01:456][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+[2024.12.29-13.17.01:456][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/A1G10A9L4Y0YOIY6Y8GZIWE8D706C44073A2B38AD227AD20A89D00.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW.uasset'
+[2024.12.29-13.17.01:463][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+[2024.12.29-13.17.01:463][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ZANREFWHM69H8EXQ1GE2WK05AC5CF04723276AB0AD118B898EA9F9.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK.uasset'
+[2024.12.29-13.17.01:470][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+[2024.12.29-13.17.01:470][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/XDAM7DWXRXOLL0SMQT10VN77ADD1C9422A188CA76354AB37D088B9.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN.uasset'
+[2024.12.29-13.17.01:476][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+[2024.12.29-13.17.01:476][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/5S8ZIUHF416MXIWGA05B8X936753FB401EC87D2A9049827BD7CC02.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X.uasset'
+[2024.12.29-13.17.01:481][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+[2024.12.29-13.17.01:481][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/JAM3O7SXZW7J01CAEI8GN8DE68DA594CDC43886FFD7894D24ED78F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8.uasset'
+[2024.12.29-13.17.01:487][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+[2024.12.29-13.17.01:487][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/LUBSUPMBCORQY4BX4SUI8DC4B7EA4541CA1BA299BF959AE71E81C2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D.uasset'
+[2024.12.29-13.17.01:492][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+[2024.12.29-13.17.01:492][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/YUH16E8Q3OFF2UFEOECX6JB5AD45F648815B22314AEDAD649D65A4.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J.uasset'
+[2024.12.29-13.17.01:500][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+[2024.12.29-13.17.01:500][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/BQ4QD8DM1FV5621690L48Z98A3EA0F48C655C97C24C89FEDD2E573.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z.uasset'
+[2024.12.29-13.17.01:507][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+[2024.12.29-13.17.01:507][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/E3N9C35NWL586INQHB9VL5CDEB9D364E12248A75130BB8C19F4777.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5.uasset'
+[2024.12.29-13.17.01:512][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+[2024.12.29-13.17.01:512][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/H3EUOGV4ND1YS97V1OH50D998DC5F640A0962722C395937BB47064.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D.uasset'
+[2024.12.29-13.17.01:519][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+[2024.12.29-13.17.01:519][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/LBYD52OUWDVKRW2LR5N40RA12D20D140D194B30D7108818DB6E842.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R.uasset'
+[2024.12.29-13.17.01:525][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+[2024.12.29-13.17.01:525][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/91MV17CEV5O0TI24BDEBY108B6F879424AC07B47375C9835A2458A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1.uasset'
+[2024.12.29-13.17.01:540][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+[2024.12.29-13.17.01:540][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/AYG5JX9GFZ46UZ4D89AS6VFF6719574ACFC751B597FDBE6CC8E475.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V.uasset'
+[2024.12.29-13.17.01:546][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+[2024.12.29-13.17.01:546][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/OL1EVUAEZLBC9MZGWLQTGR695BC2E943C62EA48120858F56B4DE58.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR.uasset'
+[2024.12.29-13.17.01:552][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+[2024.12.29-13.17.01:552][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/7QOFK6FYQLTOX424QPFWQM08E1268C4087BC349ADD83A0BFE420AF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM.uasset'
+[2024.12.29-13.17.01:557][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+[2024.12.29-13.17.01:557][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/KF97WTUCVEEXW34TJN9TX25105055D4FAD2BF2E00B48A4D2ACE036.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2.uasset'
+[2024.12.29-13.17.01:563][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+[2024.12.29-13.17.01:563][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/O5GF0WUY9GTB5G1RJCRG7S3938B1234FBD2F043C40429D402B169A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S.uasset'
+[2024.12.29-13.17.01:570][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+[2024.12.29-13.17.01:570][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/OYJBGVX6BTQ1NB8STSMJKM9F632B344A4A312155E798BB50DC1E5B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM.uasset'
+[2024.12.29-13.17.01:575][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+[2024.12.29-13.17.01:575][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/VQZZAJSMUJW42R85QD9NH3B57BED6F46D7BE0E3EA76CAD2CCEB6DB.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3.uasset'
+[2024.12.29-13.17.01:581][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+[2024.12.29-13.17.01:581][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/7PB37ID42LVSJXRXYR6ZEP723A5FED440E4C24A0A9CAAF654C26A2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP.uasset'
+[2024.12.29-13.17.01:587][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+[2024.12.29-13.17.01:587][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/0Q31YSJCQQFF2U7PF0BX28E8D23C20409CC2BE37011E83AA2B9911.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28.uasset'
+[2024.12.29-13.17.01:593][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+[2024.12.29-13.17.01:593][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/AZSCYV28PUELWHGWGMOUUW57F7B55B4E0E9006B38AC182ECF5A7E4.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW.uasset'
+[2024.12.29-13.17.01:599][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+[2024.12.29-13.17.01:599][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/IQVOSVV1CJEJSNAYJGESY799938A934F5FDA23F0124B96715C355F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7.uasset'
+[2024.12.29-13.17.01:604][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+[2024.12.29-13.17.01:604][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/46RJH0JG81KFL2EHXZEPMT65A0541A4E2215920493DEB826C89ABC.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT.uasset'
+[2024.12.29-13.17.01:610][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+[2024.12.29-13.17.01:610][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/9BCOS91D9LWWYTKPAXD2LN718C1EBF43FF9F3EA389EA8D808A7E33.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN.uasset'
+[2024.12.29-13.17.01:616][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+[2024.12.29-13.17.01:616][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/9BJPPHQETRDHJ6POTKQFCX17EB86904EFF455CA6009EA996FE5509.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX.uasset'
+[2024.12.29-13.17.01:622][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+[2024.12.29-13.17.01:622][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/G3E3331RDRVC7PRWZHULLKAD36071E4BB9CBEDD28B34A5B89BCADE.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK.uasset'
+[2024.12.29-13.17.01:629][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+[2024.12.29-13.17.01:629][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/YYX2A6F6SXT4UCL62ZSE1CCDEB01214F728B2A4E17CF9D3033288A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C.uasset'
+[2024.12.29-13.17.01:634][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+[2024.12.29-13.17.01:634][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/LYYUJ74G36R96SWX1Y48Z21A15D5D144BF9F02372C1DA4B206367D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2.uasset'
+[2024.12.29-13.17.01:640][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+[2024.12.29-13.17.01:640][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ITT14I7RIPFAWOLW027WEZ4A3D93BB4F661310941D78A6D8729F30.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ.uasset'
+[2024.12.29-13.17.01:646][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+[2024.12.29-13.17.01:646][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/IW2N8XM75607JCJRYEL5P1287D00FC47FBBA98E13211809C8812D2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1.uasset'
+[2024.12.29-13.17.01:652][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+[2024.12.29-13.17.01:652][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/VK823AP9UC5PC8XHHP2U6QB4183B544470E136B2ACD2A433B26938.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q.uasset'
+[2024.12.29-13.17.01:658][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+[2024.12.29-13.17.01:658][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/7AIFWLMZM6FNZ32SK032TY1633699E412ABFE818A826A29D4F69AC.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY.uasset'
+[2024.12.29-13.17.01:664][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+[2024.12.29-13.17.01:664][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ILDZATAJAWX5WLB33M7FQS38A25722440B2BB52D772FB9DDEEA152.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS.uasset'
+[2024.12.29-13.17.01:670][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+[2024.12.29-13.17.01:671][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Z0TCOW85SPIL4WJ6FSQCO4B608103645CA3B8BD024C69E4FD7B5F2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4.uasset'
+[2024.12.29-13.17.01:676][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+[2024.12.29-13.17.01:676][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/H4AXV0G023QP28PQTAOF1OAC8ED14841A0277036F2E5A2E5C996C5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O.uasset'
+[2024.12.29-13.17.01:682][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+[2024.12.29-13.17.01:682][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/IYAAZJT51R8CKODGGF8YC24F271D63484CDB9FF5BB4ABA98BC62E1.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2.uasset'
+[2024.12.29-13.17.01:688][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+[2024.12.29-13.17.01:688][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/F6F3RD6PEOLM8CV7YNVMYS05E56F9046B57AB99ACC80AE4EB706EF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS.uasset'
+[2024.12.29-13.17.01:694][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+[2024.12.29-13.17.01:694][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/D5AP58IHU71AU0M2JNWETA3E218A634E2FFA4C3867048D56C0E078.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA.uasset'
+[2024.12.29-13.17.01:701][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+[2024.12.29-13.17.01:701][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/7XH5KOM6VGSWXXG4WJEEWJ702C1C8848AE56B65ED9A3A34A76CCA4.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ.uasset'
+[2024.12.29-13.17.01:708][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+[2024.12.29-13.17.01:708][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/RLEWE2Y9S5ZDO8F6ELEJ00649F13004387571701B3459DE4ED8DAB.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00.uasset'
+[2024.12.29-13.17.01:714][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+[2024.12.29-13.17.01:714][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/8JJDOIVMLQYT8VXINSJM0R72BB90694E739E7A13E739AD7A9586E5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R.uasset'
+[2024.12.29-13.17.01:720][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+[2024.12.29-13.17.01:720][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ZWSO730QU54SJNCOZJ3TA17BBC13E7477F6AD227D3E883DF3A396A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1.uasset'
+[2024.12.29-13.17.01:727][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+[2024.12.29-13.17.01:727][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/0F53A5EQLRS5JNU3C82R84FDF4747E4D46783E4F7D1DB9DA58DB6D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset'
+[2024.12.29-13.17.01:732][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+[2024.12.29-13.17.01:732][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/1ETCZL36T8LOULTG5FSKJ8818E5B454746EA26B3BBDD8E16749557.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset'
+[2024.12.29-13.17.01:738][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2024.12.29-13.17.01:738][160]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/I5IPTC503UZ5480FO15FQ717FE387545FD773A4C5BB7B9518268BA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset'
+[2024.12.29-13.17.01:741][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.66 sec
+[2024.12.29-13.17.01:745][160]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+/Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+/Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+/Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+/Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+/Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+/Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+/Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+/Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+/Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+/Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+/Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+/Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+/Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+/Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+/Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+/Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+/Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+/Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+/Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+/Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+/Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+/Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+/Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+/Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+/Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+/Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+/Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+/Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+/Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+/Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+/Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+/Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+/Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+/Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+/Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+/Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+/Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+/Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+/Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+/Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+/Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+/Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+/Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+/Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+/Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+/Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+/Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+/Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+/Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+/Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+/Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+/Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+/Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+/Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+/Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+/Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+/Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+/Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+/Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+/Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+/Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+/Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+/Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+/Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+/Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+/Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+/Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+/Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+/Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+/Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+/Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+/Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+/Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+/Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+/Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+/Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+/Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+/Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+/Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+/Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+/Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+/Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+/Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+/Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+/Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+/Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+/Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+/Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+/Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+/Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+/Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+/Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+/Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+/Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+/Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+/Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+/Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+/Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+/Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+/Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+/Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+/Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+/Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+/Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+/Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+/Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+/Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+/Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+/Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+/Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+/Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+/Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+/Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+/Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+/Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+/Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+/Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+/Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+/Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+/Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+/Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+/Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+/Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+/Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+/Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+/Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+/Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+/Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+/Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+/Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+/Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2024.12.29-13.17.01:771][160]LogFileHelpers: Saving map 'NewMap' took 1.952
+[2024.12.29-13.17.01:771][160]Cmd: MAP LOAD FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.29-13.17.01:808][160]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.29-13.17.01:809][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.29-13.17.01:810][160]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2024.12.29-13.17.01:831][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.29-13.17.01:875][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.29-13.17.01:883][160]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.29-13.17.01:889][160]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2024.12.29-13.17.01:889][160]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2024.12.29-13.17.01:891][160]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.29-13.17.01:891][160]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.29-13.17.01:891][160]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.29-13.17.01:914][160]LogTexture: Display: Building textures: /Game/NewMap.NewMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2024.12.29-13.17.02:137][160]LogWorldPartition: Display: WorldPartition initialize took 245.574 ms (total: 572.220 ms)
+[2024.12.29-13.17.02:617][160]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.29-13.17.02:627][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.29-13.17.02:632][160]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.29-13.17.02:634][160]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,406ms to complete.
+[2024.12.29-13.17.02:700][160]LogContentValidation: Display: Starting to validate 142 assets
+[2024.12.29-13.17.02:700][160]LogContentValidation: Enabled validators:
+[2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.29-13.17.02:700][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.29-13.17.02:702][160]AssetCheck: /Game/NewMap Validating asset
+[2024.12.29-13.17.02:702][160]AssetCheck: /Game/NewMap_HLOD0_Instancing Validating asset
