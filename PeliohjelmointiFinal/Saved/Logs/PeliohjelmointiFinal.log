@@ -8263,3 +8263,828 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.30-16.30.56:342][773]LogPlayLevel: Display: Destroying online subsystem :Context_95
 [2024.12.30-16.30.58:748][931]LogSlate: Window 'Message Log' being destroyed
 [2024.12.30-16.30.58:764][931]LogSlate: Window 'Message Log' being destroyed
+[2024.12.30-16.31.47:079][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17405.218750
+[2024.12.30-16.31.47:267][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.31.47:267][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17405.363281, Update Interval: 333.930481
+[2024.12.30-16.32.43:193][706]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.12.30-16.32.43:216][706]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.12.30-16.32.43:227][706]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.12.30-16.32.43:237][706]LogAutomationController: Ignoring very large delta of 33.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-16.32.43:249][707]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.12.30-16.32.43:284][710]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2024.12.30-16.32.51:257][308]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> TwinStickUI
+[2024.12.30-16.32.51:274][308]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.12.30-16.33.03:855][141]LogContentBrowser: Attempting asset rename: TwinStickUI -> TwinStickHUD
+[2024.12.30-16.33.04:004][141]LogMetaData: Removing '/Game/Blueprints/TwinStickHUD.SKEL_TwinStickHUD_C' ref from Metadata '/Game/Blueprints/TwinStickUI.PackageMetaData'
+[2024.12.30-16.33.04:005][141]LogMetaData: Removing '/Game/Blueprints/TwinStickHUD.TwinStickHUD_C' ref from Metadata '/Game/Blueprints/TwinStickUI.PackageMetaData'
+[2024.12.30-16.33.04:005][141]LogMetaData: Removing '/Game/Blueprints/TwinStickHUD.TwinStickHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/TwinStickUI.PackageMetaData'
+[2024.12.30-16.33.04:005][141]LogMetaData: Removing '/Game/Blueprints/TwinStickHUD.TwinStickHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/TwinStickUI.PackageMetaData'
+[2024.12.30-16.33.04:005][141]LogMetaData: Removing '/Game/Blueprints/TwinStickHUD.TwinStickHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/TwinStickUI.PackageMetaData'
+[2024.12.30-16.33.04:009][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.33.04:009][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.33.04:019][141]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.33.04:019][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.33.04:019][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2024.12.30-16.33.04:024][141]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickHUD
+[2024.12.30-16.33.04:024][141]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUD2E3884164BA425A9AF1FD6BF9445A27F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset'
+[2024.12.30-16.33.04:028][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.136 ms (total: 6.62 sec)
+[2024.12.30-16.33.04:068][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.12.30-16.33.04:093][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.12.30-16.33.04:118][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.30-16.33.04:174][141]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.33.04:175][141]LogContentValidation: Enabled validators:
+[2024.12.30-16.33.04:175][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.33.04:175][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.33.04:175][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.33.04:175][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.33.04:175][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.33.04:175][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.33.04:175][141]AssetCheck: /Game/Blueprints/TwinStickHUD Validating asset
+[2024.12.30-16.33.05:904][256]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD
+[2024.12.30-16.33.05:905][256]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2024.12.30-16.33.05:923][256]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2024.12.30-16.33.05:929][256]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.12.30-16.33.06:232][256]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2024.12.30-16.33.06:233][256]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2024.12.30-16.33.06:773][256]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.12.30-16.35.07:536][ 73]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.30-16.35.09:953][168]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.30-16.35.09:963][168]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.30-16.37.48:729][695]LogSlate: Took 0.027990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.12.30-16.37.55:670][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17773.435547
+[2024.12.30-16.37.55:859][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.37.55:859][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17773.603516, Update Interval: 308.258301
+[2024.12.30-16.38.56:318][949]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-16.39.08:783][286]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-16.40.53:280][ 20]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.30-16.41.17:076][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.41.17:111][ 81]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.41.17:113][ 81]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.41.17:113][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.41.17:113][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2024.12.30-16.41.17:117][ 81]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickHUD
+[2024.12.30-16.41.17:117][ 81]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUDA2B73A604B7199BA78A513AEDAB4EF6D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset'
+[2024.12.30-16.41.17:129][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.558 ms (total: 6.67 sec)
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: Enabled validators:
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.41.17:166][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.41.17:171][ 81]AssetCheck: /Game/Blueprints/TwinStickHUD Validating asset
+[2024.12.30-16.41.18:171][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.12.30-16.42.32:035][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.42.32:067][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.42.32:074][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.42.32:075][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.42.32:075][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-16.42.32:089][922]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-16.42.32:090][922]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter152F1D7D4BA706A49A93D69D76A51440.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-16.42.32:102][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.075 ms (total: 6.74 sec)
+[2024.12.30-16.42.32:135][922]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.42.32:135][922]LogContentValidation: Enabled validators:
+[2024.12.30-16.42.32:135][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.42.32:135][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.42.32:136][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.42.32:136][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.42.32:136][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.42.32:136][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.42.32:136][922]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-16.42.32:970][964]LogBlueprint: Error: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\Blueprints\HeroCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2024.12.30-16.42.33:029][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.30-16.42.38:910][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.12.30-16.43.02:315][594]LogDerivedDataCache: C:/Users/san77/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.30-16.43.54:264][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18132.042969
+[2024.12.30-16.43.54:431][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.43.54:431][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18132.195312, Update Interval: 326.805634
+[2024.12.30-16.44.45:583][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.30-16.44.46:774][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.44.46:810][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.44.46:817][523]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.44.46:817][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.44.46:817][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2024.12.30-16.44.46:823][523]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickHUD
+[2024.12.30-16.44.46:823][523]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUD69CC3548446422CA4387FCAA274BE880.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset'
+[2024.12.30-16.44.46:836][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.321 ms (total: 6.80 sec)
+[2024.12.30-16.44.46:874][523]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.44.46:874][523]LogContentValidation: Enabled validators:
+[2024.12.30-16.44.46:874][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.44.46:874][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.44.46:874][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.44.46:874][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.44.46:874][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.44.46:874][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.44.46:879][523]AssetCheck: /Game/Blueprints/TwinStickHUD Validating asset
+[2024.12.30-16.44.51:401][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.44.51:409][762]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.44.51:409][762]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.44.51:417][762]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 7.871 ms (total: 395.270 ms)
+[2024.12.30-16.44.51:417][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.44.51:417][762]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.44.51:432][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014414s)
+[2024.12.30-16.44.51:432][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.014453s)
+[2024.12.30-16.44.51:452][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-16.44.51:457][762]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.44.51:459][762]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.44.51:459][762]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.44.51:459][762]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.44.51:459][762]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.44.51:467][762]LogWorldPartition: Display: WorldPartition initialize took 9.088 ms (total: 1.37 sec)
+[2024.12.30-16.44.51:467][762]LogPlayLevel: PIE: World Init took: (0.011060s)
+[2024.12.30-16.44.51:469][762]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.44.51:469][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.44.51:469][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.44.51:469][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.44.51:469][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.44.51:469][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.44.51:471][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.44.51:505][762]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.44.51:505][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.44.51:506][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.44.51:506][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.44.51:506][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2024.12.30-16.44.51:506][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=65
+[2024.12.30-16.44.51:510][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2024.12.30-16.44.51:510][762]LogInit: FAudioDevice initialized with ID 65.
+[2024.12.30-16.44.51:510][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2024.12.30-16.44.51:510][762]LogAudio: Display: Audio Device (ID: 65) registered with world 'ArenaMap'.
+[2024.12.30-16.44.51:510][762]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2024.12.30-16.44.51:512][762]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.44.51:514][762]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.44.51
+[2024.12.30-16.44.51:514][762]LogWorld: Bringing up level for play took: 0.002226
+[2024.12.30-16.44.51:517][762]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2024.12.30-16.44.51:525][762]LogStreaming: Display: FlushAsyncLoading(3365,3364,3363,3362,3361,3360,3359,3358,3357,3356,3355,3354,3353,3352,3351,3350,3349,3348,3347,3346,3345,3344,3343,3342,3341,3340,3339,3338,3337,3336,3335,3334,3333,3332,3331,3330,3329,3328,3327,3326,3325,3324): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.44.51:837][762]PIE: Server logged in
+[2024.12.30-16.44.51:838][762]PIE: Play in editor total start time 0,429 seconds.
+[2024.12.30-16.44.54:787][948]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-16.44.55:583][  8]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-16.44.56:084][ 49]LogBlueprintUserMessages: [HeroCharacter_C_0] 10.0
+[2024.12.30-16.44.56:584][ 87]LogBlueprintUserMessages: [HeroCharacter_C_0] -20.0
+[2024.12.30-16.44.56:622][ 90]LogBlueprintUserMessages: [HeroCharacter_C_0] -50.0
+[2024.12.30-16.44.57:083][124]LogBlueprintUserMessages: [HeroCharacter_C_0] -80.0
+[2024.12.30-16.44.57:121][127]LogBlueprintUserMessages: [HeroCharacter_C_0] -110.0
+[2024.12.30-16.44.57:590][165]LogBlueprintUserMessages: [HeroCharacter_C_0] -140.0
+[2024.12.30-16.44.57:627][168]LogBlueprintUserMessages: [HeroCharacter_C_0] -170.0
+[2024.12.30-16.44.58:085][204]LogBlueprintUserMessages: [HeroCharacter_C_0] -200.0
+[2024.12.30-16.44.58:122][207]LogBlueprintUserMessages: [HeroCharacter_C_0] -230.0
+[2024.12.30-16.44.58:328][224]LogBlueprintUserMessages: [HeroCharacter_C_0] -260.0
+[2024.12.30-16.44.58:576][244]LogBlueprintUserMessages: [HeroCharacter_C_0] -290.0
+[2024.12.30-16.44.58:626][248]LogBlueprintUserMessages: [HeroCharacter_C_0] -320.0
+[2024.12.30-16.44.58:626][248]LogBlueprintUserMessages: [HeroCharacter_C_0] -350.0
+[2024.12.30-16.44.58:824][264]LogBlueprintUserMessages: [HeroCharacter_C_0] -380.0
+[2024.12.30-16.44.59:085][285]LogBlueprintUserMessages: [HeroCharacter_C_0] -410.0
+[2024.12.30-16.44.59:123][288]LogBlueprintUserMessages: [HeroCharacter_C_0] -440.0
+[2024.12.30-16.44.59:134][289]LogBlueprintUserMessages: [HeroCharacter_C_0] -470.0
+[2024.12.30-16.44.59:323][304]LogBlueprintUserMessages: [HeroCharacter_C_0] -500.0
+[2024.12.30-16.44.59:577][325]LogBlueprintUserMessages: [HeroCharacter_C_0] -530.0
+[2024.12.30-16.44.59:621][328]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0030
+[2024.12.30-16.44.59:621][328]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.44.59:634][329]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_5
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0030
+[2024.12.30-16.44.59:634][329]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.44.59:821][344]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.45.00:084][365]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0030
+[2024.12.30-16.45.00:084][365]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.45.00:095][366]LogBlueprintUserMessages: [HeroCharacter_C_1] 70.0
+[2024.12.30-16.45.00:171][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.45.00:171][368]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.45.00:182][368]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.45.00:183][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.45.00:183][368]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.45.00:187][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.45.00:196][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.45.00:220][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-16.45.00:220][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2024.12.30-16.45.00:221][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.12.30-16.45.00:222][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.12.30-16.45.00:227][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.45.00:237][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.12.30-16.45.00:496][369]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.12.30-16.45.03:499][554]LogSlate: Window 'Message Log' being destroyed
+[2024.12.30-16.45.03:521][554]LogSlate: Window 'Message Log' being destroyed
+[2024.12.30-16.45.27:434][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-16.45.27:939][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.45.27:971][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.45.27:976][997]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.45.27:976][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.45.27:976][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2024.12.30-16.45.27:982][997]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickHUD
+[2024.12.30-16.45.27:982][997]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUD73B02ADF412F2170E01FCF961B69220B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset'
+[2024.12.30-16.45.27:995][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.120 ms (total: 6.86 sec)
+[2024.12.30-16.45.28:035][997]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.45.28:035][997]LogContentValidation: Enabled validators:
+[2024.12.30-16.45.28:035][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.45.28:035][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.45.28:035][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.45.28:035][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.45.28:035][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.45.28:035][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.45.28:039][997]AssetCheck: /Game/Blueprints/TwinStickHUD Validating asset
+[2024.12.30-16.45.35:509][455]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.45.35:517][455]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.45.35:517][455]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.45.35:524][455]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.873 ms (total: 402.143 ms)
+[2024.12.30-16.45.35:524][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.45.35:561][455]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.45.35:573][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013266s)
+[2024.12.30-16.45.35:573][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.013303s)
+[2024.12.30-16.45.35:593][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.30-16.45.35:597][455]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.45.35:598][455]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.45.35:598][455]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.45.35:598][455]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.45.35:598][455]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.45.35:608][455]LogWorldPartition: Display: WorldPartition initialize took 9.277 ms (total: 1.38 sec)
+[2024.12.30-16.45.35:608][455]LogPlayLevel: PIE: World Init took: (0.010883s)
+[2024.12.30-16.45.35:609][455]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.45.35:609][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.45.35:609][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.45.35:609][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.45.35:609][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.45.35:609][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.45.35:610][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.45.35:644][455]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.45.35:644][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.45.35:644][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.45.35:644][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.45.35:645][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2024.12.30-16.45.35:645][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=66
+[2024.12.30-16.45.35:647][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2024.12.30-16.45.35:648][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2024.12.30-16.45.35:648][455]LogInit: FAudioDevice initialized with ID 66.
+[2024.12.30-16.45.35:648][455]LogAudio: Display: Audio Device (ID: 66) registered with world 'ArenaMap'.
+[2024.12.30-16.45.35:648][455]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2024.12.30-16.45.35:650][455]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.45.35:652][455]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.45.35
+[2024.12.30-16.45.35:652][455]LogWorld: Bringing up level for play took: 0.001990
+[2024.12.30-16.45.35:654][455]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2024.12.30-16.45.35:662][455]LogStreaming: Display: FlushAsyncLoading(3407,3406,3405,3404,3403,3402,3401,3400,3399,3398,3397,3396,3395,3394,3393,3392,3391,3390,3389,3388,3387,3386,3385,3384,3383,3382,3381,3380,3379,3378,3377,3376,3375,3374,3373,3372,3371,3370,3369,3368,3367,3366): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.45.35:942][455]PIE: Server logged in
+[2024.12.30-16.45.35:942][455]PIE: Play in editor total start time 0,426 seconds.
+[2024.12.30-16.45.39:297][706]LogBlueprintUserMessages: [EnemyCharacter_C_4] 80.0
+[2024.12.30-16.45.39:443][717]LogBlueprintUserMessages: [EnemyCharacter_C_4] 60.0
+[2024.12.30-16.45.39:643][731]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-16.45.40:143][770]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-16.45.40:267][780]LogBlueprintUserMessages: [EnemyCharacter_C_4] 40.0
+[2024.12.30-16.45.40:305][783]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 80.0
+[2024.12.30-16.45.40:468][796]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 60.0
+[2024.12.30-16.45.40:643][810]LogBlueprintUserMessages: [HeroCharacter_C_0] 10.0
+[2024.12.30-16.45.40:774][821]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 40.0
+[2024.12.30-16.45.40:796][823]LogBlueprintUserMessages: [EnemyCharacter_C_6] 80.0
+[2024.12.30-16.45.40:878][830]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 20.0
+[2024.12.30-16.45.41:001][840]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 0.0
+[2024.12.30-16.45.41:142][852]LogBlueprintUserMessages: [HeroCharacter_C_0] -20.0
+[2024.12.30-16.45.41:262][862]LogBlueprintUserMessages: [EnemyCharacter_C_4] 20.0
+[2024.12.30-16.45.41:377][872]LogBlueprintUserMessages: [EnemyCharacter_C_4] 0.0
+[2024.12.30-16.45.41:414][875]LogBlueprintUserMessages: [HeroCharacter_C_0] -50.0
+[2024.12.30-16.45.41:648][895]LogBlueprintUserMessages: [HeroCharacter_C_0] -80.0
+[2024.12.30-16.45.41:907][917]LogBlueprintUserMessages: [HeroCharacter_C_0] -110.0
+[2024.12.30-16.45.41:982][923]LogBlueprintUserMessages: [EnemyCharacter_C_7] 80.0
+[2024.12.30-16.45.42:125][934]LogBlueprintUserMessages: [EnemyCharacter_C_0] 80.0
+[2024.12.30-16.45.42:149][936]LogBlueprintUserMessages: [HeroCharacter_C_0] -140.0
+[2024.12.30-16.45.42:416][957]LogBlueprintUserMessages: [HeroCharacter_C_0] -170.0
+[2024.12.30-16.45.42:681][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.45.42:681][974]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.45.42:692][974]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.45.42:693][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.45.42:693][974]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.45.42:698][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.45.42:705][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.45.42:729][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-16.45.42:729][974]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2024.12.30-16.45.42:729][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.12.30-16.45.42:731][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.12.30-16.45.42:736][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.45.42:745][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.12.30-16.45.42:897][975]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2024.12.30-16.47.15:481][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.30-16.47.15:484][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.297
+[2024.12.30-16.47.15:487][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.47.15:537][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.47.15:539][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.47.15:553][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HeroCharacter_Auto6
+[2024.12.30-16.47.15:553][ 12]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter_Auto658213DC847CA943EEDEA8E80261278AC.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/Blueprints/HeroCharacter_Auto6.uasset'
+[2024.12.30-16.47.15:554][ 12]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.47.15:559][ 12]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.47.15:559][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.47.15:566][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TwinStickHUD_Auto6
+[2024.12.30-16.47.15:566][ 12]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUD_Auto6F39A888048A808CDB9BD2E826360D737.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/Blueprints/TwinStickHUD_Auto6.uasset'
+[2024.12.30-16.47.15:566][ 12]LogFileHelpers: Auto-saving content packages took 0.080
+[2024.12.30-16.50.09:421][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18507.445312
+[2024.12.30-16.50.09:609][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.50.09:609][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18507.613281, Update Interval: 347.141937
+[2024.12.30-16.52.04:735][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.30-16.52.33:503][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.52.33:536][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TwinStickMode] ([2] browsable assets)...
+[2024.12.30-16.52.33:536][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickMode]
+[2024.12.30-16.52.33:536][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickMode" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickMode.uasset" SILENT=true
+[2024.12.30-16.52.33:542][939]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickMode
+[2024.12.30-16.52.33:542][939]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickModeBF2C884E4BBC2753457A36866522F6AF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickMode.uasset'
+[2024.12.30-16.52.33:554][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.355 ms (total: 6.91 sec)
+[2024.12.30-16.52.33:592][939]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.52.33:592][939]LogContentValidation: Enabled validators:
+[2024.12.30-16.52.33:592][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.52.33:592][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.52.33:592][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.52.33:592][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.52.33:592][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.52.33:592][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.52.33:592][939]AssetCheck: /Game/Blueprints/TwinStickMode Validating asset
+[2024.12.30-16.52.35:341][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.30-16.52.46:177][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.12.30-16.52.46:881][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.52.46:919][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TwinStickMode] ([2] browsable assets)...
+[2024.12.30-16.52.46:919][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickMode]
+[2024.12.30-16.52.46:919][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickMode" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickMode.uasset" SILENT=true
+[2024.12.30-16.52.46:925][203]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickMode
+[2024.12.30-16.52.46:925][203]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickModeF85CD75844A34091DABC81A00A56C837.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickMode.uasset'
+[2024.12.30-16.52.46:938][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.392 ms (total: 6.96 sec)
+[2024.12.30-16.52.46:975][203]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.52.46:975][203]LogContentValidation: Enabled validators:
+[2024.12.30-16.52.46:975][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.52.46:975][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.52.46:975][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.52.46:975][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.52.46:975][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.52.46:975][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.52.46:975][203]AssetCheck: /Game/Blueprints/TwinStickMode Validating asset
+[2024.12.30-16.52.54:564][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.52.54:601][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.52.54:610][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.52.54:611][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.52.54:611][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-16.52.54:626][610]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-16.52.54:627][610]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter3C2240C948C7DF27CF183894B3E18579.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-16.52.54:643][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.239 ms (total: 7.04 sec)
+[2024.12.30-16.52.54:691][610]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.52.54:691][610]LogContentValidation: Enabled validators:
+[2024.12.30-16.52.54:691][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.52.54:691][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.52.54:691][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.52.54:691][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.52.54:691][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.52.54:691][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.52.54:692][610]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-16.54.57:491][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.12.30-16.54.58:626][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.54.58:662][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.54.58:668][708]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter]
+[2024.12.30-16.54.58:669][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.54.58:669][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.54.58:682][708]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.54.58:682][708]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacter4973B4264415D98029AF37ADF01FFF3A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.54.58:695][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.625 ms (total: 7.11 sec)
+[2024.12.30-16.54.58:734][708]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.54.58:734][708]LogContentValidation: Enabled validators:
+[2024.12.30-16.54.58:734][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.54.58:734][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.54.58:734][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.54.58:734][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.54.58:734][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.54.58:734][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.54.58:734][708]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.55.09:135][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.55.09:173][253]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.55.09:173][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.55.09:173][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.55.09:186][253]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.55.09:187][253]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacterFCBD07B74545EBEFB0ED14A915ACFE17.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.55.09:201][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.094 ms (total: 7.18 sec)
+[2024.12.30-16.55.09:241][253]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.55.09:241][253]LogContentValidation: Enabled validators:
+[2024.12.30-16.55.09:241][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.55.09:241][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.55.09:241][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.55.09:241][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.55.09:241][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.55.09:241][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.55.09:241][253]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.55.10:639][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.55.10:677][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.55.10:677][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.55.10:677][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.55.10:690][324]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.55.10:690][324]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacterF8906C594E474B6D1856F1AD4BB0514F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.55.10:703][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.075 ms (total: 7.24 sec)
+[2024.12.30-16.55.10:738][324]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.55.10:738][324]LogContentValidation: Enabled validators:
+[2024.12.30-16.55.10:738][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.55.10:738][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.55.10:738][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.55.10:738][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.55.10:738][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.55.10:738][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.55.10:738][324]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.55.17:684][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.30-16.56.08:034][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.56.08:069][497]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.56.08:075][497]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.56.08:075][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.56.08:075][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2024.12.30-16.56.08:082][497]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickHUD
+[2024.12.30-16.56.08:083][497]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUD7F517658423E13482CF4AA9B8842D596.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset'
+[2024.12.30-16.56.08:096][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.682 ms (total: 7.30 sec)
+[2024.12.30-16.56.08:131][497]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.56.08:131][497]LogContentValidation: Enabled validators:
+[2024.12.30-16.56.08:131][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.56.08:131][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.56.08:131][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.56.08:131][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.56.08:131][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.56.08:131][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.56.08:136][497]AssetCheck: /Game/Blueprints/TwinStickHUD Validating asset
+[2024.12.30-16.56.08:849][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.30-16.56.17:205][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.56.17:212][994]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.56.17:212][994]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.56.17:221][994]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 8.962 ms (total: 411.106 ms)
+[2024.12.30-16.56.17:221][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.56.17:222][994]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.56.17:238][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015119s)
+[2024.12.30-16.56.17:238][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.015159s)
+[2024.12.30-16.56.17:257][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-16.56.17:259][994]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.56.17:261][994]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.56.17:261][994]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.56.17:261][994]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.56.17:261][994]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.56.17:271][994]LogWorldPartition: Display: WorldPartition initialize took 9.405 ms (total: 1.39 sec)
+[2024.12.30-16.56.17:271][994]LogPlayLevel: PIE: World Init took: (0.011134s)
+[2024.12.30-16.56.17:272][994]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.56.17:272][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.56.17:272][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.56.17:272][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.56.17:272][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.56.17:272][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.56.17:274][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.56.17:308][994]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.56.17:308][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.56.17:308][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.56.17:308][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.56.17:309][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2024.12.30-16.56.17:309][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=67
+[2024.12.30-16.56.17:313][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2024.12.30-16.56.17:313][994]LogInit: FAudioDevice initialized with ID 67.
+[2024.12.30-16.56.17:313][994]LogAudio: Display: Audio Device (ID: 67) registered with world 'ArenaMap'.
+[2024.12.30-16.56.17:313][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2024.12.30-16.56.17:313][994]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2024.12.30-16.56.17:315][994]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.56.17:317][994]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.56.17
+[2024.12.30-16.56.17:318][994]LogWorld: Bringing up level for play took: 0.002040
+[2024.12.30-16.56.17:319][994]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2024.12.30-16.56.17:327][994]LogStreaming: Display: FlushAsyncLoading(3449,3448,3447,3446,3445,3444,3443,3442,3441,3440,3439,3438,3437,3436,3435,3434,3433,3432,3431,3430,3429,3428,3427,3426,3425,3424,3423,3422,3421,3420,3419,3418,3417,3416,3415,3414,3413,3412,3411,3410,3409,3408): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.56.17:630][994]PIE: Server logged in
+[2024.12.30-16.56.17:631][994]PIE: Play in editor total start time 0,419 seconds.
+[2024.12.30-16.56.20:255][174]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 80.0
+[2024.12.30-16.56.20:430][188]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 60.0
+[2024.12.30-16.56.20:573][199]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 40.0
+[2024.12.30-16.56.20:693][208]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 20.0
+[2024.12.30-16.56.20:813][216]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 0.0
+[2024.12.30-16.56.22:630][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.56.22:630][355]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.56.22:642][355]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.56.22:642][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.56.22:643][355]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.56.22:648][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.56.22:655][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.56.22:680][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-16.56.22:680][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2024.12.30-16.56.22:680][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.12.30-16.56.22:682][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.12.30-16.56.22:690][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.56.22:700][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.12.30-16.56.22:894][356]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2024.12.30-16.56.43:510][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18901.308594
+[2024.12.30-16.56.43:699][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.56.43:699][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18901.484375, Update Interval: 301.144440
+[2024.12.30-16.57.36:990][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.30-16.57.37:164][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.30-16.57.37:538][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.37:576][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.57.37:583][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter]
+[2024.12.30-16.57.37:583][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.57.37:583][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.57.37:595][678]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.57.37:596][678]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacter4FF97FCA4B0889C8E5DB539461D7D488.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.57.37:611][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.070 ms (total: 7.37 sec)
+[2024.12.30-16.57.37:654][678]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.37:654][678]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.37:654][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.37:654][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.37:654][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.37:654][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.37:654][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.37:654][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.37:654][678]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.57.38:418][712]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.38:418][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.38:698][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.30-16.57.39:814][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.30-16.57.40:079][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-16.57.40:494][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.40:524][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.57.40:530][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.57.40:530][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.57.40:530][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-16.57.40:544][769]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-16.57.40:544][769]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacterE57A8E5D4E1144C67132F28F3A92BD69.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-16.57.40:557][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.682 ms (total: 7.44 sec)
+[2024.12.30-16.57.40:597][769]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.40:597][769]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.40:597][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.40:597][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.40:597][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.40:597][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.40:597][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.40:597][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.40:597][769]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-16.57.41:340][807]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-16.57.41:340][807]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.41:340][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.41:687][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-16.57.42:421][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-16.57.42:633][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.12.30-16.57.43:116][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.43:143][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Projectile] ([2] browsable assets)...
+[2024.12.30-16.57.43:148][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile.Projectile]
+[2024.12.30-16.57.43:148][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile]
+[2024.12.30-16.57.43:148][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Projectile.uasset" SILENT=true
+[2024.12.30-16.57.43:154][863]LogSavePackage: Moving output files for package: /Game/Blueprints/Projectile
+[2024.12.30-16.57.43:155][863]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Projectile8FBA66A94371106BEA46C7A04008E207.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Projectile.uasset'
+[2024.12.30-16.57.43:167][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.891 ms (total: 7.49 sec)
+[2024.12.30-16.57.43:208][863]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.43:208][863]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.43:208][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.43:208][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.43:208][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.43:208][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.43:208][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.43:208][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.43:208][863]AssetCheck: /Game/Blueprints/Projectile Validating asset
+[2024.12.30-16.57.44:670][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-16.57.44:670][943]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.44:670][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.44:826][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.12.30-16.57.45:894][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-16.57.46:158][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-16.57.46:634][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.46:670][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.57.46:676][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Gun.Gun]
+[2024.12.30-16.57.46:676][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.57.46:676][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.57.46:682][  0]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.57.46:682][  0]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Gun5E44BB564CA4209264A5829ED8AFB5FF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.57.46:695][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.911 ms (total: 7.55 sec)
+[2024.12.30-16.57.46:736][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.46:736][  0]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.46:737][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.46:737][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.46:737][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.46:737][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.46:737][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.46:737][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.46:737][  0]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.57.47:409][ 32]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-16.57.47:409][ 32]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.47:409][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.47:559][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.30-16.57.48:394][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-16.57.48:620][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.30-16.57.48:986][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.49:019][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TwinStickMode] ([2] browsable assets)...
+[2024.12.30-16.57.49:019][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickMode]
+[2024.12.30-16.57.49:019][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickMode" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickMode.uasset" SILENT=true
+[2024.12.30-16.57.49:024][ 87]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickMode
+[2024.12.30-16.57.49:024][ 87]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickMode4737BB2046EC687685C433A4FFF0E1BF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickMode.uasset'
+[2024.12.30-16.57.49:037][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.316 ms (total: 7.60 sec)
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.49:076][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.49:077][ 87]AssetCheck: /Game/Blueprints/TwinStickMode Validating asset
+[2024.12.30-16.57.49:841][130]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-16.57.49:841][130]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.49:842][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.49:986][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-16.57.50:923][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.30-16.57.51:492][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.51:526][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemySpawner] ([2] browsable assets)...
+[2024.12.30-16.57.51:526][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemySpawner]
+[2024.12.30-16.57.51:526][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemySpawner.uasset" SILENT=true
+[2024.12.30-16.57.51:531][200]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemySpawner
+[2024.12.30-16.57.51:531][200]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemySpawner43F6B1DC4E0A23A9786C7E9C926CFCA8.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemySpawner.uasset'
+[2024.12.30-16.57.51:544][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.353 ms (total: 7.65 sec)
+[2024.12.30-16.57.51:584][200]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.51:584][200]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.51:584][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.51:584][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.51:584][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.51:584][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.51:584][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.51:584][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.51:584][200]AssetCheck: /Game/Blueprints/EnemySpawner Validating asset
+[2024.12.30-16.57.52:425][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.30-16.57.53:052][268]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-16.57.53:052][268]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.53:052][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.53:220][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.12.30-16.57.53:799][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.12.30-16.57.54:078][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.12.30-16.57.54:471][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.54:512][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyAI] ([2] browsable assets)...
+[2024.12.30-16.57.54:512][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyAI]
+[2024.12.30-16.57.54:512][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyAI.uasset" SILENT=true
+[2024.12.30-16.57.54:516][299]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyAI
+[2024.12.30-16.57.54:517][299]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyAI2364B7D249152F24B100F68BCB59CD95.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyAI.uasset'
+[2024.12.30-16.57.54:530][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.835 ms (total: 7.71 sec)
+[2024.12.30-16.57.54:572][299]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.54:572][299]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.54:572][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.54:572][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.54:572][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.54:572][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.54:572][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.54:572][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.54:572][299]AssetCheck: /Game/Blueprints/EnemyAI Validating asset
+[2024.12.30-16.57.55:414][341]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-16.57.55:414][341]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.55:415][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.55:572][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.30-16.57.57:090][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.57:130][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/EnemyBlend] ([1] browsable assets)...
+[2024.12.30-16.57.57:130][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyBlend]
+[2024.12.30-16.57.57:130][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset" SILENT=true
+[2024.12.30-16.57.57:131][408]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyBlend
+[2024.12.30-16.57.57:132][408]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyBlend43B8BD804BC02BC120D274B29F82E17B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset'
+[2024.12.30-16.57.57:144][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.639 ms (total: 7.76 sec)
+[2024.12.30-16.57.57:178][408]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.57:178][408]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.57:178][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.57:178][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.57:178][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.57:178][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.57:178][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.57:178][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.57:178][408]AssetCheck: /Game/AnimationAssets/EnemyBlend Validating asset
+[2024.12.30-16.57.58:492][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.58:517][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/EnemyBlend] ([1] browsable assets)...
+[2024.12.30-16.57.58:517][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyBlend]
+[2024.12.30-16.57.58:517][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset" SILENT=true
+[2024.12.30-16.57.58:519][471]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyBlend
+[2024.12.30-16.57.58:520][471]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyBlend8DD075274CA13B42CD993E99811485A7.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset'
+[2024.12.30-16.57.58:532][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.760 ms (total: 7.80 sec)
+[2024.12.30-16.57.58:567][471]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.58:567][471]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.58:567][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.58:567][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.58:567][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.58:567][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.58:567][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.58:567][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.58:567][471]AssetCheck: /Game/AnimationAssets/EnemyBlend Validating asset
+[2024.12.30-16.57.58:666][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.57.58:699][475]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/EnemyBlend] ([1] browsable assets)...
+[2024.12.30-16.57.58:699][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyBlend]
+[2024.12.30-16.57.58:699][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset" SILENT=true
+[2024.12.30-16.57.58:700][475]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyBlend
+[2024.12.30-16.57.58:700][475]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyBlend23F9E7FD4BBFA8438B95A3B5DC55677F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset'
+[2024.12.30-16.57.58:713][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.741 ms (total: 7.85 sec)
+[2024.12.30-16.57.58:744][475]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.57.58:744][475]LogContentValidation: Enabled validators:
+[2024.12.30-16.57.58:744][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.57.58:744][475]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.57.58:744][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.57.58:744][475]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.57.58:744][475]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.57.58:744][475]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.57.58:744][475]AssetCheck: /Game/AnimationAssets/EnemyBlend Validating asset
+[2024.12.30-16.57.59:728][515]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.59:728][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.59:907][515]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.57.59:907][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.57.59:972][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.30-16.58.00:622][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.58.00:657][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-16.58.00:657][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-16.58.00:676][548]LogSavePackage: Moving output files for package: /Game/AnimationAssets/CharacterAnimBP
+[2024.12.30-16.58.00:676][548]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBP066C4B6045D44C7DF876FA8ED054AEAF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/CharacterAnimBP.uasset'
+[2024.12.30-16.58.00:689][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.109 ms (total: 7.92 sec)
+[2024.12.30-16.58.00:730][548]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.58.00:730][548]LogContentValidation: Enabled validators:
+[2024.12.30-16.58.00:730][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.58.00:730][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.58.00:730][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.58.00:730][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.58.00:730][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.58.00:730][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.58.00:730][548]AssetCheck: /Game/AnimationAssets/CharacterAnimBP Validating asset
+[2024.12.30-16.58.01:305][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.30-16.58.01:556][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.30-16.58.02:137][595]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.02:137][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.02:177][595]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.02:178][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.02:626][595]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.02:626][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.02:686][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-16.58.03:327][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.30-16.58.03:508][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.30-16.58.03:977][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.58.04:011][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/EnemyAnimBP] ([2] browsable assets)...
+[2024.12.30-16.58.04:020][644]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/EnemyAnimBP.EnemyAnimBP]
+[2024.12.30-16.58.04:020][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyAnimBP]
+[2024.12.30-16.58.04:020][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyAnimBP" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyAnimBP.uasset" SILENT=true
+[2024.12.30-16.58.04:024][644]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyAnimBP
+[2024.12.30-16.58.04:024][644]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyAnimBP233B54724AFC1F5A27A64E87E0C15456.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyAnimBP.uasset'
+[2024.12.30-16.58.04:037][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.546 ms (total: 7.97 sec)
+[2024.12.30-16.58.04:070][644]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.58.04:070][644]LogContentValidation: Enabled validators:
+[2024.12.30-16.58.04:070][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.58.04:070][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.58.04:070][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.58.04:070][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.58.04:070][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.58.04:070][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.58.04:070][644]AssetCheck: /Game/AnimationAssets/EnemyAnimBP Validating asset
+[2024.12.30-16.58.05:074][690]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.05:074][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.05:095][690]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.05:095][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.05:163][690]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.05:163][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.05:210][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.30-16.58.05:915][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-16.58.06:084][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-16.58.06:503][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.58.06:539][755]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TwinStickHUD] ([2] browsable assets)...
+[2024.12.30-16.58.06:545][755]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TwinStickHUD.TwinStickHUD]
+[2024.12.30-16.58.06:545][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickHUD]
+[2024.12.30-16.58.06:545][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2024.12.30-16.58.06:552][755]LogSavePackage: Moving output files for package: /Game/Blueprints/TwinStickHUD
+[2024.12.30-16.58.06:552][755]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/TwinStickHUD3E5FC02F489CBEBC21C6EBB5E46782B5.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/TwinStickHUD.uasset'
+[2024.12.30-16.58.06:564][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.252 ms (total: 8.04 sec)
+[2024.12.30-16.58.06:605][755]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.58.06:605][755]LogContentValidation: Enabled validators:
+[2024.12.30-16.58.06:605][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.58.06:605][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.58.06:605][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.58.06:605][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.58.06:605][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.58.06:605][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.58.06:608][755]AssetCheck: /Game/Blueprints/TwinStickHUD Validating asset
+[2024.12.30-16.58.08:394][879]LogSlate: Window 'TwinStickHUD' being destroyed
+[2024.12.30-16.58.08:520][879]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.08:520][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.08:528][879]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.58.08:528][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.58.08:706][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.12.30-16.58.15:906][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.30-16.58.15:911][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.58.15:943][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin] ([1] browsable assets)...
+[2024.12.30-16.58.15:943][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin]
+[2024.12.30-16.58.15:981][479]LogSavePackage: Moving output files for package: /Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin
+[2024.12.30-16.58.15:981][479]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/SK_MannequinC4AF0B87448CF5E02C8EA6AE593A412F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2024.12.30-16.58.15:982][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2024.12.30-16.58.15:982][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2024.12.30-16.58.15:983][479]LogSavePackage: Moving output files for package: /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton
+[2024.12.30-16.58.15:984][479]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/UE4_Mannequin_SkeletonE6EE4897449D6035A4F2CBA789E2B749.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2024.12.30-16.58.15:997][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.144 ms (total: 8.12 sec)
+[2024.12.30-16.58.16:036][479]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.30-16.58.16:036][479]LogContentValidation: Enabled validators:
+[2024.12.30-16.58.16:036][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.58.16:036][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.58.16:036][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.58.16:036][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.58.16:036][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.58.16:036][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.58.16:036][479]AssetCheck: /Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin Validating asset
+[2024.12.30-16.58.16:036][479]AssetCheck: /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton Validating asset
