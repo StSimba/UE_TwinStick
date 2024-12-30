@@ -6033,3 +6033,735 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.30-15.03.21:983][  6]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ALNTNSSP96TFRR7W013D3Y_Auto9157DC2504F188EBBB95DC88D916AAF31.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/__ExternalActors__/ArenaMap/A/QJ/ALNTNSSP96TFRR7W013D3Y_Auto9.uasset'
 [2024.12.30-15.03.21:984][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.026
 [2024.12.30-15.03.21:984][  6]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2024.12.30-15.08.36:431][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12414.451172
+[2024.12.30-15.08.36:623][639]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.08.36:623][639]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12414.627930, Update Interval: 352.448486
+[2024.12.30-15.08.45:773][338]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.30-15.08.45:805][338]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.12.30-15.08.45:856][338]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.12.30-15.08.53:647][338]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.12.30-15.08.53:665][338]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2024.12.30-15.08.53:704][338]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2024.12.30-15.08.53:710][338]LogAutomationController: Ignoring very large delta of 8.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-15.08.53:721][339]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2024.12.30-15.09.12:064][ 83]LogContentBrowser: Attempting asset rename: NewBlendSpace -> HeroBlend
+[2024.12.30-15.09.12:066][ 83]LogContentBrowser: End creating deferred item NewBlendSpace
+[2024.12.30-15.09.12:066][ 83]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.12.30-15.09.14:383][261]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimationAssets/HeroBlend.HeroBlend
+[2024.12.30-15.09.14:479][261]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.12.30-15.09.14:525][261]LogStreaming: Display: FlushAsyncLoading(2511): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.09.14:611][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-15.09.15:034][261]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.12.30-15.12.54:100][ 11]LogStreaming: Display: FlushAsyncLoading(2516): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.12.54:137][ 11]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip (Required Memory Estimate: 2.32 MB)
+[2024.12.30-15.12.54:179][ 11]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip, at AnimationSequence/7b2255e97bf1ba042d9062ec8981f1905f49cb7d
+[2024.12.30-15.12.54:206][ 11]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.12.30-15.13.46:982][228]LogStreaming: Display: FlushAsyncLoading(2517): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.13.46:987][228]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle (Required Memory Estimate: 0.64 MB)
+[2024.12.30-15.13.46:998][228]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle, at AnimationSequence/b174b717559974dc21083e28d744e23cb7084055
+[2024.12.30-15.14.21:649][982]LogStreaming: Display: FlushAsyncLoading(2518): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.14.21:656][982]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle (Required Memory Estimate: 0.64 MB)
+[2024.12.30-15.14.21:667][982]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle, at AnimationSequence/d39df07d3e48a5e581f8e0b66f51964860fb465b
+[2024.12.30-15.14.27:252][272]LogStreaming: Display: FlushAsyncLoading(2519): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.14.27:256][272]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle (Required Memory Estimate: 0.64 MB)
+[2024.12.30-15.14.27:270][272]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle, at AnimationSequence/1d73061e7551391678dc612143deec69be399ee5
+[2024.12.30-15.14.34:447][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.30-15.14.34:451][654]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.147
+[2024.12.30-15.14.34:451][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.14.34:461][654]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/HeroBlend.HeroBlend]
+[2024.12.30-15.14.34:461][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.14.34:463][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/HeroBlend_Auto0
+[2024.12.30-15.14.34:463][654]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlend_Auto0884215AB4ADF624DE822A5908ECAC19E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/HeroBlend_Auto0.uasset'
+[2024.12.30-15.14.34:464][654]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.12.30-15.15.20:698][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12818.758789
+[2024.12.30-15.15.20:856][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.15.20:856][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12818.899414, Update Interval: 323.408905
+[2024.12.30-15.15.31:519][280]LogStreaming: Display: FlushAsyncLoading(2520): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.15.31:526][280]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle (Required Memory Estimate: 0.64 MB)
+[2024.12.30-15.15.31:538][280]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle, at AnimationSequence/4ac7e9bdaf632703fd984685007c0c2e68a309cb
+[2024.12.30-15.19.48:959][404]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.12.30-15.19.48:999][404]LogAutomationController: Ignoring very large delta of 2.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-15.20.59:385][755]LogShaderCompilers: Display: ================================================
+[2024.12.30-15.20.59:385][755]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Total job queries 1 085, among them cache hits 849 (78.25%), DDC hits 231 (21.29%), Duplicates 4 (0.37%)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 197 distinct outputs (84.91%)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: RAM used: 141,32 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Job execution time: average 6.32 s, max 6.32 s
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Job life time (pending + execution): average 6.38 s, max 6.38
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Shader code size: average 7,344 KiB, min 4,086 KiB, max 10,602 KiB
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.38 s
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Average processing rate: 0.16 jobs/sec
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Total thread time: 1,422 s
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Total thread preprocess time: 15,099 s
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Percentage time preprocessing: 1062.14%
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Effective parallelization: 0.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                                  FVelocityPS - 50.36% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                                  FVelocityVS - 49.64% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: === Material stats ===
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Materials Translated:    157
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Material Translation Only: 0.07 s (28%)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: Material Cache Hits: 28 (18%)
+[2024.12.30-15.20.59:386][755]LogShaderCompilers: Display: ================================================
+[2024.12.30-15.21.15:400][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13173.443359
+[2024.12.30-15.21.16:401][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.21.16:401][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13174.111328, Update Interval: 345.276031
+[2024.12.30-15.22.06:601][195]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2024.12.30-15.24.57:774][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.30-15.24.57:779][576]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.038
+[2024.12.30-15.24.57:779][576]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.24.57:836][576]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/HeroBlend.HeroBlend]
+[2024.12.30-15.24.57:836][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.24.57:838][576]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/HeroBlend_Auto1
+[2024.12.30-15.24.57:838][576]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlend_Auto11484F9B64F1F29AE610649B7A950A7A0.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/HeroBlend_Auto1.uasset'
+[2024.12.30-15.24.57:839][576]LogFileHelpers: Auto-saving content packages took 0.060
+[2024.12.30-15.26.41:122][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.26.41:153][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.26.41:162][287]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/HeroBlend.HeroBlend]
+[2024.12.30-15.26.41:162][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.26.41:162][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2024.12.30-15.26.41:164][287]LogSavePackage: Moving output files for package: /Game/AnimationAssets/HeroBlend
+[2024.12.30-15.26.41:164][287]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlendB68524F445FCF92C8C5D2DB38A702D5E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset'
+[2024.12.30-15.26.41:177][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.550 ms (total: 4.83 sec)
+[2024.12.30-15.26.41:202][287]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.26.41:202][287]LogContentValidation: Enabled validators:
+[2024.12.30-15.26.41:202][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.26.41:202][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.26.41:202][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.26.41:202][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.26.41:202][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.26.41:202][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.26.41:202][287]AssetCheck: /Game/AnimationAssets/HeroBlend Validating asset
+[2024.12.30-15.26.42:809][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.26.42:840][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.26.42:840][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.26.42:840][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2024.12.30-15.26.42:843][361]LogSavePackage: Moving output files for package: /Game/AnimationAssets/HeroBlend
+[2024.12.30-15.26.42:843][361]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlendC2399FD343A9C3767A963F9E942EB04A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset'
+[2024.12.30-15.26.42:854][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.896 ms (total: 4.87 sec)
+[2024.12.30-15.26.42:891][361]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.26.42:891][361]LogContentValidation: Enabled validators:
+[2024.12.30-15.26.42:891][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.26.42:891][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.26.42:891][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.26.42:891][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.26.42:891][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.26.42:891][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.26.42:891][361]AssetCheck: /Game/AnimationAssets/HeroBlend Validating asset
+[2024.12.30-15.26.43:006][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.26.43:043][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.26.43:043][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.26.43:043][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2024.12.30-15.26.43:046][365]LogSavePackage: Moving output files for package: /Game/AnimationAssets/HeroBlend
+[2024.12.30-15.26.43:047][365]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlendBB729ABB4FA88C9181746A9C6E61B024.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset'
+[2024.12.30-15.26.43:058][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.840 ms (total: 4.92 sec)
+[2024.12.30-15.26.43:093][365]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.26.43:093][365]LogContentValidation: Enabled validators:
+[2024.12.30-15.26.43:093][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.26.43:093][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.26.43:093][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.26.43:093][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.26.43:093][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.26.43:093][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.26.43:093][365]AssetCheck: /Game/AnimationAssets/HeroBlend Validating asset
+[2024.12.30-15.26.43:165][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.26.43:196][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.26.43:196][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.26.43:196][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2024.12.30-15.26.43:198][367]LogSavePackage: Moving output files for package: /Game/AnimationAssets/HeroBlend
+[2024.12.30-15.26.43:199][367]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlend95E7472744AB8400E34BC58EBDAE45F7.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset'
+[2024.12.30-15.26.43:209][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.433 ms (total: 4.97 sec)
+[2024.12.30-15.26.43:246][367]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.26.43:246][367]LogContentValidation: Enabled validators:
+[2024.12.30-15.26.43:246][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.26.43:246][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.26.43:246][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.26.43:246][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.26.43:246][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.26.43:246][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.26.43:246][367]AssetCheck: /Game/AnimationAssets/HeroBlend Validating asset
+[2024.12.30-15.26.43:285][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.26.43:324][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2024.12.30-15.26.43:324][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2024.12.30-15.26.43:324][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2024.12.30-15.26.43:326][368]LogSavePackage: Moving output files for package: /Game/AnimationAssets/HeroBlend
+[2024.12.30-15.26.43:327][368]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroBlend85FEAD5E4EF19A871F7C8BA50ED677E2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/HeroBlend.uasset'
+[2024.12.30-15.26.43:339][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.006 ms (total: 5.02 sec)
+[2024.12.30-15.26.43:377][368]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.26.43:377][368]LogContentValidation: Enabled validators:
+[2024.12.30-15.26.43:377][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.26.43:377][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.26.43:377][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.26.43:377][368]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.26.43:377][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.26.43:377][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.26.43:377][368]AssetCheck: /Game/AnimationAssets/HeroBlend Validating asset
+[2024.12.30-15.27.38:157][173]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.12.30-15.27.38:178][173]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.12.30-15.27.38:187][173]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.12.30-15.27.38:199][173]LogAutomationController: Ignoring very large delta of 11.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-15.27.38:199][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13556.273438
+[2024.12.30-15.27.38:211][174]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.12.30-15.27.40:226][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.27.40:227][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13558.282227, Update Interval: 323.628662
+[2024.12.30-15.28.03:139][287]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> CharacterAnimBP
+[2024.12.30-15.28.03:158][287]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.12.30-15.28.03:159][287]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.12.30-15.28.06:071][516]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP
+[2024.12.30-15.28.06:072][516]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.12.30-15.28.06:082][516]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.12.30-15.28.06:089][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-15.28.06:448][516]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.12.30-15.28.28:566][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.28.28:610][653]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-15.28.28:619][653]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP]
+[2024.12.30-15.28.28:619][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-15.28.28:622][653]LogSavePackage: Moving output files for package: /Game/AnimationAssets/CharacterAnimBP
+[2024.12.30-15.28.28:622][653]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBPC39B5A024D9BE9F26061C99356A71B6C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/CharacterAnimBP.uasset'
+[2024.12.30-15.28.28:640][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.998 ms (total: 5.09 sec)
+[2024.12.30-15.28.28:674][653]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.28.28:674][653]LogContentValidation: Enabled validators:
+[2024.12.30-15.28.28:674][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.28.28:674][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.28.28:674][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.28.28:674][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.28.28:674][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.28.28:674][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.28.28:674][653]AssetCheck: /Game/AnimationAssets/CharacterAnimBP Validating asset
+[2024.12.30-15.30.14:966][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.12.30-15.31.16:406][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-15.31.25:380][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.31.25:404][540]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-15.31.25:413][540]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP]
+[2024.12.30-15.31.25:413][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-15.31.25:416][540]LogSavePackage: Moving output files for package: /Game/AnimationAssets/CharacterAnimBP
+[2024.12.30-15.31.25:418][540]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBPA3AE5BA34BD6D4E5C4A582B7911CB156.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/CharacterAnimBP.uasset'
+[2024.12.30-15.31.25:427][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.946 ms (total: 5.14 sec)
+[2024.12.30-15.31.25:461][540]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.31.25:461][540]LogContentValidation: Enabled validators:
+[2024.12.30-15.31.25:461][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.31.25:461][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.31.25:461][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.31.25:461][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.31.25:461][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.31.25:461][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.31.25:461][540]AssetCheck: /Game/AnimationAssets/CharacterAnimBP Validating asset
+[2024.12.30-15.31.28:303][696]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-15.31.28:303][696]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-15.31.28:309][696]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.618 ms (total: 277.857 ms)
+[2024.12.30-15.31.28:310][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-15.31.28:347][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-15.31.28:360][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013268s)
+[2024.12.30-15.31.28:360][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.013309s)
+[2024.12.30-15.31.28:379][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.30-15.31.28:382][696]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-15.31.28:383][696]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-15.31.28:383][696]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-15.31.28:383][696]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-15.31.28:383][696]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-15.31.28:393][696]LogWorldPartition: Display: WorldPartition initialize took 9.237 ms (total: 1.20 sec)
+[2024.12.30-15.31.28:393][696]LogPlayLevel: PIE: World Init took: (0.010824s)
+[2024.12.30-15.31.28:394][696]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-15.31.28:394][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-15.31.28:394][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-15.31.28:394][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-15.31.28:394][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-15.31.28:394][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-15.31.28:396][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-15.31.28:431][696]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-15.31.28:431][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-15.31.28:431][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-15.31.28:431][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-15.31.28:432][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.12.30-15.31.28:432][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=46
+[2024.12.30-15.31.28:434][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.12.30-15.31.28:434][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.12.30-15.31.28:434][696]LogInit: FAudioDevice initialized with ID 46.
+[2024.12.30-15.31.28:434][696]LogAudio: Display: Audio Device (ID: 46) registered with world 'ArenaMap'.
+[2024.12.30-15.31.28:434][696]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.12.30-15.31.28:441][696]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-15.31.28:443][696]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-17.31.28
+[2024.12.30-15.31.28:443][696]LogWorld: Bringing up level for play took: 0.002495
+[2024.12.30-15.31.28:446][696]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.12.30-15.31.28:453][696]LogStreaming: Display: FlushAsyncLoading(2561,2560,2559,2558,2557,2556,2555,2554,2553,2552,2551,2550,2549,2548,2547,2546,2545,2544,2543,2542,2541,2540,2539,2538,2537,2536,2535,2534,2533,2532,2531,2530,2529,2528,2527,2526,2525,2524,2523,2522,2521): 41 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.31.28:721][696]PIE: Server logged in
+[2024.12.30-15.31.28:722][696]PIE: Play in editor total start time 0,42 seconds.
+[2024.12.30-15.31.29:859][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-15.31.29:860][723]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-15.31.29:870][723]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-15.31.29:871][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-15.31.29:871][723]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-15.31.29:874][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-15.31.29:881][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-15.31.29:904][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-15.31.29:906][723]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.12.30-15.31.29:906][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.12.30-15.31.29:908][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.12.30-15.31.29:922][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.12.30-15.31.30:064][724]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.12.30-15.32.30:220][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-15.33.49:080][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13927.171875
+[2024.12.30-15.33.49:272][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.33.49:272][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13927.346680, Update Interval: 359.086273
+[2024.12.30-15.37.16:484][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.30-15.37.58:867][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-15.37.58:870][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.026
+[2024.12.30-15.37.58:870][682]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-15.37.58:877][682]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP]
+[2024.12.30-15.37.58:877][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-15.37.58:886][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/CharacterAnimBP_Auto2
+[2024.12.30-15.37.58:886][682]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBP_Auto2B06B6D814D1B640CC2F666AD036AA2FA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/CharacterAnimBP_Auto2.uasset'
+[2024.12.30-15.37.58:886][682]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.12.30-15.38.39:678][616]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 3ef...7e4
+[2024.12.30-15.38.39:678][616]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2024.12.30-15.38.39:893][628]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 3ef...7e4 Access[Expires: 2024.12.30-17.38.39 Remaining: 7200.28] Refresh[Expires: 2025-06-28T11:41:57.327Z Remaining: 15537798.33] State: Valid
+[2024.12.30-15.39.03:025][566]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.12.30-15.39.31:974][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.30-15.39.32:846][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.39.32:885][361]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-15.39.32:924][361]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-15.39.32:924][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-15.39.32:924][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-15.39.32:941][361]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-15.39.32:941][361]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacterF224445D40A904B066FE5792F844CA9D.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-15.39.32:953][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.121 ms (total: 5.25 sec)
+[2024.12.30-15.39.32:987][361]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.39.32:987][361]LogContentValidation: Enabled validators:
+[2024.12.30-15.39.32:987][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.39.32:987][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.39.32:987][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.39.32:987][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.39.32:987][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.39.32:987][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.39.32:987][361]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-15.39.36:938][583]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-15.39.36:945][583]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-15.39.36:945][583]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-15.39.36:953][583]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.772 ms (total: 284.630 ms)
+[2024.12.30-15.39.36:953][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-15.39.36:953][583]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-15.39.36:967][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013631s)
+[2024.12.30-15.39.36:967][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.013670s)
+[2024.12.30-15.39.36:986][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.30-15.39.36:989][583]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-15.39.36:990][583]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-15.39.36:990][583]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-15.39.36:990][583]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-15.39.36:990][583]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-15.39.37:000][583]LogWorldPartition: Display: WorldPartition initialize took 9.027 ms (total: 1.20 sec)
+[2024.12.30-15.39.37:000][583]LogPlayLevel: PIE: World Init took: (0.010678s)
+[2024.12.30-15.39.37:001][583]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-15.39.37:001][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-15.39.37:001][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-15.39.37:001][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-15.39.37:001][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-15.39.37:001][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-15.39.37:004][583]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-15.39.37:036][583]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-15.39.37:036][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-15.39.37:038][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-15.39.37:038][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-15.39.37:038][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.12.30-15.39.37:038][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=47
+[2024.12.30-15.39.37:041][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.12.30-15.39.37:041][583]LogInit: FAudioDevice initialized with ID 47.
+[2024.12.30-15.39.37:041][583]LogAudio: Display: Audio Device (ID: 47) registered with world 'ArenaMap'.
+[2024.12.30-15.39.37:041][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.12.30-15.39.37:041][583]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.12.30-15.39.37:043][583]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-15.39.37:045][583]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-17.39.37
+[2024.12.30-15.39.37:045][583]LogWorld: Bringing up level for play took: 0.002121
+[2024.12.30-15.39.37:049][583]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.12.30-15.39.37:056][583]LogStreaming: Display: FlushAsyncLoading(2604,2603,2602,2601,2600,2599,2598,2597,2596,2595,2594,2593,2592,2591,2590,2589,2588,2587,2586,2585,2584,2583,2582,2581,2580,2579,2578,2577,2576,2575,2574,2573,2572,2571,2570,2569,2568,2567,2566,2565,2564): 41 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.39.37:322][583]PIE: Server logged in
+[2024.12.30-15.39.37:323][583]PIE: Play in editor total start time 0,377 seconds.
+[2024.12.30-15.39.40:200][795]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 80.0
+[2024.12.30-15.39.40:332][806]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 60.0
+[2024.12.30-15.39.40:392][811]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 40.0
+[2024.12.30-15.39.40:490][819]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 20.0
+[2024.12.30-15.39.40:621][830]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 0.0
+[2024.12.30-15.39.42:607][996]LogBlueprintUserMessages: [EnemyCharacter_C_6] 80.0
+[2024.12.30-15.39.43:200][ 45]LogBlueprintUserMessages: [EnemyCharacter_C_6] 60.0
+[2024.12.30-15.39.44:533][154]LogBlueprintUserMessages: [EnemyCharacter_C_6] 40.0
+[2024.12.30-15.39.44:581][158]LogBlueprintUserMessages: [EnemyCharacter_C_4] 80.0
+[2024.12.30-15.39.47:358][385]LogBlueprintUserMessages: [EnemyCharacter_C_2] 80.0
+[2024.12.30-15.39.47:487][395]LogBlueprintUserMessages: [EnemyCharacter_C_2] 60.0
+[2024.12.30-15.39.47:663][409]LogBlueprintUserMessages: [EnemyCharacter_C_0] 80.0
+[2024.12.30-15.39.48:807][500]LogBlueprintUserMessages: [EnemyCharacter_C_9] 80.0
+[2024.12.30-15.39.48:985][514]LogBlueprintUserMessages: [EnemyCharacter_C_9] 60.0
+[2024.12.30-15.39.49:136][526]LogBlueprintUserMessages: [EnemyCharacter_C_7] 80.0
+[2024.12.30-15.39.49:148][527]LogBlueprintUserMessages: [EnemyCharacter_C_9] 40.0
+[2024.12.30-15.39.49:235][534]LogBlueprintUserMessages: [EnemyCharacter_C_7] 60.0
+[2024.12.30-15.39.49:313][540]LogBlueprintUserMessages: [EnemyCharacter_C_9] 20.0
+[2024.12.30-15.39.49:507][555]LogBlueprintUserMessages: [EnemyCharacter_C_0] 60.0
+[2024.12.30-15.39.49:973][589]LogBlueprintUserMessages: [EnemyCharacter_C_7] 40.0
+[2024.12.30-15.39.50:408][620]LogBlueprintUserMessages: [EnemyCharacter_C_1] 80.0
+[2024.12.30-15.39.50:569][633]LogBlueprintUserMessages: [EnemyCharacter_C_1] 60.0
+[2024.12.30-15.39.50:643][639]LogBlueprintUserMessages: [EnemyCharacter_C_5] 80.0
+[2024.12.30-15.39.50:781][650]LogBlueprintUserMessages: [EnemyCharacter_C_3] 80.0
+[2024.12.30-15.39.51:038][670]LogBlueprintUserMessages: [EnemyCharacter_C_3] 60.0
+[2024.12.30-15.39.51:138][678]LogBlueprintUserMessages: [EnemyCharacter_C_6] 20.0
+[2024.12.30-15.39.51:188][682]LogBlueprintUserMessages: [EnemyCharacter_C_5] 60.0
+[2024.12.30-15.39.51:319][692]LogBlueprintUserMessages: [EnemyCharacter_C_7] 20.0
+[2024.12.30-15.39.51:450][702]LogBlueprintUserMessages: [EnemyCharacter_C_7] 0.0
+[2024.12.30-15.39.51:638][716]LogBlueprintUserMessages: [EnemyCharacter_C_1] 40.0
+[2024.12.30-15.39.51:703][721]LogBlueprintUserMessages: [EnemyCharacter_C_5] 40.0
+[2024.12.30-15.39.51:861][733]LogBlueprintUserMessages: [EnemyCharacter_C_5] 20.0
+[2024.12.30-15.39.52:026][746]LogBlueprintUserMessages: [EnemyCharacter_C_5] 0.0
+[2024.12.30-15.39.52:535][785]LogBlueprintUserMessages: [EnemyCharacter_C_1] 20.0
+[2024.12.30-15.39.52:620][792]LogBlueprintUserMessages: [EnemyCharacter_C_3] 40.0
+[2024.12.30-15.39.52:699][798]LogBlueprintUserMessages: [EnemyCharacter_C_3] 20.0
+[2024.12.30-15.39.52:825][808]LogBlueprintUserMessages: [EnemyCharacter_C_3] 0.0
+[2024.12.30-15.39.52:932][816]LogBlueprintUserMessages: [EnemyCharacter_C_1] 0.0
+[2024.12.30-15.39.53:075][827]LogBlueprintUserMessages: [EnemyCharacter_C_8] 80.0
+[2024.12.30-15.39.53:234][840]LogBlueprintUserMessages: [EnemyCharacter_C_8] 60.0
+[2024.12.30-15.39.53:439][856]LogBlueprintUserMessages: [EnemyCharacter_C_8] 40.0
+[2024.12.30-15.39.53:480][859]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-15.39.53:631][871]LogBlueprintUserMessages: [EnemyCharacter_C_0] 40.0
+[2024.12.30-15.39.53:755][881]LogBlueprintUserMessages: [EnemyCharacter_C_0] 20.0
+[2024.12.30-15.39.53:857][889]LogBlueprintUserMessages: [EnemyCharacter_C_0] 0.0
+[2024.12.30-15.39.53:980][898]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-15.39.54:037][903]LogBlueprintUserMessages: [EnemyCharacter_C_8] 20.0
+[2024.12.30-15.39.54:164][913]LogBlueprintUserMessages: [EnemyCharacter_C_8] 0.0
+[2024.12.30-15.39.54:358][928]LogBlueprintUserMessages: [EnemyCharacter_C_9] 0.0
+[2024.12.30-15.39.54:509][940]LogBlueprintUserMessages: [EnemyCharacter_C_2] 40.0
+[2024.12.30-15.39.54:627][949]LogBlueprintUserMessages: [EnemyCharacter_C_2] 20.0
+[2024.12.30-15.39.54:765][960]LogBlueprintUserMessages: [EnemyCharacter_C_2] 0.0
+[2024.12.30-15.39.54:915][972]LogBlueprintUserMessages: [EnemyCharacter_C_6] 0.0
+[2024.12.30-15.39.55:067][984]LogBlueprintUserMessages: [EnemyCharacter_C_4] 60.0
+[2024.12.30-15.39.55:194][994]LogBlueprintUserMessages: [EnemyCharacter_C_4] 40.0
+[2024.12.30-15.39.55:341][  6]LogBlueprintUserMessages: [EnemyCharacter_C_4] 20.0
+[2024.12.30-15.39.55:505][ 19]LogBlueprintUserMessages: [EnemyCharacter_C_4] 0.0
+[2024.12.30-15.39.56:237][ 79]LogBlueprintUserMessages: [EnemyCharacter_C_10] 80.0
+[2024.12.30-15.39.56:368][ 90]LogBlueprintUserMessages: [EnemyCharacter_C_10] 60.0
+[2024.12.30-15.39.56:506][101]LogBlueprintUserMessages: [EnemyCharacter_C_10] 40.0
+[2024.12.30-15.39.56:682][115]LogBlueprintUserMessages: [EnemyCharacter_C_10] 20.0
+[2024.12.30-15.39.56:852][128]LogBlueprintUserMessages: [EnemyCharacter_C_10] 0.0
+[2024.12.30-15.39.57:166][153]LogBlueprintUserMessages: [EnemyCharacter_C_12] 80.0
+[2024.12.30-15.39.57:327][166]LogBlueprintUserMessages: [EnemyCharacter_C_12] 60.0
+[2024.12.30-15.39.57:410][172]LogBlueprintUserMessages: [EnemyCharacter_C_12] 40.0
+[2024.12.30-15.39.58:658][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-15.39.58:658][266]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-15.39.58:669][266]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-15.39.58:670][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-15.39.58:671][266]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-15.39.58:675][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-15.39.58:683][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-15.39.58:707][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-15.39.58:707][266]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.12.30-15.39.58:707][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.12.30-15.39.58:710][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.12.30-15.39.58:715][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-15.39.58:726][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.12.30-15.39.58:833][267]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.12.30-15.40.19:120][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14317.177734
+[2024.12.30-15.40.19:841][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.40.19:841][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14317.876953, Update Interval: 312.859894
+[2024.12.30-15.40.50:755][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.40.50:782][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-15.40.50:789][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-15.40.50:789][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-15.40.50:789][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-15.40.50:804][326]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-15.40.50:804][326]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacterCC2DECE04314FA40BE97628B49E42D9E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-15.40.50:815][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.709 ms (total: 5.31 sec)
+[2024.12.30-15.40.50:851][326]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.40.50:851][326]LogContentValidation: Enabled validators:
+[2024.12.30-15.40.50:851][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.40.50:851][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.40.50:851][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.40.50:851][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.40.50:851][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.40.50:851][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.40.50:852][326]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-15.40.51:420][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-15.41.31:981][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.30-15.41.32:738][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.41.32:770][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-15.41.32:777][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-15.41.32:777][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-15.41.32:777][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-15.41.32:791][672]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-15.41.32:792][672]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter50F286C14DB698B5A9CCAC9B38DC5D1C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-15.41.32:803][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.598 ms (total: 5.37 sec)
+[2024.12.30-15.41.32:840][672]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.41.32:840][672]LogContentValidation: Enabled validators:
+[2024.12.30-15.41.32:840][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.41.32:840][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.41.32:840][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.41.32:840][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.41.32:840][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.41.32:840][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.41.32:840][672]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-15.42.07:066][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.30-15.42.07:679][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.42.07:709][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-15.42.07:716][485]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-15.42.07:716][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-15.42.07:716][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-15.42.07:730][485]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-15.42.07:731][485]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter8C7FA27849321D686C1E4CB88B40579F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-15.42.07:742][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.295 ms (total: 5.44 sec)
+[2024.12.30-15.42.07:781][485]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.42.07:781][485]LogContentValidation: Enabled validators:
+[2024.12.30-15.42.07:781][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.42.07:781][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.42.07:781][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.42.07:781][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.42.07:781][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.42.07:781][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.42.07:781][485]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-15.43.00:347][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.30-15.43.02:314][354]LogDerivedDataCache: C:/Users/san77/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.30-15.46.16:080][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.30-15.46.26:920][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14684.920898
+[2024.12.30-15.46.27:105][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.46.27:105][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14685.085938, Update Interval: 348.546387
+[2024.12.30-15.47.06:256][100]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Locomotion to Dead  will never be taken, please connect something to  Can Enter Transition
+[2024.12.30-15.47.06:312][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.12.30-15.49.13:800][701]LogEditorTransaction: Undo Break Pin Links
+[2024.12.30-15.49.14:217][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-15.49.14:220][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-15.50.15:579][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.50.15:610][503]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-15.50.15:619][503]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP]
+[2024.12.30-15.50.15:619][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-15.50.15:632][503]LogSavePackage: Moving output files for package: /Game/AnimationAssets/CharacterAnimBP
+[2024.12.30-15.50.15:633][503]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBPA04686B2439ABECD103BBDAB3B6FAF8F.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/CharacterAnimBP.uasset'
+[2024.12.30-15.50.15:646][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.189 ms (total: 5.50 sec)
+[2024.12.30-15.50.15:683][503]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-15.50.15:684][503]LogContentValidation: Enabled validators:
+[2024.12.30-15.50.15:684][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.50.15:684][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.50.15:684][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.50.15:684][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.50.15:684][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.50.15:684][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.50.15:684][503]AssetCheck: /Game/AnimationAssets/CharacterAnimBP Validating asset
+[2024.12.30-15.50.16:365][527]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Locomotion to Dead  will never be taken, please connect something to  Can Enter Transition
+[2024.12.30-15.50.16:423][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.30-15.50.20:764][716]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Locomotion to Dead  will never be taken, please connect something to  Can Enter Transition
+[2024.12.30-15.50.20:815][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-15.50.40:580][696]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.12.30-15.50.52:656][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.12.30-15.51.56:929][779]LogStreaming: Display: FlushAsyncLoading(2605): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.51.56:935][779]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Death_3.Death_3 (Required Memory Estimate: 0.79 MB)
+[2024.12.30-15.51.56:956][779]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Death_3.Death_3, at AnimationSequence/b351bfeaeefa217c9bddca8b2899be4ef5447839
+[2024.12.30-15.51.56:964][779]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Death_2.Death_2 (Required Memory Estimate: 0.82 MB)
+[2024.12.30-15.51.56:983][779]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Death_2.Death_2, at AnimationSequence/bfcc4dff7360842d244f6ac81e5f81024b97d75f
+[2024.12.30-15.51.56:990][779]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Death_1.Death_1 (Required Memory Estimate: 0.84 MB)
+[2024.12.30-15.51.57:010][779]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Death_1.Death_1, at AnimationSequence/2f228587b02457c27190c22aa58442e0fa41dab5
+[2024.12.30-15.52.56:991][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15075.015625
+[2024.12.30-15.52.57:157][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.52.57:157][474]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15075.164062, Update Interval: 332.703644
+[2024.12.30-15.54.04:738][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.30-15.54.04:742][327]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ArenaMap/A/QJ/ALNTNSSP96TFRR7W013D3Y_Auto3
+[2024.12.30-15.54.04:742][327]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ALNTNSSP96TFRR7W013D3Y_Auto3DAE15BD44650076D12580D883BDD042E.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/__ExternalActors__/ArenaMap/A/QJ/ALNTNSSP96TFRR7W013D3Y_Auto3.uasset'
+[2024.12.30-15.54.04:743][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.028
+[2024.12.30-15.54.04:743][327]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.12.30-15.54.04:743][327]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-15.54.04:749][327]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP]
+[2024.12.30-15.54.04:749][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-15.54.04:763][327]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/CharacterAnimBP_Auto3
+[2024.12.30-15.54.04:764][327]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBP_Auto3B09D72C141F9F9AEE65AF2B019D34B48.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/CharacterAnimBP_Auto3.uasset'
+[2024.12.30-15.54.04:764][327]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.12.30-15.55.55:183][943]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Input pin  Blend Time 1  specifying non-default value no longer exists on node  Blend Poses by int . Please refresh node or reset pin to default value to remove pin.
+[2024.12.30-15.55.55:183][943]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Input pin  Blend Time 2  specifying non-default value no longer exists on node  Blend Poses by int . Please refresh node or reset pin to default value to remove pin.
+[2024.12.30-15.55.55:183][943]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Input pin  Blend Time 1  specifying non-default value no longer exists on node  Blend Poses by int . Please refresh node or reset pin to default value to remove pin.
+[2024.12.30-15.55.55:183][943]LogBlueprint: Warning: [AssetLog] G:\Opiskelu\Peliohjelmointi\UE_TwinStick\UE_TwinStick\PeliohjelmointiFinal\Content\AnimationAssets\CharacterAnimBP.uasset: [Compiler] Input pin  Blend Time 2  specifying non-default value no longer exists on node  Blend Poses by int . Please refresh node or reset pin to default value to remove pin.
+[2024.12.30-15.55.55:243][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.30-15.56.07:363][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.30-15.58.07:923][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.12.30-15.58.38:215][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.30-15.58.56:537][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-15.59.00:530][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15438.555664
+[2024.12.30-15.59.00:694][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-15.59.00:694][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15438.703125, Update Interval: 357.971130
+[2024.12.30-15.59.31:554][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.12.30-15.59.35:002][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-15.59.36:705][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-15.59.38:207][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-15.59.40:513][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-15.59.40:550][503]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ArenaMap/A/QJ/ALNTNSSP96TFRR7W013D3Y
+[2024.12.30-15.59.40:550][503]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/ALNTNSSP96TFRR7W013D3Y5B9A47DD42C94EE29CE8A69DD5FDEE89.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/__ExternalActors__/ArenaMap/A/QJ/ALNTNSSP96TFRR7W013D3Y.uasset'
+[2024.12.30-15.59.40:562][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.696 ms (total: 5.55 sec)
+[2024.12.30-15.59.40:596][503]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.30-15.59.40:597][503]LogContentValidation: Enabled validators:
+[2024.12.30-15.59.40:597][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-15.59.40:597][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-15.59.40:597][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-15.59.40:597][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-15.59.40:597][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-15.59.40:597][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-15.59.40:597][503]AssetCheck: /Game/ArenaMap Validating asset
+[2024.12.30-15.59.43:231][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-15.59.43:239][693]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-15.59.43:239][693]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-15.59.43:246][693]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 7.317 ms (total: 291.947 ms)
+[2024.12.30-15.59.43:246][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-15.59.43:247][693]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-15.59.43:260][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013389s)
+[2024.12.30-15.59.43:260][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.013430s)
+[2024.12.30-15.59.43:281][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.12.30-15.59.43:285][693]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-15.59.43:287][693]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-15.59.43:287][693]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-15.59.43:287][693]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-15.59.43:287][693]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-15.59.43:297][693]LogWorldPartition: Display: WorldPartition initialize took 10.048 ms (total: 1.21 sec)
+[2024.12.30-15.59.43:297][693]LogPlayLevel: PIE: World Init took: (0.011998s)
+[2024.12.30-15.59.43:298][693]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-15.59.43:298][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-15.59.43:298][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-15.59.43:298][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-15.59.43:298][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-15.59.43:298][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-15.59.43:300][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-15.59.43:334][693]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-15.59.43:334][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-15.59.43:334][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-15.59.43:334][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-15.59.43:335][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.12.30-15.59.43:335][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=48
+[2024.12.30-15.59.43:338][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.12.30-15.59.43:338][693]LogInit: FAudioDevice initialized with ID 48.
+[2024.12.30-15.59.43:338][693]LogAudio: Display: Audio Device (ID: 48) registered with world 'ArenaMap'.
+[2024.12.30-15.59.43:338][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.12.30-15.59.43:338][693]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.12.30-15.59.43:340][693]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-15.59.43:342][693]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-17.59.43
+[2024.12.30-15.59.43:343][693]LogWorld: Bringing up level for play took: 0.002405
+[2024.12.30-15.59.43:345][693]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.12.30-15.59.43:353][693]LogStreaming: Display: FlushAsyncLoading(2649,2648,2647,2646,2645,2644,2643,2642,2641,2640,2639,2638,2637,2636,2635,2634,2633,2632,2631,2630,2629,2628,2627,2626,2625,2624,2623,2622,2621,2620,2619,2618,2617,2616,2615,2614,2613,2612,2611,2610,2609,2608): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-15.59.43:625][693]PIE: Server logged in
+[2024.12.30-15.59.43:626][693]PIE: Play in editor total start time 0,388 seconds.
+[2024.12.30-15.59.46:383][923]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-15.59.46:887][971]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-15.59.47:390][ 18]LogBlueprintUserMessages: [HeroCharacter_C_0] 10.0
+[2024.12.30-15.59.47:841][ 61]LogBlueprintUserMessages: [HeroCharacter_C_0] -20.0
+[2024.12.30-15.59.47:885][ 65]LogBlueprintUserMessages: [HeroCharacter_C_0] -50.0
+[2024.12.30-15.59.48:082][ 84]LogBlueprintUserMessages: [HeroCharacter_C_0] -80.0
+[2024.12.30-15.59.48:346][109]LogBlueprintUserMessages: [HeroCharacter_C_0] -110.0
+[2024.12.30-15.59.48:389][113]LogBlueprintUserMessages: [HeroCharacter_C_0] -140.0
+[2024.12.30-15.59.48:587][132]LogBlueprintUserMessages: [HeroCharacter_C_0] -170.0
+[2024.12.30-15.59.48:846][157]LogBlueprintUserMessages: [HeroCharacter_C_0] -200.0
+[2024.12.30-15.59.48:889][161]LogBlueprintUserMessages: [HeroCharacter_C_0] -230.0
+[2024.12.30-15.59.49:088][180]LogBlueprintUserMessages: [HeroCharacter_C_0] -260.0
+[2024.12.30-15.59.49:344][204]LogBlueprintUserMessages: [HeroCharacter_C_0] -290.0
+[2024.12.30-15.59.49:387][208]LogBlueprintUserMessages: [HeroCharacter_C_0] -320.0
+[2024.12.30-15.59.49:387][208]LogBlueprintUserMessages: [HeroCharacter_C_0] -350.0
+[2024.12.30-15.59.49:590][227]LogBlueprintUserMessages: [HeroCharacter_C_0] -380.0
+[2024.12.30-15.59.49:841][251]LogBlueprintUserMessages: [HeroCharacter_C_0] -410.0
+[2024.12.30-15.59.49:883][255]LogBlueprintUserMessages: [HeroCharacter_C_0] -440.0
+[2024.12.30-15.59.49:883][255]LogBlueprintUserMessages: [HeroCharacter_C_0] -470.0
+[2024.12.30-15.59.50:086][274]LogBlueprintUserMessages: [HeroCharacter_C_0] -500.0
+[2024.12.30-15.59.50:339][298]LogBlueprintUserMessages: [HeroCharacter_C_0] -530.0
+[2024.12.30-15.59.50:380][302]LogBlueprintUserMessages: [HeroCharacter_C_0] -560.0
+[2024.12.30-15.59.50:392][303]LogBlueprintUserMessages: [HeroCharacter_C_0] -590.0
+[2024.12.30-15.59.50:584][321]LogBlueprintUserMessages: [HeroCharacter_C_0] -620.0
+[2024.12.30-15.59.50:847][345]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.50:879][348]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.50:879][348]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.50:893][349]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.50:893][349]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:086][367]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_8
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:087][367]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:290][386]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_5
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:290][386]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:344][391]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:387][395]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:387][395]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:387][395]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:387][395]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:589][414]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_8
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:589][414]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:792][433]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_5
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:792][433]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:881][441]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.51:881][441]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.51:902][443]LogBlueprintUserMessages: [HeroCharacter_C_1] 70.0
+[2024.12.30-15.59.52:090][461]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_8
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.52:090][461]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.52:185][470]LogBlueprintUserMessages: [HeroCharacter_C_1] 40.0
+[2024.12.30-15.59.52:228][474]LogBlueprintUserMessages: [HeroCharacter_C_1] 10.0
+[2024.12.30-15.59.52:297][480]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_5
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.52:297][480]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.52:390][488]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0104
+[2024.12.30-15.59.52:390][488]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-15.59.52:404][489]LogBlueprintUserMessages: [HeroCharacter_C_1] -20.0
+[2024.12.30-15.59.52:558][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-15.59.52:559][499]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-15.59.52:569][499]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-15.59.52:570][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-15.59.52:570][499]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-15.59.52:576][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-15.59.52:582][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-15.59.52:606][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-15.59.52:606][499]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.12.30-15.59.52:606][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.12.30-15.59.52:608][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.12.30-15.59.52:613][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-15.59.52:622][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.12.30-15.59.52:804][500]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.12.30-15.59.55:082][648]LogSlate: Window 'Message Log' being destroyed
+[2024.12.30-15.59.55:099][648]LogSlate: Window 'Message Log' being destroyed
