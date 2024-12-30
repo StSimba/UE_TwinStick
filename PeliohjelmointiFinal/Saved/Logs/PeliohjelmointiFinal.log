@@ -6765,3 +6765,1501 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.30-15.59.52:804][500]LogPlayLevel: Display: Destroying online subsystem :Context_73
 [2024.12.30-15.59.55:082][648]LogSlate: Window 'Message Log' being destroyed
 [2024.12.30-15.59.55:099][648]LogSlate: Window 'Message Log' being destroyed
+[2024.12.30-16.02.09:109][674]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2024.12.30-16.02.09:224][674]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.12.30-16.02.09:234][674]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2024.12.30-16.03.35:586][719]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2024.12.30-16.05.14:180][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.05.14:215][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/Idle_Rifle_Hip] ([1] browsable assets)...
+[2024.12.30-16.05.14:215][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/Idle_Rifle_Hip]
+[2024.12.30-16.05.14:224][181]LogSavePackage: Moving output files for package: /Game/AnimationAssets/Idle_Rifle_Hip
+[2024.12.30-16.05.14:225][181]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Idle_Rifle_HipAC19C66D448268E42E24F299E781ACF8.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2024.12.30-16.05.14:237][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.935 ms (total: 5.61 sec)
+[2024.12.30-16.05.14:275][181]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.05.14:275][181]LogContentValidation: Enabled validators:
+[2024.12.30-16.05.14:275][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.05.14:275][181]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.05.14:275][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.05.14:275][181]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.05.14:275][181]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.05.14:275][181]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.05.14:275][181]AssetCheck: /Game/AnimationAssets/Idle_Rifle_Hip Validating asset
+[2024.12.30-16.05.57:060][271]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15855.034180
+[2024.12.30-16.05.58:056][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.05.58:056][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15855.699219, Update Interval: 350.480042
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: ================================================
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Total job queries 1 168, among them cache hits 921 (78.85%), DDC hits 232 (19.86%), Duplicates 4 (0.34%)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Tracking 243 distinct input hashes that result in 205 distinct outputs (84.36%)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: RAM used: 143,69 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Average time worker was idle: 333.24 s
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Time job spent in pending queue: average 5.95 s, longest 11.10 s
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Job execution time: average 3.91 s, max 9.42 s
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Job life time (pending + execution): average 9.86 s, max 12.71
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Shader code size: average 7,914 KiB, min 4,086 KiB, max 11,586 KiB
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.15 s
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Average processing rate: 0.57 jobs/sec
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Total thread time: 16,78 s
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Total thread preprocess time: 16,299 s
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Percentage time preprocessing: 97.14%
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.45 sec, max 3.45 sec, min 3.45 sec)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.41 sec, max 1.59 sec, min 1.22 sec)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 1.32 sec, max 1.35 sec, min 1.29 sec)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.14 sec, max 1.33 sec, min 0.96 sec)
+[2024.12.30-16.06.00:043][280]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 20.54% of total time (compiled    1 times, average 3.45 sec, max 3.45 sec, min 3.45 sec)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.76% of total time (compiled    2 times, average 1.41 sec, max 1.59 sec, min 1.22 sec)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.71% of total time (compiled    2 times, average 1.32 sec, max 1.35 sec, min 1.29 sec)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.89% of total time (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.64% of total time (compiled    2 times, average 1.14 sec, max 1.33 sec, min 0.96 sec)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: === Material stats ===
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: Materials Translated:    159
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: Material Translation Only: 0.07 s (27%)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: Material Cache Hits: 28 (18%)
+[2024.12.30-16.06.00:045][280]LogShaderCompilers: Display: ================================================
+[2024.12.30-16.06.46:566][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-16.06.47:542][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.06.47:578][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.06.47:587][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.06.47:587][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.06.47:587][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-16.06.47:602][668]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-16.06.47:603][668]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter204232C443944B9A679141BCD4028F6C.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-16.06.47:615][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.114 ms (total: 5.68 sec)
+[2024.12.30-16.06.47:642][668]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.06.47:642][668]LogContentValidation: Enabled validators:
+[2024.12.30-16.06.47:642][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.06.47:642][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.06.47:642][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.06.47:642][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.06.47:642][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.06.47:642][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.06.47:642][668]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-16.06.57:257][184]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.06.57:264][184]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.06.57:264][184]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.06.57:269][184]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.085 ms (total: 298.032 ms)
+[2024.12.30-16.06.57:269][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.06.57:308][184]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.06.57:321][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013273s)
+[2024.12.30-16.06.57:321][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.013315s)
+[2024.12.30-16.06.57:341][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-16.06.57:345][184]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.06.57:347][184]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.06.57:347][184]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.06.57:347][184]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.06.57:347][184]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.06.57:356][184]LogWorldPartition: Display: WorldPartition initialize took 9.212 ms (total: 1.22 sec)
+[2024.12.30-16.06.57:356][184]LogPlayLevel: PIE: World Init took: (0.011005s)
+[2024.12.30-16.06.57:357][184]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.06.57:357][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.06.57:357][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.06.57:357][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.06.57:357][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.06.57:357][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.06.57:360][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.06.57:395][184]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.06.57:395][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.06.57:395][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.06.57:395][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.06.57:395][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.12.30-16.06.57:395][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=49
+[2024.12.30-16.06.57:399][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.12.30-16.06.57:399][184]LogInit: FAudioDevice initialized with ID 49.
+[2024.12.30-16.06.57:399][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.12.30-16.06.57:399][184]LogAudio: Display: Audio Device (ID: 49) registered with world 'ArenaMap'.
+[2024.12.30-16.06.57:399][184]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2024.12.30-16.06.57:405][184]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.06.57:407][184]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.06.57
+[2024.12.30-16.06.57:407][184]LogWorld: Bringing up level for play took: 0.002572
+[2024.12.30-16.06.57:410][184]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2024.12.30-16.06.57:418][184]LogStreaming: Display: FlushAsyncLoading(2691,2690,2689,2688,2687,2686,2685,2684,2683,2682,2681,2680,2679,2678,2677,2676,2675,2674,2673,2672,2671,2670,2669,2668,2667,2666,2665,2664,2663,2662,2661,2660,2659,2658,2657,2656,2655,2654,2653,2652,2651,2650): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.06.57:668][184]PIE: Server logged in
+[2024.12.30-16.06.57:669][184]PIE: Play in editor total start time 0,406 seconds.
+[2024.12.30-16.07.05:368][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.07.05:368][748]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.07.05:378][748]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.07.05:380][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.07.05:380][748]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.07.05:385][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.07.05:391][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.07.05:416][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-16.07.05:416][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2024.12.30-16.07.05:416][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.12.30-16.07.05:418][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.12.30-16.07.05:426][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.07.05:435][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.12.30-16.07.05:553][749]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.12.30-16.07.54:532][774]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.12.30-16.08.20:670][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.08.20:677][ 41]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.08.20:677][ 41]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.08.20:684][ 41]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.818 ms (total: 303.851 ms)
+[2024.12.30-16.08.20:684][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.08.20:684][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.08.20:697][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012435s)
+[2024.12.30-16.08.20:697][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012465s)
+[2024.12.30-16.08.20:715][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-16.08.20:718][ 41]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.08.20:719][ 41]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.08.20:719][ 41]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.08.20:719][ 41]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.08.20:719][ 41]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.08.20:729][ 41]LogWorldPartition: Display: WorldPartition initialize took 9.311 ms (total: 1.23 sec)
+[2024.12.30-16.08.20:729][ 41]LogPlayLevel: PIE: World Init took: (0.010867s)
+[2024.12.30-16.08.20:730][ 41]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.08.20:730][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.08.20:730][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.08.20:730][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.08.20:730][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.08.20:730][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.08.20:732][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.08.20:765][ 41]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.08.20:765][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.08.20:766][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.08.20:766][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.08.20:766][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.12.30-16.08.20:766][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=50
+[2024.12.30-16.08.20:769][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.12.30-16.08.20:769][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.12.30-16.08.20:769][ 41]LogInit: FAudioDevice initialized with ID 50.
+[2024.12.30-16.08.20:769][ 41]LogAudio: Display: Audio Device (ID: 50) registered with world 'ArenaMap'.
+[2024.12.30-16.08.20:769][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.12.30-16.08.20:772][ 41]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.08.20:774][ 41]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.08.20
+[2024.12.30-16.08.20:774][ 41]LogWorld: Bringing up level for play took: 0.002108
+[2024.12.30-16.08.20:776][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.12.30-16.08.20:783][ 41]LogStreaming: Display: FlushAsyncLoading(2733,2732,2731,2730,2729,2728,2727,2726,2725,2724,2723,2722,2721,2720,2719,2718,2717,2716,2715,2714,2713,2712,2711,2710,2709,2708,2707,2706,2705,2704,2703,2702,2701,2700,2699,2698,2697,2696,2695,2694,2693,2692): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.08.21:017][ 41]PIE: Server logged in
+[2024.12.30-16.08.21:018][ 41]PIE: Play in editor total start time 0,341 seconds.
+[2024.12.30-16.08.25:399][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.08.25:399][269]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.08.25:409][269]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.08.25:410][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.08.25:410][269]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.08.25:414][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.08.25:421][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.08.25:444][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.08.25:445][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.12.30-16.08.25:445][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.12.30-16.08.25:446][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.12.30-16.08.25:462][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.12.30-16.08.25:571][270]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.12.30-16.08.49:522][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.08.49:528][301]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.08.49:529][301]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.08.49:534][301]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.835 ms (total: 309.687 ms)
+[2024.12.30-16.08.49:535][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.08.49:535][301]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.08.49:548][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012502s)
+[2024.12.30-16.08.49:548][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012534s)
+[2024.12.30-16.08.49:566][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-16.08.49:569][301]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.08.49:571][301]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.08.49:571][301]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.08.49:571][301]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.08.49:571][301]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.08.49:580][301]LogWorldPartition: Display: WorldPartition initialize took 8.891 ms (total: 1.24 sec)
+[2024.12.30-16.08.49:580][301]LogPlayLevel: PIE: World Init took: (0.010541s)
+[2024.12.30-16.08.49:581][301]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.08.49:581][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.08.49:581][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.08.49:581][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.08.49:581][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.08.49:581][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.08.49:583][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.08.49:616][301]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.08.49:616][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.08.49:616][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.08.49:616][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.08.49:617][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.12.30-16.08.49:617][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=51
+[2024.12.30-16.08.49:619][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.12.30-16.08.49:619][301]LogInit: FAudioDevice initialized with ID 51.
+[2024.12.30-16.08.49:619][301]LogAudio: Display: Audio Device (ID: 51) registered with world 'ArenaMap'.
+[2024.12.30-16.08.49:619][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.12.30-16.08.49:619][301]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.12.30-16.08.49:621][301]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.08.49:623][301]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.08.49
+[2024.12.30-16.08.49:624][301]LogWorld: Bringing up level for play took: 0.002074
+[2024.12.30-16.08.49:626][301]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2024.12.30-16.08.49:633][301]LogStreaming: Display: FlushAsyncLoading(2775,2774,2773,2772,2771,2770,2769,2768,2767,2766,2765,2764,2763,2762,2761,2760,2759,2758,2757,2756,2755,2754,2753,2752,2751,2750,2749,2748,2747,2746,2745,2744,2743,2742,2741,2740,2739,2738,2737,2736,2735,2734): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.08.49:880][301]PIE: Server logged in
+[2024.12.30-16.08.49:881][301]PIE: Play in editor total start time 0,352 seconds.
+[2024.12.30-16.08.52:819][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.08.52:819][443]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.08.52:829][443]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.08.52:830][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.08.52:830][443]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.08.52:835][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.08.52:842][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.08.52:866][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.08.52:866][443]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.12.30-16.08.52:866][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.12.30-16.08.52:867][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.12.30-16.08.52:884][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.12.30-16.08.52:994][444]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2024.12.30-16.09.08:500][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.09.08:531][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.09.08:531][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.09.08:531][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.09.08:536][253]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.09.08:537][253]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Gun977B768C405901C6A4A7A08FD943ACA2.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.09.08:548][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.906 ms (total: 5.73 sec)
+[2024.12.30-16.09.08:595][253]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.09.08:595][253]LogContentValidation: Enabled validators:
+[2024.12.30-16.09.08:595][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.09.08:595][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.09.08:595][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.09.08:595][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.09.08:595][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.09.08:595][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.09.08:595][253]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.10.50:243][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.10.50:278][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.10.50:278][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.10.50:278][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.10.50:284][296]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.10.50:285][296]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/GunCC5569874788F896AB833CB0EEEDCEEB.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.10.50:295][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.361 ms (total: 5.78 sec)
+[2024.12.30-16.10.50:327][296]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.10.50:327][296]LogContentValidation: Enabled validators:
+[2024.12.30-16.10.50:327][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.10.50:327][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.10.50:327][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.10.50:327][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.10.50:327][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.10.50:327][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.10.50:327][296]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.10.52:405][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.10.52:412][405]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.10.52:412][405]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.10.52:418][405]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.020 ms (total: 315.707 ms)
+[2024.12.30-16.10.52:421][405]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2024.12.30-16.10.52:656][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-16.10.52:661][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 242 ms (1 blueprints)
+[2024.12.30-16.10.52:661][405]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.10.52:674][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012632s)
+[2024.12.30-16.10.52:674][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012664s)
+[2024.12.30-16.10.52:692][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.30-16.10.52:694][405]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.10.52:696][405]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.10.52:696][405]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.10.52:696][405]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.10.52:696][405]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.10.52:704][405]LogWorldPartition: Display: WorldPartition initialize took 9.215 ms (total: 1.25 sec)
+[2024.12.30-16.10.52:704][405]LogPlayLevel: PIE: World Init took: (0.010891s)
+[2024.12.30-16.10.52:705][405]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.10.52:705][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.10.52:705][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.10.52:705][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.10.52:705][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.10.52:705][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.10.52:708][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.10.52:740][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.10.52:741][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.10.52:741][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.10.52:741][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.10.52:742][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.12.30-16.10.52:742][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=52
+[2024.12.30-16.10.52:744][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.12.30-16.10.52:744][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.12.30-16.10.52:744][405]LogInit: FAudioDevice initialized with ID 52.
+[2024.12.30-16.10.52:744][405]LogAudio: Display: Audio Device (ID: 52) registered with world 'ArenaMap'.
+[2024.12.30-16.10.52:744][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.12.30-16.10.52:746][405]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.10.52:749][405]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.10.52
+[2024.12.30-16.10.52:749][405]LogWorld: Bringing up level for play took: 0.002153
+[2024.12.30-16.10.52:751][405]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.12.30-16.10.52:758][405]LogStreaming: Display: FlushAsyncLoading(2817,2816,2815,2814,2813,2812,2811,2810,2809,2808,2807,2806,2805,2804,2803,2802,2801,2800,2799,2798,2797,2796,2795,2794,2793,2792,2791,2790,2789,2788,2787,2786,2785,2784,2783,2782,2781,2780,2779,2778,2777,2776): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.10.52:995][405]PIE: Server logged in
+[2024.12.30-16.10.52:996][405]PIE: Play in editor total start time 0,585 seconds.
+[2024.12.30-16.11.00:789][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.11.00:789][852]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.11.00:798][852]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.11.00:799][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.11.00:799][852]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.11.00:805][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.11.00:813][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.11.00:837][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.11.00:837][852]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.12.30-16.11.00:837][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.12.30-16.11.00:838][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.12.30-16.11.00:853][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.12.30-16.11.00:958][853]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.12.30-16.11.06:566][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.11.06:608][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.11.06:608][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.11.06:608][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.11.06:614][156]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.11.06:614][156]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/GunAEAD42CF4D53739B757271A0AC06FD70.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.11.06:636][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.798 ms (total: 5.85 sec)
+[2024.12.30-16.11.06:671][156]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.11.06:671][156]LogContentValidation: Enabled validators:
+[2024.12.30-16.11.06:671][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.11.06:671][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.11.06:671][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.11.06:672][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.11.06:672][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.11.06:672][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.11.06:672][156]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.11.07:673][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.11.07:680][207]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.11.07:680][207]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.11.07:686][207]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.031 ms (total: 321.738 ms)
+[2024.12.30-16.11.07:686][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.11.07:719][207]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.11.07:731][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012595s)
+[2024.12.30-16.11.07:731][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012634s)
+[2024.12.30-16.11.07:750][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-16.11.07:753][207]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.11.07:754][207]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.11.07:754][207]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.11.07:754][207]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.11.07:754][207]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.11.07:764][207]LogWorldPartition: Display: WorldPartition initialize took 8.985 ms (total: 1.26 sec)
+[2024.12.30-16.11.07:764][207]LogPlayLevel: PIE: World Init took: (0.010571s)
+[2024.12.30-16.11.07:764][207]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.11.07:764][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.11.07:764][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.11.07:764][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.11.07:764][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.11.07:764][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.11.07:765][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.11.07:799][207]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.11.07:799][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.11.07:799][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.11.07:799][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.11.07:800][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.12.30-16.11.07:800][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=53
+[2024.12.30-16.11.07:802][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.12.30-16.11.07:802][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.12.30-16.11.07:802][207]LogInit: FAudioDevice initialized with ID 53.
+[2024.12.30-16.11.07:802][207]LogAudio: Display: Audio Device (ID: 53) registered with world 'ArenaMap'.
+[2024.12.30-16.11.07:802][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.12.30-16.11.07:805][207]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.11.07:807][207]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.11.07
+[2024.12.30-16.11.07:807][207]LogWorld: Bringing up level for play took: 0.001984
+[2024.12.30-16.11.07:810][207]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.12.30-16.11.07:817][207]LogStreaming: Display: FlushAsyncLoading(2859,2858,2857,2856,2855,2854,2853,2852,2851,2850,2849,2848,2847,2846,2845,2844,2843,2842,2841,2840,2839,2838,2837,2836,2835,2834,2833,2832,2831,2830,2829,2828,2827,2826,2825,2824,2823,2822,2821,2820,2819,2818): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.11.08:060][207]PIE: Server logged in
+[2024.12.30-16.11.08:061][207]PIE: Play in editor total start time 0,381 seconds.
+[2024.12.30-16.11.11:049][372]LogBlueprintUserMessages: [EnemyCharacter_C_0] 80.0
+[2024.12.30-16.11.12:484][456]LogBlueprintUserMessages: [EnemyCharacter_C_7] 80.0
+[2024.12.30-16.11.13:121][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.11.13:121][491]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.11.13:131][491]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.11.13:132][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.11.13:132][491]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.11.13:136][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.11.13:144][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.11.13:168][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.11.13:168][491]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.12.30-16.11.13:168][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.12.30-16.11.13:171][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.12.30-16.11.13:185][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.12.30-16.11.13:295][492]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.12.30-16.12.09:455][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.12.09:463][316]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.12.09:463][316]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.12.09:468][316]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.702 ms (total: 327.441 ms)
+[2024.12.30-16.12.09:470][316]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2024.12.30-16.12.09:715][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-16.12.09:718][316]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2024.12.30-16.12.09:718][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.09:731][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012636s)
+[2024.12.30-16.12.09:731][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012668s)
+[2024.12.30-16.12.09:750][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.30-16.12.09:752][316]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.12.09:753][316]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.12.09:753][316]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.12.09:753][316]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.12.09:753][316]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.12.09:762][316]LogWorldPartition: Display: WorldPartition initialize took 8.827 ms (total: 1.27 sec)
+[2024.12.30-16.12.09:763][316]LogPlayLevel: PIE: World Init took: (0.010436s)
+[2024.12.30-16.12.09:763][316]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.12.09:763][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.12.09:763][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.12.09:764][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.12.09:764][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.12.09:764][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.12.09:765][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.12.09:799][316]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.12.09:799][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.12.09:799][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.12.09:799][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.12.09:799][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.12.30-16.12.09:799][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=54
+[2024.12.30-16.12.09:802][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.12.30-16.12.09:802][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.12.30-16.12.09:802][316]LogInit: FAudioDevice initialized with ID 54.
+[2024.12.30-16.12.09:802][316]LogAudio: Display: Audio Device (ID: 54) registered with world 'ArenaMap'.
+[2024.12.30-16.12.09:802][316]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.12.30-16.12.09:809][316]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.12.09:811][316]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.12.09
+[2024.12.30-16.12.09:812][316]LogWorld: Bringing up level for play took: 0.002401
+[2024.12.30-16.12.09:814][316]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.12.30-16.12.09:821][316]LogStreaming: Display: FlushAsyncLoading(2901,2900,2899,2898,2897,2896,2895,2894,2893,2892,2891,2890,2889,2888,2887,2886,2885,2884,2883,2882,2881,2880,2879,2878,2877,2876,2875,2874,2873,2872,2871,2870,2869,2868,2867,2866,2865,2864,2863,2862,2861,2860): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.12.10:058][316]PIE: Server logged in
+[2024.12.30-16.12.10:060][316]PIE: Play in editor total start time 0,598 seconds.
+[2024.12.30-16.12.13:956][501]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-16.12.14:431][525]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-16.12.14:450][526]LogBlueprintUserMessages: [HeroCharacter_C_0] 10.0
+[2024.12.30-16.12.14:488][528]LogBlueprintUserMessages: [HeroCharacter_C_0] -20.0
+[2024.12.30-16.12.14:930][550]LogBlueprintUserMessages: [HeroCharacter_C_0] -50.0
+[2024.12.30-16.12.14:950][551]LogBlueprintUserMessages: [HeroCharacter_C_0] -80.0
+[2024.12.30-16.12.14:986][553]LogBlueprintUserMessages: [HeroCharacter_C_0] -110.0
+[2024.12.30-16.12.15:419][576]LogBlueprintUserMessages: [HeroCharacter_C_0] -140.0
+[2024.12.30-16.12.15:456][578]LogBlueprintUserMessages: [HeroCharacter_C_0] -170.0
+[2024.12.30-16.12.15:480][579]LogBlueprintUserMessages: [HeroCharacter_C_0] -200.0
+[2024.12.30-16.12.15:650][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.12.15:650][586]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.15:660][586]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.12.15:661][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.12.15:661][586]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.12.15:666][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.12.15:672][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.12.15:695][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.12.15:696][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.12.30-16.12.15:696][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.12.30-16.12.15:698][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.12.30-16.12.15:712][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.30-16.12.15:823][587]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.12.30-16.12.24:738][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.12.24:744][ 23]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.12.24:744][ 23]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.12.24:750][ 23]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.908 ms (total: 333.349 ms)
+[2024.12.30-16.12.24:753][ 23]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2024.12.30-16.12.25:008][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.30-16.12.25:012][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2024.12.30-16.12.25:013][ 23]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.25:026][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012757s)
+[2024.12.30-16.12.25:026][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012793s)
+[2024.12.30-16.12.25:045][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-16.12.25:046][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.12.25:048][ 23]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.12.25:048][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.12.25:048][ 23]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.12.25:048][ 23]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.12.25:058][ 23]LogWorldPartition: Display: WorldPartition initialize took 9.356 ms (total: 1.28 sec)
+[2024.12.30-16.12.25:058][ 23]LogPlayLevel: PIE: World Init took: (0.011039s)
+[2024.12.30-16.12.25:058][ 23]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.12.25:058][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.12.25:058][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.12.25:058][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.12.25:058][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.12.25:059][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.12.25:060][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.12.25:094][ 23]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.12.25:094][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.12.25:094][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.12.25:094][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.12.25:094][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.12.30-16.12.25:094][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=55
+[2024.12.30-16.12.25:096][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.12.30-16.12.25:096][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.12.30-16.12.25:096][ 23]LogInit: FAudioDevice initialized with ID 55.
+[2024.12.30-16.12.25:096][ 23]LogAudio: Display: Audio Device (ID: 55) registered with world 'ArenaMap'.
+[2024.12.30-16.12.25:096][ 23]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.12.30-16.12.25:103][ 23]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.12.25:106][ 23]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.12.25
+[2024.12.30-16.12.25:106][ 23]LogWorld: Bringing up level for play took: 0.002472
+[2024.12.30-16.12.25:108][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.12.30-16.12.25:115][ 23]LogStreaming: Display: FlushAsyncLoading(2943,2942,2941,2940,2939,2938,2937,2936,2935,2934,2933,2932,2931,2930,2929,2928,2927,2926,2925,2924,2923,2922,2921,2920,2919,2918,2917,2916,2915,2914,2913,2912,2911,2910,2909,2908,2907,2906,2905,2904,2903,2902): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.12.25:363][ 23]PIE: Server logged in
+[2024.12.30-16.12.25:364][ 23]PIE: Play in editor total start time 0,62 seconds.
+[2024.12.30-16.12.30:157][248]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 80.0
+[2024.12.30-16.12.30:627][272]LogBlueprintUserMessages: [EnemyCharacter_C_2] 80.0
+[2024.12.30-16.12.30:978][290]LogBlueprintUserMessages: [EnemyCharacter_C_2] 60.0
+[2024.12.30-16.12.30:998][291]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 60.0
+[2024.12.30-16.12.31:077][295]LogBlueprintUserMessages: [EnemyCharacter_C_2] 40.0
+[2024.12.30-16.12.31:115][297]LogBlueprintUserMessages: [EnemyCharacter_C_8] 80.0
+[2024.12.30-16.12.31:958][340]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-16.12.32:080][346]LogBlueprintUserMessages: [EnemyCharacter_C_4] 80.0
+[2024.12.30-16.12.32:239][354]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 40.0
+[2024.12.30-16.12.32:277][356]LogBlueprintUserMessages: [EnemyCharacter_C_2] 20.0
+[2024.12.30-16.12.32:434][364]LogBlueprintUserMessages: [EnemyCharacter_C_1] 80.0
+[2024.12.30-16.12.32:454][365]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-16.12.32:761][381]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 20.0
+[2024.12.30-16.12.32:920][389]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 0.0
+[2024.12.30-16.12.33:119][399]LogBlueprintUserMessages: [EnemyCharacter_C_1] 60.0
+[2024.12.30-16.12.33:293][408]LogBlueprintUserMessages: [EnemyCharacter_C_1] 40.0
+[2024.12.30-16.12.33:648][426]LogBlueprintUserMessages: [EnemyCharacter_C_1] 20.0
+[2024.12.30-16.12.34:255][457]LogBlueprintUserMessages: [EnemyCharacter_C_1] 0.0
+[2024.12.30-16.12.34:336][461]LogBlueprintUserMessages: [EnemyCharacter_C_7] 80.0
+[2024.12.30-16.12.34:553][472]LogBlueprintUserMessages: [EnemyCharacter_C_5] 80.0
+[2024.12.30-16.12.34:706][480]LogBlueprintUserMessages: [EnemyCharacter_C_7] 60.0
+[2024.12.30-16.12.34:909][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.12.34:909][489]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.34:919][489]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.12.34:920][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.12.34:920][489]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.12.34:925][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.12.34:932][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.12.34:956][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.12.34:956][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.12.30-16.12.34:956][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.12.30-16.12.34:959][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.12.30-16.12.34:973][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.30-16.12.35:087][490]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.12.30-16.12.37:468][605]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16255.397461
+[2024.12.30-16.12.37:678][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.12.37:678][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16255.584961, Update Interval: 349.974670
+[2024.12.30-16.12.45:091][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.12.45:098][969]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.12.45:098][969]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.12.45:104][969]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.933 ms (total: 339.283 ms)
+[2024.12.30-16.12.45:106][969]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2024.12.30-16.12.45:410][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.12.30-16.12.45:416][969]LogPlayLevel: PlayLevel: Blueprint regeneration took 311 ms (1 blueprints)
+[2024.12.30-16.12.45:416][969]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.45:430][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014428s)
+[2024.12.30-16.12.45:430][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.014467s)
+[2024.12.30-16.12.45:450][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.12.30-16.12.45:452][969]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.12.45:454][969]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.12.45:454][969]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.12.45:454][969]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.12.45:454][969]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.12.45:464][969]LogWorldPartition: Display: WorldPartition initialize took 10.092 ms (total: 1.29 sec)
+[2024.12.30-16.12.45:464][969]LogPlayLevel: PIE: World Init took: (0.011923s)
+[2024.12.30-16.12.45:465][969]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.12.45:465][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.12.45:465][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.12.45:465][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.12.45:465][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.12.45:465][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.12.45:467][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.12.45:502][969]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.12.45:502][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.12.45:502][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.12.45:502][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.12.45:502][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.12.30-16.12.45:502][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=56
+[2024.12.30-16.12.45:505][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.12.30-16.12.45:505][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.12.30-16.12.45:505][969]LogInit: FAudioDevice initialized with ID 56.
+[2024.12.30-16.12.45:505][969]LogAudio: Display: Audio Device (ID: 56) registered with world 'ArenaMap'.
+[2024.12.30-16.12.45:505][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.12.30-16.12.45:508][969]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.12.45:510][969]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.12.45
+[2024.12.30-16.12.45:510][969]LogWorld: Bringing up level for play took: 0.002442
+[2024.12.30-16.12.45:513][969]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.12.30-16.12.45:519][969]LogStreaming: Display: FlushAsyncLoading(2985,2984,2983,2982,2981,2980,2979,2978,2977,2976,2975,2974,2973,2972,2971,2970,2969,2968,2967,2966,2965,2964,2963,2962,2961,2960,2959,2958,2957,2956,2955,2954,2953,2952,2951,2950,2949,2948,2947,2946,2945,2944): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.12.45:775][969]PIE: Server logged in
+[2024.12.30-16.12.45:776][969]PIE: Play in editor total start time 0,678 seconds.
+[2024.12.30-16.12.49:339][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.12.49:339][134]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.49:350][134]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.12.49:351][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.12.49:351][134]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.12.49:356][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.12.49:362][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.12.49:386][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.12.49:387][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.12.30-16.12.49:387][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.12.30-16.12.49:388][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.12.30-16.12.49:402][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.12.30-16.12.49:514][135]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.12.30-16.12.58:138][563]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.12.58:145][563]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.12.58:145][563]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.12.58:151][563]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.789 ms (total: 345.072 ms)
+[2024.12.30-16.12.58:154][563]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2024.12.30-16.12.58:380][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.30-16.12.58:384][563]LogPlayLevel: PlayLevel: Blueprint regeneration took 232 ms (1 blueprints)
+[2024.12.30-16.12.58:384][563]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.12.58:397][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012869s)
+[2024.12.30-16.12.58:397][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012903s)
+[2024.12.30-16.12.58:415][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.30-16.12.58:417][563]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.12.58:419][563]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.12.58:419][563]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.12.58:419][563]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.12.58:419][563]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.12.58:429][563]LogWorldPartition: Display: WorldPartition initialize took 9.009 ms (total: 1.30 sec)
+[2024.12.30-16.12.58:429][563]LogPlayLevel: PIE: World Init took: (0.010668s)
+[2024.12.30-16.12.58:429][563]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.12.58:429][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.12.58:429][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.12.58:429][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.12.58:429][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.12.58:430][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.12.58:432][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.12.58:465][563]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.12.58:466][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.12.58:466][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.12.58:466][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.12.58:466][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.12.30-16.12.58:466][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=57
+[2024.12.30-16.12.58:468][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.12.30-16.12.58:468][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.12.30-16.12.58:468][563]LogInit: FAudioDevice initialized with ID 57.
+[2024.12.30-16.12.58:468][563]LogAudio: Display: Audio Device (ID: 57) registered with world 'ArenaMap'.
+[2024.12.30-16.12.58:468][563]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.12.30-16.12.58:470][563]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.12.58:472][563]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.12.58
+[2024.12.30-16.12.58:473][563]LogWorld: Bringing up level for play took: 0.002024
+[2024.12.30-16.12.58:475][563]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2024.12.30-16.12.58:483][563]LogStreaming: Display: FlushAsyncLoading(3027,3026,3025,3024,3023,3022,3021,3020,3019,3018,3017,3016,3015,3014,3013,3012,3011,3010,3009,3008,3007,3006,3005,3004,3003,3002,3001,3000,2999,2998,2997,2996,2995,2994,2993,2992,2991,2990,2989,2988,2987,2986): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.12.58:729][563]PIE: Server logged in
+[2024.12.30-16.12.58:730][563]PIE: Play in editor total start time 0,584 seconds.
+[2024.12.30-16.13.00:608][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.13.00:608][648]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.13.00:619][648]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.13.00:620][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.13.00:620][648]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.13.00:625][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.13.00:632][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.13.00:656][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.13.00:657][648]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.12.30-16.13.00:657][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.12.30-16.13.00:659][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.12.30-16.13.00:672][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.12.30-16.13.00:778][649]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2024.12.30-16.13.04:528][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.13.04:534][853]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.13.04:534][853]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.13.04:540][853]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.864 ms (total: 350.936 ms)
+[2024.12.30-16.13.04:542][853]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2024.12.30-16.13.04:755][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.30-16.13.04:760][853]LogPlayLevel: PlayLevel: Blueprint regeneration took 219 ms (1 blueprints)
+[2024.12.30-16.13.04:760][853]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.13.04:773][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012568s)
+[2024.12.30-16.13.04:773][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012602s)
+[2024.12.30-16.13.04:791][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.30-16.13.04:793][853]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.13.04:794][853]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.13.04:795][853]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.13.04:795][853]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.13.04:795][853]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.13.04:804][853]LogWorldPartition: Display: WorldPartition initialize took 9.014 ms (total: 1.31 sec)
+[2024.12.30-16.13.04:804][853]LogPlayLevel: PIE: World Init took: (0.010598s)
+[2024.12.30-16.13.04:805][853]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.13.04:805][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.13.04:805][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.13.04:805][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.13.04:805][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.13.04:805][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.13.04:807][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.13.04:840][853]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.13.04:840][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.13.04:840][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.13.04:840][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.13.04:841][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.12.30-16.13.04:841][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=58
+[2024.12.30-16.13.04:843][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.12.30-16.13.04:843][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.12.30-16.13.04:843][853]LogInit: FAudioDevice initialized with ID 58.
+[2024.12.30-16.13.04:843][853]LogAudio: Display: Audio Device (ID: 58) registered with world 'ArenaMap'.
+[2024.12.30-16.13.04:843][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.12.30-16.13.04:846][853]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.13.04:847][853]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.13.04
+[2024.12.30-16.13.04:849][853]LogWorld: Bringing up level for play took: 0.001998
+[2024.12.30-16.13.04:851][853]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.12.30-16.13.04:858][853]LogStreaming: Display: FlushAsyncLoading(3069,3068,3067,3066,3065,3064,3063,3062,3061,3060,3059,3058,3057,3056,3055,3054,3053,3052,3051,3050,3049,3048,3047,3046,3045,3044,3043,3042,3041,3040,3039,3038,3037,3036,3035,3034,3033,3032,3031,3030,3029,3028): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.13.05:090][853]PIE: Server logged in
+[2024.12.30-16.13.05:091][853]PIE: Play in editor total start time 0,557 seconds.
+[2024.12.30-16.13.07:790][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.13.07:790][996]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.13.07:800][996]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.13.07:801][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.13.07:801][996]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.13.07:806][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.13.07:812][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.13.07:836][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.13.07:837][996]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.12.30-16.13.07:837][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.12.30-16.13.07:839][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.12.30-16.13.07:852][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.30-16.13.07:963][997]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2024.12.30-16.13.35:476][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.30-16.13.35:479][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.023
+[2024.12.30-16.13.35:480][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2024.12.30-16.13.35:488][337]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton]
+[2024.12.30-16.13.35:488][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2024.12.30-16.13.35:490][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto4
+[2024.12.30-16.13.35:490][337]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/UE4_Mannequin_Skeleton_Auto40B80D3CD4813892F8DEFF9946D03EC68.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset'
+[2024.12.30-16.13.35:490][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.13.35:495][337]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.13.35:496][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.13.35:510][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HeroCharacter_Auto4
+[2024.12.30-16.13.35:510][337]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter_Auto48B32738D4BA691940453448E15A9E6C3.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/Blueprints/HeroCharacter_Auto4.uasset'
+[2024.12.30-16.13.35:511][337]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-16.13.35:516][337]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/CharacterAnimBP.CharacterAnimBP]
+[2024.12.30-16.13.35:517][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-16.13.35:534][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/CharacterAnimBP_Auto4
+[2024.12.30-16.13.35:534][337]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBP_Auto4917E08B345E87A3BDDB7FF8087ED4421.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/CharacterAnimBP_Auto4.uasset'
+[2024.12.30-16.13.35:536][337]LogFileHelpers: Auto-saving content packages took 0.057
+[2024.12.30-16.14.22:475][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.14.22:506][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.14.22:506][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.14.22:507][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.14.22:512][811]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.14.22:513][811]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/GunC7DF298543DF6676FF6155AA5C7E385A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.14.22:523][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.551 ms (total: 5.90 sec)
+[2024.12.30-16.14.22:563][811]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.14.22:563][811]LogContentValidation: Enabled validators:
+[2024.12.30-16.14.22:563][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.14.22:563][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.14.22:563][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.14.22:563][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.14.22:563][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.14.22:563][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.14.22:563][811]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.14.24:192][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.14.24:199][895]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.14.24:199][895]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.14.24:205][895]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.761 ms (total: 356.698 ms)
+[2024.12.30-16.14.24:205][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.14.24:205][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.14.24:218][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012461s)
+[2024.12.30-16.14.24:218][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012493s)
+[2024.12.30-16.14.24:236][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-16.14.24:239][895]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.14.24:240][895]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.14.24:240][895]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.14.24:240][895]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.14.24:240][895]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.14.24:249][895]LogWorldPartition: Display: WorldPartition initialize took 8.901 ms (total: 1.32 sec)
+[2024.12.30-16.14.24:249][895]LogPlayLevel: PIE: World Init took: (0.010437s)
+[2024.12.30-16.14.24:250][895]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.14.24:250][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.14.24:250][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.14.24:250][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.14.24:250][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.14.24:250][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.14.24:252][895]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.14.24:286][895]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.14.24:286][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.14.24:286][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.14.24:286][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.14.24:286][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.12.30-16.14.24:286][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=59
+[2024.12.30-16.14.24:290][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.12.30-16.14.24:290][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.12.30-16.14.24:290][895]LogInit: FAudioDevice initialized with ID 59.
+[2024.12.30-16.14.24:290][895]LogAudio: Display: Audio Device (ID: 59) registered with world 'ArenaMap'.
+[2024.12.30-16.14.24:290][895]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.12.30-16.14.24:292][895]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.14.24:294][895]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.14.24
+[2024.12.30-16.14.24:295][895]LogWorld: Bringing up level for play took: 0.001957
+[2024.12.30-16.14.24:297][895]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.12.30-16.14.24:303][895]LogStreaming: Display: FlushAsyncLoading(3111,3110,3109,3108,3107,3106,3105,3104,3103,3102,3101,3100,3099,3098,3097,3096,3095,3094,3093,3092,3091,3090,3089,3088,3087,3086,3085,3084,3083,3082,3081,3080,3079,3078,3077,3076,3075,3074,3073,3072,3071,3070): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.14.24:541][895]PIE: Server logged in
+[2024.12.30-16.14.24:542][895]PIE: Play in editor total start time 0,342 seconds.
+[2024.12.30-16.14.28:178][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.14.28:178][103]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.14.28:190][103]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.14.28:190][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.14.28:191][103]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.14.28:195][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.14.28:202][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.14.28:225][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.14.28:225][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.12.30-16.14.28:225][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.12.30-16.14.28:228][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.12.30-16.14.28:241][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.30-16.14.28:346][104]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.12.30-16.14.31:614][265]LogEditorTransaction: Undo Modify Component Location
+[2024.12.30-16.14.31:944][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-16.14.31:948][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-16.14.35:944][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.14.35:977][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.14.35:978][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.14.35:978][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.14.35:984][448]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.14.35:984][448]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Gun39A9BDFF49A8F77C26BEB5A52C8EF6BF.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.14.35:994][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.505 ms (total: 5.95 sec)
+[2024.12.30-16.14.36:020][448]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.14.36:020][448]LogContentValidation: Enabled validators:
+[2024.12.30-16.14.36:020][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.14.36:020][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.14.36:020][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.14.36:020][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.14.36:020][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.14.36:020][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.14.36:020][448]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.14.38:089][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.14.38:096][557]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.14.38:096][557]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.14.38:103][557]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.322 ms (total: 363.020 ms)
+[2024.12.30-16.14.38:103][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.14.38:103][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.14.38:116][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012641s)
+[2024.12.30-16.14.38:116][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012674s)
+[2024.12.30-16.14.38:134][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.30-16.14.38:137][557]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.14.38:138][557]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.14.38:138][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.14.38:138][557]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.14.38:138][557]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.14.38:148][557]LogWorldPartition: Display: WorldPartition initialize took 8.886 ms (total: 1.32 sec)
+[2024.12.30-16.14.38:148][557]LogPlayLevel: PIE: World Init took: (0.010460s)
+[2024.12.30-16.14.38:149][557]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.14.38:149][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.14.38:149][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.14.38:149][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.14.38:149][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.14.38:149][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.14.38:151][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.14.38:184][557]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.14.38:184][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.14.38:184][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.14.38:184][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.14.38:184][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.12.30-16.14.38:184][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=60
+[2024.12.30-16.14.38:188][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.12.30-16.14.38:188][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.12.30-16.14.38:188][557]LogInit: FAudioDevice initialized with ID 60.
+[2024.12.30-16.14.38:188][557]LogAudio: Display: Audio Device (ID: 60) registered with world 'ArenaMap'.
+[2024.12.30-16.14.38:188][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.12.30-16.14.38:190][557]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.14.38:192][557]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.14.38
+[2024.12.30-16.14.38:192][557]LogWorld: Bringing up level for play took: 0.001993
+[2024.12.30-16.14.38:194][557]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2024.12.30-16.14.38:202][557]LogStreaming: Display: FlushAsyncLoading(3153,3152,3151,3150,3149,3148,3147,3146,3145,3144,3143,3142,3141,3140,3139,3138,3137,3136,3135,3134,3133,3132,3131,3130,3129,3128,3127,3126,3125,3124,3123,3122,3121,3120,3119,3118,3117,3116,3115,3114,3113,3112): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.14.38:469][557]PIE: Server logged in
+[2024.12.30-16.14.38:469][557]PIE: Play in editor total start time 0,372 seconds.
+[2024.12.30-16.14.41:694][746]LogBlueprintUserMessages: [EnemyCharacter_C_7] 80.0
+[2024.12.30-16.14.41:694][746]LogBlueprintUserMessages: [EnemyCharacter_C_1] 80.0
+[2024.12.30-16.14.41:780][751]LogBlueprintUserMessages: [EnemyCharacter_C_1] 60.0
+[2024.12.30-16.14.42:260][780]LogBlueprintUserMessages: [EnemyCharacter_C_8] 80.0
+[2024.12.30-16.14.42:731][808]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-16.14.43:196][836]LogBlueprintUserMessages: [EnemyCharacter_C_8] 60.0
+[2024.12.30-16.14.43:232][838]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-16.14.43:333][844]LogBlueprintUserMessages: [HeroCharacter_C_0] 10.0
+[2024.12.30-16.14.43:738][868]LogBlueprintUserMessages: [HeroCharacter_C_0] -20.0
+[2024.12.30-16.14.43:838][874]LogBlueprintUserMessages: [HeroCharacter_C_0] -50.0
+[2024.12.30-16.14.44:241][897]LogBlueprintUserMessages: [HeroCharacter_C_0] -80.0
+[2024.12.30-16.14.44:337][902]LogBlueprintUserMessages: [HeroCharacter_C_0] -110.0
+[2024.12.30-16.14.44:414][906]LogBlueprintUserMessages: [EnemyCharacter_C_5] 80.0
+[2024.12.30-16.14.44:479][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.14.44:479][908]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.14.44:491][908]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.14.44:492][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.14.44:492][908]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.14.44:497][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.14.44:504][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.14.44:531][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.14.44:531][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.12.30-16.14.44:531][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.12.30-16.14.44:533][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.12.30-16.14.44:550][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.12.30-16.14.44:669][909]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.12.30-16.14.51:378][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.14.51:385][258]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.14.51:385][258]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.14.51:391][258]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.911 ms (total: 368.932 ms)
+[2024.12.30-16.14.51:392][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.14.51:392][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.14.51:404][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012453s)
+[2024.12.30-16.14.51:404][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012484s)
+[2024.12.30-16.14.51:422][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.30-16.14.51:425][258]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.14.51:426][258]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.14.51:426][258]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.14.51:426][258]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.14.51:426][258]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.14.51:436][258]LogWorldPartition: Display: WorldPartition initialize took 8.876 ms (total: 1.33 sec)
+[2024.12.30-16.14.51:436][258]LogPlayLevel: PIE: World Init took: (0.010415s)
+[2024.12.30-16.14.51:436][258]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.14.51:436][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.14.51:436][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.14.51:436][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.14.51:436][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.14.51:436][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.14.51:439][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.14.51:471][258]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.14.51:471][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.14.51:471][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.14.51:471][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.14.51:472][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2024.12.30-16.14.51:472][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=61
+[2024.12.30-16.14.51:474][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2024.12.30-16.14.51:474][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2024.12.30-16.14.51:474][258]LogInit: FAudioDevice initialized with ID 61.
+[2024.12.30-16.14.51:474][258]LogAudio: Display: Audio Device (ID: 61) registered with world 'ArenaMap'.
+[2024.12.30-16.14.51:474][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2024.12.30-16.14.51:476][258]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.14.51:479][258]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.14.51
+[2024.12.30-16.14.51:479][258]LogWorld: Bringing up level for play took: 0.002088
+[2024.12.30-16.14.51:482][258]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.12.30-16.14.51:488][258]LogStreaming: Display: FlushAsyncLoading(3195,3194,3193,3192,3191,3190,3189,3188,3187,3186,3185,3184,3183,3182,3181,3180,3179,3178,3177,3176,3175,3174,3173,3172,3171,3170,3169,3168,3167,3166,3165,3164,3163,3162,3161,3160,3159,3158,3157,3156,3155,3154): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.14.51:759][258]PIE: Server logged in
+[2024.12.30-16.14.51:759][258]PIE: Play in editor total start time 0,374 seconds.
+[2024.12.30-16.14.55:823][491]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 80.0
+[2024.12.30-16.14.56:640][540]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 60.0
+[2024.12.30-16.14.56:762][547]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 40.0
+[2024.12.30-16.14.56:867][553]LogBlueprintUserMessages: [EnemyCharacter_C_UAID_0C9D9211CF028C3D02_1536560556] 20.0
+[2024.12.30-16.14.58:237][632]LogBlueprintUserMessages: [EnemyCharacter_C_7] 80.0
+[2024.12.30-16.14.58:426][643]LogBlueprintUserMessages: [EnemyCharacter_C_2] 80.0
+[2024.12.30-16.14.58:528][649]LogBlueprintUserMessages: [EnemyCharacter_C_6] 80.0
+[2024.12.30-16.14.58:918][672]LogBlueprintUserMessages: [EnemyCharacter_C_5] 80.0
+[2024.12.30-16.14.59:240][691]LogBlueprintUserMessages: [EnemyCharacter_C_8] 80.0
+[2024.12.30-16.15.04:909][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.15.04:909][ 24]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.15.04:918][ 24]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.15.04:919][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.15.04:919][ 24]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.15.04:925][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.15.04:931][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.15.04:955][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.15.04:955][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2024.12.30-16.15.04:955][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.12.30-16.15.04:958][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.12.30-16.15.04:972][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.12.30-16.15.05:081][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.12.30-16.15.09:696][267]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.15.09:704][267]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.15.09:704][267]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.15.09:709][267]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.952 ms (total: 374.885 ms)
+[2024.12.30-16.15.09:709][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.15.09:710][267]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.15.09:723][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012784s)
+[2024.12.30-16.15.09:723][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012816s)
+[2024.12.30-16.15.09:741][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-16.15.09:743][267]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.15.09:745][267]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.15.09:745][267]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.15.09:745][267]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.15.09:745][267]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.15.09:754][267]LogWorldPartition: Display: WorldPartition initialize took 8.885 ms (total: 1.34 sec)
+[2024.12.30-16.15.09:754][267]LogPlayLevel: PIE: World Init took: (0.010524s)
+[2024.12.30-16.15.09:755][267]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.15.09:755][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.15.09:755][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.15.09:755][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.15.09:755][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.15.09:755][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.15.09:756][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.15.09:790][267]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.15.09:790][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.15.09:790][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.15.09:790][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.15.09:790][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2024.12.30-16.15.09:790][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=62
+[2024.12.30-16.15.09:793][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2024.12.30-16.15.09:793][267]LogInit: FAudioDevice initialized with ID 62.
+[2024.12.30-16.15.09:793][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2024.12.30-16.15.09:793][267]LogAudio: Display: Audio Device (ID: 62) registered with world 'ArenaMap'.
+[2024.12.30-16.15.09:793][267]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2024.12.30-16.15.09:796][267]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.15.09:798][267]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.15.09
+[2024.12.30-16.15.09:798][267]LogWorld: Bringing up level for play took: 0.001922
+[2024.12.30-16.15.09:800][267]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.12.30-16.15.09:807][267]LogStreaming: Display: FlushAsyncLoading(3237,3236,3235,3234,3233,3232,3231,3230,3229,3228,3227,3226,3225,3224,3223,3222,3221,3220,3219,3218,3217,3216,3215,3214,3213,3212,3211,3210,3209,3208,3207,3206,3205,3204,3203,3202,3201,3200,3199,3198,3197,3196): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.15.10:075][267]PIE: Server logged in
+[2024.12.30-16.15.10:076][267]PIE: Play in editor total start time 0,373 seconds.
+[2024.12.30-16.15.13:700][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.15.13:700][478]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.15.13:710][478]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.15.13:711][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.15.13:712][478]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.15.13:716][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.15.13:723][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.15.13:747][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.15.13:747][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2024.12.30-16.15.13:747][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.12.30-16.15.13:749][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.12.30-16.15.13:762][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.12.30-16.15.13:871][479]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.12.30-16.15.18:676][730]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.15.18:683][730]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.15.18:683][730]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.15.18:689][730]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 5.881 ms (total: 380.766 ms)
+[2024.12.30-16.15.18:689][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.15.18:689][730]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.15.18:701][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012436s)
+[2024.12.30-16.15.18:701][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012470s)
+[2024.12.30-16.15.18:720][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.30-16.15.18:723][730]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.15.18:724][730]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.15.18:724][730]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.15.18:724][730]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.15.18:724][730]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.15.18:734][730]LogWorldPartition: Display: WorldPartition initialize took 8.901 ms (total: 1.35 sec)
+[2024.12.30-16.15.18:734][730]LogPlayLevel: PIE: World Init took: (0.010444s)
+[2024.12.30-16.15.18:734][730]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2024.12.30-16.15.18:734][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.15.18:735][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.15.18:735][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.15.18:735][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.15.18:735][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.15.18:735][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.15.18:735][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.15.18:735][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.15.18:735][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.15.18:735][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.15.18:735][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.15.18:736][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.15.18:769][730]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.15.18:770][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.15.18:770][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.15.18:770][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.15.18:770][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2024.12.30-16.15.18:770][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=63
+[2024.12.30-16.15.18:773][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2024.12.30-16.15.18:773][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2024.12.30-16.15.18:773][730]LogInit: FAudioDevice initialized with ID 63.
+[2024.12.30-16.15.18:773][730]LogAudio: Display: Audio Device (ID: 63) registered with world 'ArenaMap'.
+[2024.12.30-16.15.18:773][730]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2024.12.30-16.15.18:775][730]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.15.18:778][730]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.15.18
+[2024.12.30-16.15.18:778][730]LogWorld: Bringing up level for play took: 0.002009
+[2024.12.30-16.15.18:780][730]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.12.30-16.15.18:787][730]LogStreaming: Display: FlushAsyncLoading(3279,3278,3277,3276,3275,3274,3273,3272,3271,3270,3269,3268,3267,3266,3265,3264,3263,3262,3261,3260,3259,3258,3257,3256,3255,3254,3253,3252,3251,3250,3249,3248,3247,3246,3245,3244,3243,3242,3241,3240,3239,3238): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.15.19:056][730]PIE: Server logged in
+[2024.12.30-16.15.19:057][730]PIE: Play in editor total start time 0,374 seconds.
+[2024.12.30-16.15.22:134][899]LogBlueprintUserMessages: [EnemyCharacter_C_0] 80.0
+[2024.12.30-16.15.22:654][930]LogBlueprintUserMessages: [EnemyCharacter_C_1] 80.0
+[2024.12.30-16.15.22:805][939]LogBlueprintUserMessages: [EnemyCharacter_C_0] 60.0
+[2024.12.30-16.15.22:805][939]LogBlueprintUserMessages: [EnemyCharacter_C_1] 60.0
+[2024.12.30-16.15.22:972][949]LogBlueprintUserMessages: [EnemyCharacter_C_0] 40.0
+[2024.12.30-16.15.22:989][950]LogBlueprintUserMessages: [EnemyCharacter_C_1] 40.0
+[2024.12.30-16.15.23:318][970]LogBlueprintUserMessages: [EnemyCharacter_C_6] 80.0
+[2024.12.30-16.15.23:516][982]LogBlueprintUserMessages: [EnemyCharacter_C_1] 20.0
+[2024.12.30-16.15.23:708][993]LogBlueprintUserMessages: [EnemyCharacter_C_1] 0.0
+[2024.12.30-16.15.24:366][ 33]LogBlueprintUserMessages: [EnemyCharacter_C_0] 20.0
+[2024.12.30-16.15.25:139][ 79]LogBlueprintUserMessages: [EnemyCharacter_C_3] 80.0
+[2024.12.30-16.15.25:275][ 87]LogBlueprintUserMessages: [EnemyCharacter_C_3] 60.0
+[2024.12.30-16.15.25:461][ 98]LogBlueprintUserMessages: [EnemyCharacter_C_3] 40.0
+[2024.12.30-16.15.25:513][101]LogBlueprintUserMessages: [EnemyCharacter_C_6] 60.0
+[2024.12.30-16.15.25:615][107]LogBlueprintUserMessages: [EnemyCharacter_C_3] 20.0
+[2024.12.30-16.15.25:901][124]LogBlueprintUserMessages: [EnemyCharacter_C_2] 80.0
+[2024.12.30-16.15.26:071][134]LogBlueprintUserMessages: [EnemyCharacter_C_2] 60.0
+[2024.12.30-16.15.26:450][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.15.26:450][154]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.15.26:458][154]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.15.26:459][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.15.26:460][154]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.15.26:464][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.15.26:471][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.15.26:496][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.15.26:497][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2024.12.30-16.15.26:497][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.12.30-16.15.26:498][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.12.30-16.15.26:512][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.12.30-16.15.26:621][155]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.12.30-16.15.35:503][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-16.15.39:332][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.15.39:364][822]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Gun] ([2] browsable assets)...
+[2024.12.30-16.15.39:371][822]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Gun.Gun]
+[2024.12.30-16.15.39:371][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gun]
+[2024.12.30-16.15.39:371][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gun" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset" SILENT=true
+[2024.12.30-16.15.39:377][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Gun
+[2024.12.30-16.15.39:378][822]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Gun156D143E4A66E19D98809AA548297CCB.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/Gun.uasset'
+[2024.12.30-16.15.39:388][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.679 ms (total: 6.01 sec)
+[2024.12.30-16.15.39:426][822]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.15.39:426][822]LogContentValidation: Enabled validators:
+[2024.12.30-16.15.39:426][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.15.39:426][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.15.39:426][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.15.39:426][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.15.39:426][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.15.39:427][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.15.39:427][822]AssetCheck: /Game/Blueprints/Gun Validating asset
+[2024.12.30-16.16.48:828][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.16.48:880][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/CharacterAnimBP] ([2] browsable assets)...
+[2024.12.30-16.16.48:881][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/CharacterAnimBP]
+[2024.12.30-16.16.48:900][756]LogSavePackage: Moving output files for package: /Game/AnimationAssets/CharacterAnimBP
+[2024.12.30-16.16.48:901][756]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/CharacterAnimBPD66C4836453070ECD2923099E19C8ECC.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/CharacterAnimBP.uasset'
+[2024.12.30-16.16.48:913][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.556 ms (total: 6.09 sec)
+[2024.12.30-16.16.48:951][756]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.16.48:951][756]LogContentValidation: Enabled validators:
+[2024.12.30-16.16.48:951][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.16.48:951][756]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.16.48:951][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.16.48:951][756]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.16.48:951][756]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.16.48:951][756]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.16.48:951][756]AssetCheck: /Game/AnimationAssets/CharacterAnimBP Validating asset
+[2024.12.30-16.17.24:951][768]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.12.30-16.17.24:984][768]LogAutomationController: Ignoring very large delta of 5.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-16.17.41:398][ 42]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.12.30-16.17.41:419][ 42]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2024.12.30-16.17.41:430][ 42]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2024.12.30-16.17.41:433][ 42]LogAutomationController: Ignoring very large delta of 11.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-16.17.41:445][ 43]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2024.12.30-16.17.50:768][693]LogContentBrowser: Attempting asset rename: NewBlendSpace -> EnemyBlend
+[2024.12.30-16.17.50:779][693]LogContentBrowser: End creating deferred item NewBlendSpace
+[2024.12.30-16.17.52:929][830]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimationAssets/EnemyBlend.EnemyBlend
+[2024.12.30-16.18.14:751][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.18.14:782][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/EnemyBlend] ([1] browsable assets)...
+[2024.12.30-16.18.14:790][763]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/EnemyBlend.EnemyBlend]
+[2024.12.30-16.18.14:790][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyBlend]
+[2024.12.30-16.18.14:790][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset" SILENT=true
+[2024.12.30-16.18.14:791][763]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyBlend
+[2024.12.30-16.18.14:792][763]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyBlend8052D5D541404AB5F3D8808A12D8344B.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset'
+[2024.12.30-16.18.14:810][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.006 ms (total: 6.15 sec)
+[2024.12.30-16.18.14:845][763]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.18.14:845][763]LogContentValidation: Enabled validators:
+[2024.12.30-16.18.14:845][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.18.14:845][763]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.18.14:845][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.18.14:845][763]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.18.14:845][763]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.18.14:845][763]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.18.14:845][763]AssetCheck: /Game/AnimationAssets/EnemyBlend Validating asset
+[2024.12.30-16.18.22:069][ 84]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.18.22:069][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.18.22:214][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.30-16.19.07:062][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.19.07:089][214]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/EnemyBlend] ([1] browsable assets)...
+[2024.12.30-16.19.07:096][214]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/EnemyBlend.EnemyBlend]
+[2024.12.30-16.19.07:096][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyBlend]
+[2024.12.30-16.19.07:096][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset" SILENT=true
+[2024.12.30-16.19.07:099][214]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyBlend
+[2024.12.30-16.19.07:099][214]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyBlendE7DFA96D44DD3DA03B7479B10547D403.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset'
+[2024.12.30-16.19.07:110][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.166 ms (total: 6.20 sec)
+[2024.12.30-16.19.07:145][214]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.19.07:145][214]LogContentValidation: Enabled validators:
+[2024.12.30-16.19.07:145][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.19.07:145][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.19.07:145][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.19.07:145][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.19.07:145][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.19.07:145][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.19.07:145][214]AssetCheck: /Game/AnimationAssets/EnemyBlend Validating asset
+[2024.12.30-16.19.18:223][706]LogStreaming: Display: FlushAsyncLoading(3280): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.19.18:230][706]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Enemy_Idle.Enemy_Idle (Required Memory Estimate: 1.14 MB)
+[2024.12.30-16.19.18:248][706]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Enemy_Idle.Enemy_Idle, at AnimationSequence/8f6dd8a600966079e7a5827ea75db04f062ea31b
+[2024.12.30-16.19.27:308][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16665.083984
+[2024.12.30-16.19.27:504][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.19.27:504][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16665.251953, Update Interval: 323.300873
+[2024.12.30-16.19.32:621][338]LogStreaming: Display: FlushAsyncLoading(3281): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.19.32:626][338]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimationAssets/Enemy_Walk.Enemy_Walk (Required Memory Estimate: 0.49 MB)
+[2024.12.30-16.19.32:635][338]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimationAssets/Enemy_Walk.Enemy_Walk, at AnimationSequence/384257eaf0e79e622863dd6961641a3d62d64197
+[2024.12.30-16.20.37:281][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.20.37:316][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/EnemyBlend] ([1] browsable assets)...
+[2024.12.30-16.20.37:325][154]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/EnemyBlend.EnemyBlend]
+[2024.12.30-16.20.37:325][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyBlend]
+[2024.12.30-16.20.37:325][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyBlend" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset" SILENT=true
+[2024.12.30-16.20.37:327][154]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyBlend
+[2024.12.30-16.20.37:327][154]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyBlend6EA4FABF41A18A47EE0C1C9724DDE833.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyBlend.uasset'
+[2024.12.30-16.20.37:338][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.356 ms (total: 6.26 sec)
+[2024.12.30-16.20.37:372][154]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.20.37:372][154]LogContentValidation: Enabled validators:
+[2024.12.30-16.20.37:372][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.20.37:372][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.20.37:372][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.20.37:372][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.20.37:372][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.20.37:372][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.20.37:372][154]AssetCheck: /Game/AnimationAssets/EnemyBlend Validating asset
+[2024.12.30-16.21.05:374][184]LogSlate: Window 'Compatible Skeleton for Animation Blueprint' being destroyed
+[2024.12.30-16.21.05:383][184]LogContentBrowser: Deferred new asset file creation: CharacterAnimBP_Child
+[2024.12.30-16.21.05:413][184]LogContentBrowser: Creating deferred item: CharacterAnimBP_Child
+[2024.12.30-16.21.05:420][184]LogAutomationController: Ignoring very large delta of 12.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.30-16.21.05:448][185]LogContentBrowser: Renaming the item being created (Deferred Item: CharacterAnimBP_Child).
+[2024.12.30-16.21.19:786][214]LogContentBrowser: Attempting asset rename: CharacterAnimBP_Child -> EnemyAnimBP
+[2024.12.30-16.21.19:803][214]LogContentBrowser: End creating deferred item CharacterAnimBP_Child
+[2024.12.30-16.21.19:804][214]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2024.12.30-16.21.23:220][446]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/EnemyAnimBP.EnemyAnimBP
+[2024.12.30-16.21.23:221][446]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2024.12.30-16.21.23:228][446]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2024.12.30-16.21.23:235][446]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.30-16.21.23:592][446]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2024.12.30-16.23.08:614][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.30-16.23.45:426][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.23.45:459][387]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([2] browsable assets)...
+[2024.12.30-16.23.45:466][387]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2024.12.30-16.23.45:466][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2024.12.30-16.23.45:466][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2024.12.30-16.23.45:480][387]LogSavePackage: Moving output files for package: /Game/Blueprints/HeroCharacter
+[2024.12.30-16.23.45:480][387]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/HeroCharacter19BC4F7C47073AD7D4B25CBE0AEC3223.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/HeroCharacter.uasset'
+[2024.12.30-16.23.45:492][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.044 ms (total: 6.32 sec)
+[2024.12.30-16.23.45:530][387]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.23.45:530][387]LogContentValidation: Enabled validators:
+[2024.12.30-16.23.45:530][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.23.45:530][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.23.45:530][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.23.45:530][387]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.23.45:530][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.23.45:530][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.23.45:530][387]AssetCheck: /Game/Blueprints/HeroCharacter Validating asset
+[2024.12.30-16.24.06:694][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-16.24.07:535][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.24.07:576][481]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.24.07:584][481]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter]
+[2024.12.30-16.24.07:584][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.24.07:584][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.24.07:595][481]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.24.07:595][481]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacterB352998B48B36A8176D0C49C849D9AFA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.24.07:607][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.423 ms (total: 6.39 sec)
+[2024.12.30-16.24.07:642][481]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.24.07:642][481]LogContentValidation: Enabled validators:
+[2024.12.30-16.24.07:642][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.24.07:642][481]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.24.07:642][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.24.07:642][481]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.24.07:642][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.24.07:642][481]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.24.07:642][481]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.24.08:559][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.24.08:591][525]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimationAssets/EnemyAnimBP] ([2] browsable assets)...
+[2024.12.30-16.24.08:599][525]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/EnemyAnimBP.EnemyAnimBP]
+[2024.12.30-16.24.08:599][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/EnemyAnimBP]
+[2024.12.30-16.24.08:600][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/EnemyAnimBP" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyAnimBP.uasset" SILENT=true
+[2024.12.30-16.24.08:603][525]LogSavePackage: Moving output files for package: /Game/AnimationAssets/EnemyAnimBP
+[2024.12.30-16.24.08:603][525]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyAnimBP3A553C054B2C2F36D26CE9B267E4AD45.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/AnimationAssets/EnemyAnimBP.uasset'
+[2024.12.30-16.24.08:625][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.822 ms (total: 6.46 sec)
+[2024.12.30-16.24.08:663][525]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.24.08:663][525]LogContentValidation: Enabled validators:
+[2024.12.30-16.24.08:663][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.24.08:663][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.24.08:663][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.24.08:663][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.24.08:663][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.24.08:663][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.24.08:663][525]AssetCheck: /Game/AnimationAssets/EnemyAnimBP Validating asset
+[2024.12.30-16.24.40:631][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.30-16.24.40:635][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArenaMap' took 0.026
+[2024.12.30-16.24.40:636][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin] ([1] browsable assets)...
+[2024.12.30-16.24.40:695][ 29]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin]
+[2024.12.30-16.24.40:695][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin]
+[2024.12.30-16.24.40:745][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin_Auto5
+[2024.12.30-16.24.40:746][ 29]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/SK_Mannequin_Auto5F8D7F3D841788D8CE1650DAB63FFD506.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin_Auto5.uasset'
+[2024.12.30-16.24.40:746][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2024.12.30-16.24.40:746][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2024.12.30-16.24.40:747][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto5
+[2024.12.30-16.24.40:747][ 29]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/UE4_Mannequin_Skeleton_Auto59122651B44ED3B5C1ED121B0138005FA.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto5.uasset'
+[2024.12.30-16.24.40:748][ 29]LogFileHelpers: Auto-saving content packages took 0.113
+[2024.12.30-16.25.43:936][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17041.931641
+[2024.12.30-16.25.44:927][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-16.25.44:928][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17042.591797, Update Interval: 317.657410
+[2024.12.30-16.26.30:117][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.26.30:154][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.26.30:162][585]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter]
+[2024.12.30-16.26.30:162][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.26.30:162][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.26.30:173][585]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.26.30:173][585]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacter292A9722468B6F3BD7827692C868C444.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.26.30:185][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.422 ms (total: 6.53 sec)
+[2024.12.30-16.26.30:219][585]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.26.30:219][585]LogContentValidation: Enabled validators:
+[2024.12.30-16.26.30:219][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.26.30:219][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.26.30:219][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.26.30:219][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.26.30:219][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.26.30:219][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.26.30:219][585]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.26.30:929][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.30-16.30.21:700][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.30-16.30.22:305][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-16.30.22:342][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyCharacter] ([2] browsable assets)...
+[2024.12.30-16.30.22:350][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter]
+[2024.12.30-16.30.22:350][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyCharacter]
+[2024.12.30-16.30.22:350][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCharacter" FILE="../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2024.12.30-16.30.22:362][876]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyCharacter
+[2024.12.30-16.30.22:362][876]LogSavePackage: Moving '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Saved/EnemyCharacter0EAC877D43A5900B588D6E9B5B30FD8A.tmp' to '../../../../../Peliohjelmointi/UE_TwinStick/UE_TwinStick/PeliohjelmointiFinal/Content/Blueprints/EnemyCharacter.uasset'
+[2024.12.30-16.30.22:376][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.360 ms (total: 6.60 sec)
+[2024.12.30-16.30.22:410][876]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-16.30.22:410][876]LogContentValidation: Enabled validators:
+[2024.12.30-16.30.22:410][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-16.30.22:410][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-16.30.22:410][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-16.30.22:410][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-16.30.22:410][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-16.30.22:410][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-16.30.22:411][876]AssetCheck: /Game/Blueprints/EnemyCharacter Validating asset
+[2024.12.30-16.30.46:329][ 12]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.30-16.30.46:337][ 12]LogContentBundle: [ArenaMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.30-16.30.46:337][ 12]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' started...
+[2024.12.30-16.30.46:344][ 12]LogWorldPartition: Display: GenerateStreaming for 'ArenaMap' took 6.632 ms (total: 387.399 ms)
+[2024.12.30-16.30.46:344][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.30-16.30.46:389][ 12]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.30.46:402][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012643s)
+[2024.12.30-16.30.46:402][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.012682s)
+[2024.12.30-16.30.46:421][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.30-16.30.46:423][ 12]LogChaosDD: Creating Chaos Debug Draw Scene for world ArenaMap
+[2024.12.30-16.30.46:425][ 12]LogWorldPartition: ULevel::OnLevelLoaded(ArenaMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.30-16.30.46:425][ 12]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.30-16.30.46:425][ 12]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.30-16.30.46:425][ 12]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.30-16.30.46:433][ 12]LogWorldPartition: Display: WorldPartition initialize took 8.919 ms (total: 1.36 sec)
+[2024.12.30-16.30.46:433][ 12]LogPlayLevel: PIE: World Init took: (0.010706s)
+[2024.12.30-16.30.46:434][ 12]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.30-16.30.46:434][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.30-16.30.46:434][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.30-16.30.46:434][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.30-16.30.46:434][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.30-16.30.46:434][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.30-16.30.46:437][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.30-16.30.46:470][ 12]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2024.12.30-16.30.46:471][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.30-16.30.46:471][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.30-16.30.46:471][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.30-16.30.46:471][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2024.12.30-16.30.46:471][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=64
+[2024.12.30-16.30.46:474][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2024.12.30-16.30.46:474][ 12]LogInit: FAudioDevice initialized with ID 64.
+[2024.12.30-16.30.46:474][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2024.12.30-16.30.46:474][ 12]LogAudio: Display: Audio Device (ID: 64) registered with world 'ArenaMap'.
+[2024.12.30-16.30.46:474][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2024.12.30-16.30.46:477][ 12]LogLoad: Game class is 'TwinStickMode_C'
+[2024.12.30-16.30.46:479][ 12]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2024.12.30-18.30.46
+[2024.12.30-16.30.46:479][ 12]LogWorld: Bringing up level for play took: 0.002016
+[2024.12.30-16.30.46:482][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.12.30-16.30.46:489][ 12]LogStreaming: Display: FlushAsyncLoading(3323,3322,3321,3320,3319,3318,3317,3316,3315,3314,3313,3312,3311,3310,3309,3308,3307,3306,3305,3304,3303,3302,3301,3300,3299,3298,3297,3296,3295,3294,3293,3292,3291,3290,3289,3288,3287,3286,3285,3284,3283,3282): 42 QueuedPackages, 0 AsyncPackages
+[2024.12.30-16.30.46:775][ 12]PIE: Server logged in
+[2024.12.30-16.30.46:776][ 12]PIE: Play in editor total start time 0,439 seconds.
+[2024.12.30-16.30.50:053][282]LogBlueprintUserMessages: [EnemyCharacter_C_3] 80.0
+[2024.12.30-16.30.50:185][293]LogBlueprintUserMessages: [EnemyCharacter_C_3] 60.0
+[2024.12.30-16.30.50:295][302]LogBlueprintUserMessages: [EnemyCharacter_C_3] 40.0
+[2024.12.30-16.30.50:412][312]LogBlueprintUserMessages: [EnemyCharacter_C_3] 20.0
+[2024.12.30-16.30.50:527][322]LogBlueprintUserMessages: [EnemyCharacter_C_3] 0.0
+[2024.12.30-16.30.51:481][403]LogBlueprintUserMessages: [HeroCharacter_C_0] 70.0
+[2024.12.30-16.30.51:987][446]LogBlueprintUserMessages: [HeroCharacter_C_0] 40.0
+[2024.12.30-16.30.52:439][482]LogBlueprintUserMessages: [HeroCharacter_C_0] 10.0
+[2024.12.30-16.30.52:480][485]LogBlueprintUserMessages: [HeroCharacter_C_0] -20.0
+[2024.12.30-16.30.52:928][517]LogBlueprintUserMessages: [HeroCharacter_C_0] -50.0
+[2024.12.30-16.30.52:982][521]LogBlueprintUserMessages: [HeroCharacter_C_0] -80.0
+[2024.12.30-16.30.53:489][563]LogBlueprintUserMessages: [HeroCharacter_C_0] -110.0
+[2024.12.30-16.30.53:540][567]LogBlueprintUserMessages: [HeroCharacter_C_0] -140.0
+[2024.12.30-16.30.53:735][582]LogBlueprintUserMessages: [HeroCharacter_C_0] -170.0
+[2024.12.30-16.30.53:747][583]LogBlueprintUserMessages: [HeroCharacter_C_0] -200.0
+[2024.12.30-16.30.53:988][602]LogBlueprintUserMessages: [HeroCharacter_C_0] -230.0
+[2024.12.30-16.30.54:037][606]LogBlueprintUserMessages: [HeroCharacter_C_0] -260.0
+[2024.12.30-16.30.54:227][621]LogBlueprintUserMessages: [HeroCharacter_C_0] -290.0
+[2024.12.30-16.30.54:238][622]LogBlueprintUserMessages: [HeroCharacter_C_0] -320.0
+[2024.12.30-16.30.54:481][643]LogBlueprintUserMessages: [HeroCharacter_C_0] -350.0
+[2024.12.30-16.30.54:537][648]LogBlueprintUserMessages: [HeroCharacter_C_0] -380.0
+[2024.12.30-16.30.54:721][664]LogBlueprintUserMessages: [HeroCharacter_C_0] -410.0
+[2024.12.30-16.30.54:746][666]LogBlueprintUserMessages: [HeroCharacter_C_0] -440.0
+[2024.12.30-16.30.54:985][687]LogBlueprintUserMessages: [HeroCharacter_C_0] -470.0
+[2024.12.30-16.30.55:042][692]LogBlueprintUserMessages: [HeroCharacter_C_0] -500.0
+[2024.12.30-16.30.55:228][708]LogBlueprintUserMessages: [HeroCharacter_C_0] -530.0
+[2024.12.30-16.30.55:239][709]LogBlueprintUserMessages: [HeroCharacter_C_0] -560.0
+[2024.12.30-16.30.55:489][731]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.30.55:536][735]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_4
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0030
+[2024.12.30-16.30.55:536][735]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.30.55:723][751]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_8
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0030
+[2024.12.30-16.30.55:723][751]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.30.55:737][752]LogScript: Warning: Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_6
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0030
+[2024.12.30-16.30.55:737][752]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.30.55:981][772]PIE: Error: Blueprint Runtime Error: "Attempted to access HeroCharacter_C_0 via property Hero, but HeroCharacter_C_0 is not valid (pending kill or garbage)". Node:  AffectHealth Graph:  EventGraph Function:  Execute Ubergraph Enemy Character Blueprint:  EnemyCharacter
+[2024.12.30-16.30.56:010][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.30.56:010][772]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArenaMap
+[2024.12.30-16.30.56:021][772]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-16.30.56:022][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.30.56:022][772]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ArenaMap.ArenaMap
+[2024.12.30-16.30.56:027][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.30-16.30.56:033][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-16.30.56:057][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.30-16.30.56:057][772]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2024.12.30-16.30.56:057][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.12.30-16.30.56:059][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.12.30-16.30.56:064][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.30-16.30.56:074][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.12.30-16.30.56:342][773]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.12.30-16.30.58:748][931]LogSlate: Window 'Message Log' being destroyed
+[2024.12.30-16.30.58:764][931]LogSlate: Window 'Message Log' being destroyed
