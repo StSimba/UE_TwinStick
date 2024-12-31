@@ -20,7 +20,9 @@ Installation:
 5. Select the .uproject file
 6. Click open.
 7. Wait for Unreal to finish.
-8. Play
+8. Select the content drawer from the bottom left of the screen.
+9. Double click on the MainMenuMap level
+10. Press play
 
 
 Objective: Shoot at enemies and don't let them hit you
