@@ -11,7 +11,8 @@ Recommended Unreal engine version: 5.5.1
 
 Game name: TBA
 
-Installation: 
+Installation:
+
 0. Download the .ZIP archive from the releases tab.
 1. Extract the ZIP archive with the tool of your choice.
 2. Open Unreal Engine
