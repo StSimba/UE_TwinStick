@@ -1,6 +1,7 @@
 # UE_TwinStick / Harjoitustyö_2
 
-Based on the: BP Twin Stick Shooter video tutorial series by Unreal enine
+Based on the: BP Twin Stick Shooter video tutorial series by Unreal enine.
+
 https://www.youtube.com/watch?v=1pmPb_TWG-8&list=PLZlv_N0_O1gb5sdygbSiEU7hb0eomNLdq
 
 This repository includes the assets provided by Unreal Engine for the tutorials and the starter pack included in the Unreal engine itself.
