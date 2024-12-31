@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeliohjelmointiFinalModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e43ad39fa52a6ca253eeecea6d6934f22c01614")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aeb0d3a94e4263191b326f89a36fc74b829a161")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeliohjelmointiFinalModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeliohjelmointiFinalModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
